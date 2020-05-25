@@ -1,12 +1,12 @@
 ---
-title: Documentations
-description: This is a documentation page.
-permalink: /docs1/
+title: Playbook
+description: This is a main page.
+permalink: /
 
 layout: post
 sidenav: docs
 subnav:
-  - text: Section one!
+  - text: Play One
     href: '#play-one'
   - text: Section two
     href: '#section-two'
@@ -14,9 +14,9 @@ subnav:
     href: '#section-three'
 ---
 
-## Section one
+## Play One
 
-This is some great! [content](https://18f.gsa.gov/).
+This is some great [content](play1.md).
 
 ### Section two
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /theme1/
+permalink: /theme/
 ---
 # Links
 
