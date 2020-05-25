@@ -56,7 +56,6 @@ docs:
     links: footer
   - text: Principles
     href: /principles
-    external: true
   - text: Patterns
     href: /patterns
 

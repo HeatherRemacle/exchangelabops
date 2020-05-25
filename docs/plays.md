@@ -29,40 +29,40 @@ subnav:
                       
 ---
 ## Theme One
-Info on Theme One
+Preparing Your Runway for Success
 
 ### Play One
 
-Info on [Play One](/play1).
+Ideate solutions that meet a business need. [Play One](/play1).
 
 ### Play Two
 
-Info on [Play Two](/play2).
+Successfully navigate the CITZ IM/IT Project Intake Process. [Play Two](/play2).
 
 ### Play Three
 
-Info on [Play Three](/play3)..
+Getting started to develop your solution. [Play Three](/play3)..
 
 ## Theme Two
 
-Info on Theme Two
+Highly Productive Teams
 
 ### Play Four
 
-Info on [Play Four](/play4).
+Solution Development - Methodologies and Frameworks. [Play Four](/play4).
 
 ### Play Five
 
-Info on [Play Five](/play5).
+Continuously develop and deliver. [Play Five](/play5).
 
 ## Theme Three
 
-Info on Theme Three
+Pathway to Sustainability
 
 ### Play Six
 
-Info on [Play Six](/play6).
+Retaining knowledge as project resources leave. [Play Six](/play6).
 
 ### Play Seven
 
-Info on [Play Seven](/play7).
+Transition for product sustainment. [Play Seven](/play7).

@@ -1,12 +1,12 @@
 .usa-footer-primary-section {
-  @if variable-exists(primary-footer-bg) {
-    background-color: $primary-footer-bg;
-  }
+  
+    background-color: #073366;
+  
 
   .usa-footer-primary-link {
-    @if variable-exists(primary-footer-link) {
-      color: $primary-footer-link;
-    }
+   
+      color: white;
+    
   }
 }
 
