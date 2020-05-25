@@ -1,7 +1,7 @@
 ---
-title: Play Three
+title: Patterns
 description: This is a main page.
-permalink: /play3
+permalink: /patterns
 
 layout: post
 sidenav: docs

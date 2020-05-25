@@ -1,9 +1,9 @@
 
 .usa-header {
   .usa-nav {
-    @if variable-exists(top-nav-bg) {
-      background-color: $top-nav-bg;
-    }
+      // lower nav color
+      background-color: #395A8A;
+    
   }
 
   .usa-nav-primary {
@@ -18,9 +18,7 @@
 
     .usa-nav-link {
       span {
-        @if variable-exists(top-nav-link) {
-          color: $top-nav-link;
-        }
+          color: white;
       }
 
       &:hover {

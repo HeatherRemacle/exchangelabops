@@ -29,9 +29,9 @@
 
   .usa-nav-secondary-links {
     a {
-      @if variable-exists(header-link) {
-        color: $header-link;
-      }
+        // Color of links to the right of title
+        color: white;
+      
 
       &:hover {
         @if variable-exists(header-link-hover) {

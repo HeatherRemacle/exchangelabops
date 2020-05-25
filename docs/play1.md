@@ -1,17 +1,10 @@
 ---
-title: Documentations
+title: Play One
 description: This is a main page.
-permalink: /play1.md/
+permalink: /play1
 
 layout: post
 sidenav: docs
-subnav:
-  - text: Section one!!
-    href: '#section-one'
-  - text: Section two
-    href: '#section-two'
-  - text: Section three
-    href: '#section-three'
 ---
 
-## Play 1
+

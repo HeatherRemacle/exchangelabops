@@ -12,26 +12,17 @@
 #   links: primary
 #
 primary:
-  - text: Documentation
-    href: /docs/
-  - text: Navigation section
-    links:
-      - text: kelly
-        href: /kelly/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-      - text: Demo link D
-        href: /two/a/
-      - text: Demo link E
-        href: /two/b/
-      - text: Demo link F
-        href: /two/c/
-  - text: Referenced section
-    links: footer
-  - text: External link
-    href: https://18f.gsa.gov
+  - text: Home
+    href: /
+  - text: CITZ Home
+    href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
+  - text: IMB Hub
+    href: https://dir.gov.bc.ca/gtds.cgi?esearch=&view=detailed&sortBy=name&for=organizational+units&attribute=name&matchMethod=is&searchString=Information+Management+Branch&objectId=12803#OUFOCUS
+  - text: Contribute
+    href: https://github.com/bcgov/CITZ-IMB-playbook
+    external: true
+  - text: Subscribe
+    href: https://github.com/bcgov/CITZ-IMB-playbook
     external: true
 
 secondary:
@@ -41,30 +32,59 @@ secondary:
     href: /theme/
 
 docs:
-  - text: Sidenav Documentation
+  - text: What is an IMB Solutioning Playbook?
     href: /
-  - text: Sidenav Navigation section
-    links:
-      - text: Kelly
-        href: /kelly/
-      - text: Demo link B
-        href: /two/b/
-      - text: Demo link C
-        href: /two/c/
-  - text: Sidenav Referenced section
+  - text: What does it do?
+    href: /whatdo
+  - text: The 7 Plays
+    href: /plays
+  - text: Play One
+    href: /play1
+  - text: Play Two
+    href: /play2
+  - text: Play Three
+    href: /play3
+  - text: Play Four
+    href: /play4
+  - text: Play Five
+    href: /play5
+  - text: Play Six
+    href: /play6
+  - text: Play Seven
+    href: /play7
+  - text: Resources
     links: footer
-  - text: Sidenav External link
+  - text: Principles
+    href: /principles
+    external: true
+  - text: Patterns
+    href: /patterns
+
+footer:
+  - text: Home
+    href: /
+  - text: Disclaimer
+    href: /demo/
+  - text: Privacy
+    href: https://18f.gsa.gov
+    external: true
+  - text: Accessibility
+    href: https://18f.gsa.gov
+    external: true
+  - text: Copyright
+    href: https://18f.gsa.gov
+    external: true
+  - text: Contact Us
+    href: https://18f.gsa.gov
+    external: true
+  - text: Fair Use
     href: https://18f.gsa.gov
     external: true
 
-footer:
-  - text: Documentation
-    href: /docs/
-  - text: Demo link
-    href: /demo/
-  - text: External link
-    href: https://18f.gsa.gov
-    external: true
+
+
+
+
 # Uncomment the items below and comment the items above in the `footer` list
 # to use footer link columns in the 'big' footer style.
   # - text: Documentation

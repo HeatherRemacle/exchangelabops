@@ -1,7 +1,7 @@
 ---
-title: Play Three
+title: Play Six
 description: This is a main page.
-permalink: /play3
+permalink: /play6
 
 layout: post
 sidenav: docs
