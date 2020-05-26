@@ -35,18 +35,30 @@ secondary:
     href: /theme/
 
 docs:
-  - text: What is an IMB Solutioning Playbook?
+  - text: IMB Solutioning Playbook
     href: /
-  - text: What does it do?
-    href: /whatdo
-  - text: The 7 Plays
-    href: /plays
   - text: Resources
     href: /resources
   - text: Principles
     href: /principles
   - text: Patterns
     href: /patterns
+
+plays:
+  - text: Play 1
+    href: /play1
+  - text: Play 2
+    href: /play2
+  - text: Play 3
+    href: /play3
+  - text: Play 4
+    href: /play4
+  - text: Play 5
+    href: /play5
+  - text: Play 6
+    href: /play6
+  - text: Play 7
+    href: /play7
 
 footer:
   - text: Home

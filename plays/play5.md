@@ -4,5 +4,5 @@ description: This is a main page.
 permalink: /play5
 
 layout: post
-sidenav: docs
+sidenav: plays
 ---
