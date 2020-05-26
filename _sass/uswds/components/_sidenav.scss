@@ -3,7 +3,7 @@
   @include usa-sidenav-list;
   border-bottom: 1px solid;
   border-top: 1px solid;
-
+  
   @include media($large-screen) {
     border-bottom: none;
     border-top: none;
@@ -20,6 +20,7 @@
 
 .usa-sidenav-sub_list {
   @include usa-sidenav-sublist;
+  
 }
 
 .usa-layout-docs-sidenav {

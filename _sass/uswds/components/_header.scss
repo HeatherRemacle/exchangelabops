@@ -58,7 +58,7 @@ $z-index-nav:     9000;
   display: block;
   font-size: $h5-font-size;
   font-style: normal;
-  font-weight: $font-bold;
+  font-weight: normal;
   margin: 0;
 
   @include media($nav-width) {
@@ -138,10 +138,10 @@ $z-index-nav:     9000;
       border-bottom: none;
     }
   }
-
+  // Note: Middle header size here
   .usa-logo {
     @include media($nav-width) {
-      @include margin(3rem null);
+      @include margin(1rem null);
     }
   }
 
