@@ -16,8 +16,10 @@ primary:
     href: /
   - text: CITZ Home
     href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
+    external: true
   - text: IMB Hub
     href: https://dir.gov.bc.ca/gtds.cgi?esearch=&view=detailed&sortBy=name&for=organizational+units&attribute=name&matchMethod=is&searchString=Information+Management+Branch&objectId=12803#OUFOCUS
+    external: true
   - text: Contribute
     href: https://github.com/bcgov/CITZ-IMB-playbook
     external: true
@@ -27,7 +29,8 @@ primary:
 
 secondary:
   - text: Documentation
-    href: /kelly/
+    href: https://github.com/bcgov/CITZ-IMB-playbook
+    external: true
   - text: Theme
     href: /theme/
 
@@ -49,22 +52,17 @@ footer:
   - text: Home
     href: /
   - text: Disclaimer
-    href: /demo/
+    href: /disclaimer
   - text: Privacy
-    href: https://18f.gsa.gov
-    external: true
+    href: /privacy
   - text: Accessibility
-    href: https://18f.gsa.gov
-    external: true
+    href: /accessibility 
   - text: Copyright
-    href: https://18f.gsa.gov
-    external: true
+    href: /copyright
   - text: Contact Us
-    href: https://18f.gsa.gov
-    external: true
+    href: /contactus
   - text: Fair Use
-    href: https://18f.gsa.gov
-    external: true
+    href: /fairuse
 
 
 
