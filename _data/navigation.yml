@@ -42,7 +42,7 @@ docs:
   - text: The 7 Plays
     href: /plays
   - text: Resources
-    links: footer
+    href: /resources
   - text: Principles
     href: /principles
   - text: Patterns

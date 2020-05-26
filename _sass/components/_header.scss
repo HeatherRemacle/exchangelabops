@@ -1,5 +1,7 @@
 .bc-header {
-    
+    // Note: for sticky header
+    position: sticky;
+    top: 0;
     background-color: #073366;
   .bc-logo {
     a {
@@ -30,7 +32,7 @@
 
   .bc-nav-secondary-links {
     a {
-        // Color of links to the right of title
+        // Note: Color of links to the right of title
         color: white;
       
 
