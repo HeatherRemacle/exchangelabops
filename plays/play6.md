@@ -6,3 +6,6 @@ permalink: /play6
 layout: post
 sidenav: plays
 ---
+[Previous Play](/play5)
+<br/>
+[Next Play](/play7)
