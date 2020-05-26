@@ -5,7 +5,7 @@ description: CITZ IMB IT SOLUTIONING PLAYBOOK
 # This is used for adding an edit this page link to the footer
 github_info:
   organization: 18F
-  repository: uswds-jekyll
+  repository: bcwds-jekyll
   default_branch: master
 
 # Configuration for setting the site width to 100%
@@ -24,7 +24,7 @@ github_info:
 
 # To enable search, uncomment the search section
 # You will need to setup a search account with search.gov
-# https://search.usa.gov/signup
+# https://search.bc.gov/signup
 # Your search_site_handle value is from the search.gov settings page.
 
 # search_site_handle: searchgov-site-handle

@@ -1,10 +1,10 @@
 {% assign _scripts = '' | split: '' %}
-{% assign _async_marker = 'uswds_async=true' %}
+{% assign _async_marker = 'bcwds_async=true' %}
 {% assign _site_scripts = site.scripts %}
 {% unless _site_scripts -%}
-  {% assign _uswds_js = '/assets/uswds/js/uswds.min.js' | append: '?' | append: _async_marker %}
+  {% assign _bcwds_js = '/assets/bcwds/js/bcwds.min.js' | append: '?' | append: _async_marker %}
   {% assign _site_scripts = '' | split: ''
-    | push: _uswds_js %}
+    | push: _bcwds_js %}
     {% if site.anchor_js_targets %}
       {% assign _anchor_js = '/assets/js/vendor/anchor.min.js' %}
       {% assign _main_js = '/assets/js/main.js' %}
@@ -27,11 +27,11 @@
 {% if site.search_site_handle %}
 <script type="text/javascript">
 //<![CDATA[
-      var usasearch_config = { siteHandle:"{{ site.search_site_handle }}" };
+      var bcsearch_config = { siteHandle:"{{ site.search_site_handle }}" };
 
       var script = document.createElement("script");
       script.type = "text/javascript";
-      script.src = "//search.usa.gov/javascripts/remote.loader.js";
+      script.src = "//search.bc.gov/javascripts/remote.loader.js";
       document.getElementsByTagName("head")[0].appendChild(script);
 
 //]]>

@@ -1,12 +1,12 @@
-.usa-header,
-.usa-sidenav-list {
+.bc-header,
+.bc-sidenav-list {
   @include media($nav-width) {
-    .usa-button {
+    .bc-button {
       margin: 0;
       width: auto;
     }
   }
-  .usa-button {
+  .bc-button {
     color: $color-white;
     padding: 1rem;
     &:hover {
@@ -16,9 +16,9 @@
     }
   }
 }
-.usa-sidenav-list,
-.usa-footer-nav .usa-footer-primary-content {
-  .usa-button {
+.bc-sidenav-list,
+.bc-footer-nav .bc-footer-primary-content {
+  .bc-button {
     margin: 1rem 0;
   }
 }

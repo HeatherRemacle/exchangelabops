@@ -1,5 +1,5 @@
-.usa-hero {
-  .usa-hero-callout {
+.bc-hero {
+  .bc-hero-callout {
     @if variable-exists(hero-bg) {
       background-color: $hero-bg;
     }
@@ -15,7 +15,7 @@
       }
     }
 
-    .usa-hero-callout-alt {
+    .bc-hero-callout-alt {
       @if variable-exists(hero-header-alt) {
         color: $hero-header-alt;
       }
@@ -27,13 +27,13 @@
       }
     }
 
-    .usa-hero-link {
+    .bc-hero-link {
       @if variable-exists(hero-link) {
         color: $hero-link;
       }
     }
 
-    .usa-button {
+    .bc-button {
       @if variable-exists(hero-button-bg) {
         background-color: $hero-button-bg;
       }

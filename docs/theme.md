@@ -6,27 +6,27 @@ permalink: /theme/
 
 [This](javascript:void(0);) is a text link on a light background.
 
-[This](https://18f.gsa.gov){: .usa-color-text-visited} is a visited link.
+[This](https://18f.gsa.gov){: .bc-color-text-visited} is a visited link.
 
-This is link that goes to an [external website](https://18f.gsa.gov){: .usa-external_link}.
+This is link that goes to an [external website](https://18f.gsa.gov){: .bc-external_link}.
 
-<div class="usa-background-dark" markdown="1">
+<div class="bc-background-dark" markdown="1">
   [This](javascript:void(0);) is a text link on a light background.
 </div>
 
 # Buttons
 ## Default or primary
 <button class="">Default</button>
-<button class=" usa-button-hover">Hover</button>
-<button class=" usa-button-active">Active</button>
-<button class=" usa-focus">Focus</button>
+<button class=" bc-button-hover">Hover</button>
+<button class=" bc-button-active">Active</button>
+<button class=" bc-focus">Focus</button>
 <button class="" disabled>Disabled</button>
 ## Secondary
-<button class="usa-button-secondary">Default</button>
-<button class="usa-button-secondary usa-button-hover">Hover</button>
-<button class="usa-button-secondary usa-button-active">Active</button>
-<button class="usa-button-secondary usa-focus">Focus</button>
-<button class="usa-button-secondary" disabled>Disabled</button>
+<button class="bc-button-secondary">Default</button>
+<button class="bc-button-secondary bc-button-hover">Hover</button>
+<button class="bc-button-secondary bc-button-active">Active</button>
+<button class="bc-button-secondary bc-focus">Focus</button>
+<button class="bc-button-secondary" disabled>Disabled</button>
 
 # Tables
 ## Standard
@@ -40,7 +40,7 @@ This is link that goes to an [external website](https://18f.gsa.gov){: .usa-exte
 
 ## Borderless
 
-{: .usa-table-borderless}
+{: .bc-table-borderless}
 | Document title  | Description  | Year |
 |---|---|---|
 | Declaration of Independence  | Statement adopted by the Continental Congress declaring independence from the British Empire. | 1776 |

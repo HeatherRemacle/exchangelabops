@@ -1,9 +1,9 @@
-.usa-sticky-sidenav {
+.bc-sticky-sidenav {
   position: sticky;
   top: 1rem;
 }
 
-.usa-sidenav-list {
+.bc-sidenav-list {
   @if variable-exists(side-nav-bg) {
     background-color: $side-nav-bg;
   }
@@ -22,7 +22,7 @@
       }
     }
 
-    &.usa-current {
+    &.bc-current {
       @if variable-exists(side-nav-link-current) {
         border-color: $side-nav-link-current;
       }
@@ -33,7 +33,7 @@
   }
 }
 // Styles for adjusting the breakpoint for the side nav
-.usa-layout-docs {
+.bc-layout-docs {
   display: flex;
 }
 @include media ($medium-screen){
@@ -43,7 +43,7 @@
 }
 
 @include media($nav-width) {
-  .usa-layout-docs {
+  .bc-layout-docs {
     display: block;
 
     .sidenav {
@@ -51,7 +51,7 @@
       float: left;
       padding-right: 1rem;
 
-      + .usa-layout-docs-main_content {
+      + .bc-layout-docs-main_content {
         display: inline-block;
         padding-left: 3rem;
         width: calc(100% - 250px);

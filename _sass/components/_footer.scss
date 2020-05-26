@@ -1,16 +1,16 @@
-.usa-footer-primary-section {
+.bc-footer-primary-section {
   
     background-color: #073366;
   
 
-  .usa-footer-primary-link {
+  .bc-footer-primary-link {
    
       color: white;
     
   }
 }
 
-.usa-footer-secondary_section {
+.bc-footer-secondary_section {
   @if variable-exists(footer-bg) {
     background-color: $footer-bg;
   }

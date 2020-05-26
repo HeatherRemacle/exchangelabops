@@ -4,8 +4,8 @@
 
 
 // U.S. Web Design System setup
-$font-path: '../uswds/fonts';
-$image-path: '../uswds/img';
+$font-path: '../bcwds/fonts';
+$image-path: '../bcwds/img';
 
 // Typography
 {% if site.data.theme.fonts.sans %}$font-sans: {{ site.data.theme.fonts.sans }};{% endif %}
@@ -13,11 +13,11 @@ $image-path: '../uswds/img';
 {% if site.data.theme.fonts.normal %}$font-normal: {{ site.data.theme.fonts.normal }};{% endif %}
 {% if site.data.theme.fonts.bold %}$font-bold: {{ site.data.theme.fonts.bold }};{% endif %}
 
-// Color - USA banner
-{% if site.data.theme.colors.usa-banner.usa-banner-bg %}$usa-banner-bg: {{ site.data.theme.colors.usa-banner.usa-banner-bg }};{% endif %}
-{% if site.data.theme.colors.usa-banner.usa-banner-text %}$usa-banner-text: {{ site.data.theme.colors.usa-banner.usa-banner-text }};{% endif %}
-{% if site.data.theme.colors.usa-banner.usa-banner-link %}$usa-banner-link: {{ site.data.theme.colors.usa-banner.usa-banner-link }};{% endif %}
-{% if site.data.theme.colors.usa-banner.usa-banner-link-hover %}$usa-banner-link-hover: {{ site.data.theme.colors.usa-banner.usa-banner-link-hover }};{% endif %}
+// Color - bc banner
+{% if site.data.theme.colors.bc-banner.bc-banner-bg %}$bc-banner-bg: {{ site.data.theme.colors.bc-banner.bc-banner-bg }};{% endif %}
+{% if site.data.theme.colors.bc-banner.bc-banner-text %}$bc-banner-text: {{ site.data.theme.colors.bc-banner.bc-banner-text }};{% endif %}
+{% if site.data.theme.colors.bc-banner.bc-banner-link %}$bc-banner-link: {{ site.data.theme.colors.bc-banner.bc-banner-link }};{% endif %}
+{% if site.data.theme.colors.bc-banner.bc-banner-link-hover %}$bc-banner-link-hover: {{ site.data.theme.colors.bc-banner.bc-banner-link-hover }};{% endif %}
 
 // Header colors
 {% if site.data.theme.colors.header.header-bg %}$header-bg: {{ site.data.theme.colors.header.header-bg }};{% endif %}
@@ -77,7 +77,7 @@ $image-path: '../uswds/img';
 {% if site.data.theme.colors.footer.footer-text %}$footer-text: {{ site.data.theme.colors.footer.footer-text }};{% endif %}
 {% if site.data.theme.colors.footer.footer-link %}$footer-link: {{ site.data.theme.colors.footer.footer-link }};{% endif %}
 
-@import 'uswds/all';
+@import 'bcwds/all';
 @import 'components/all';
 
 {% for item in site.data.navigation.primary %}

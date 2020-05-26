@@ -1,11 +1,11 @@
-.usa-header {
+.bc-header {
     
     background-color: #073366;
-  .usa-logo {
+  .bc-logo {
     a {
         color: white;
     }
-    .usa-logo-img {
+    .bc-logo-img {
       float: left;
       height: 1.5rem;
       margin-top: 1.25rem;
@@ -16,19 +16,19 @@
         height: 2.4rem;
       }
 
-      & + .usa-logo-text {
+      & + .bc-logo-text {
         float: left;
       }
     }
   }
 
-  &.usa-header-extended .usa-logo-img {
+  &.bc-header-extended .bc-logo-img {
     @include media($nav-width) {
       height: 3.2rem;
     }
   }
 
-  .usa-nav-secondary-links {
+  .bc-nav-secondary-links {
     a {
         // Color of links to the right of title
         color: white;

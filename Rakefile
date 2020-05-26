@@ -1,2 +1,2 @@
 require "bundler"
-Bundler::GemHelper.install_tasks name: "uswds-jekyll"
+Bundler::GemHelper.install_tasks name: "bcwds-jekyll"
