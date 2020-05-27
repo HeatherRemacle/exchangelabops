@@ -33,3 +33,5 @@ Broad Examples Include:
 - Lorem Ipsum
 
 [Previous Play](/play6)
+<br/>
+[Return to top](#)

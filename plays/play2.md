@@ -72,3 +72,5 @@ Broad examples include:
 
 <br/>
 [Next Play](/play3)
+<br/>
+[Return to top](#)

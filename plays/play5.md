@@ -35,3 +35,5 @@ Broad Examples Include:
 
 <br/>
 [Next Play](/play6)
+<br/>
+[Return to top](#)

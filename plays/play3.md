@@ -95,3 +95,5 @@ Broad examples include:
 
 <br/>
 [Next Play](/play4)
+<br/>
+[Return to top](#)
