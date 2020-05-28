@@ -1,5 +1,5 @@
 ---
-title: CITZ IMB SOLUTIONING PLAYBOOK
+title: CITZ Digital Product Playbook
 description: This is a main page.
 permalink: /
 

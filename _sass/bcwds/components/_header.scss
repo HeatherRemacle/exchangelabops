@@ -11,9 +11,10 @@ $z-index-nav:     9000;
 // Header ------------- //
 
 .bc-header {
+  
   width: 100%;
   z-index: $z-index-header;
-
+ 
   @include media($nav-width) {
     border-bottom: 1px solid $color-gray-lighter;
   }
@@ -26,11 +27,14 @@ $z-index-nav:     9000;
     @include media($nav-width) {
       float: right;
       max-width: 21.5rem;
+      
     }
+    
   }
 }
 
 .bc-logo {
+  
   float: left;
   line-height: 4rem;
   margin-left: 1.5rem;
@@ -55,6 +59,7 @@ $z-index-nav:     9000;
 }
 
 .bc-logo-text {
+  
   display: block;
   font-size: $h5-font-size;
   font-style: normal;
@@ -69,6 +74,7 @@ $z-index-nav:     9000;
 }
 
 .bc-menu-btn {
+  
   /* stylelint-disable declaration-block-no-ignored-properties */
   @include button-unstyled;
   background-color: $color-primary;
@@ -99,6 +105,7 @@ $z-index-nav:     9000;
 }
 
 .bc-overlay {
+  
   @include position(fixed, 0);
   background: $color-black;
   opacity: 0;
@@ -115,17 +122,21 @@ $z-index-nav:     9000;
 // Basic header ----------- //
 
 .bc-header-basic {
+  
   .bc-logo {
     @include media($nav-width) {
       bottom: 0;
       position: absolute;
+      
     }
   }
 
   .bc-navbar {
+    
     @include media($nav-width) {
       position: relative;
       width: 18%; // TODO: review this more
+      
     }
   }
 }
@@ -133,15 +144,21 @@ $z-index-nav:     9000;
 // Extended header ----------- //
 
 .bc-header-extended {
+  
   .bc-header {
+    
     @include media($nav-width) {
       border-bottom: none;
     }
+    
   }
   // Note: Middle header size here
+  
   .bc-logo {
+    
     @include media($nav-width) {
       @include margin(1rem null);
+
     }
   }
 
@@ -149,19 +166,24 @@ $z-index-nav:     9000;
     @include media($nav-width) {
       font-size: 3.2rem;
       line-height: 1;
+      
     }
   }
 
   .bc-navbar {
+    
     @include media($nav-width) {
+      
       @include outer-container($site-max-width);
       @include padding(null $site-margins);
       display: block;
       height: auto;
+     
     }
   }
 
   .bc-nav {
+    border-bottom: 3px solid #F7BA44;
     @include media($nav-width) {
       border-top: 1px solid $color-gray-lighter;
       float: none;
@@ -171,16 +193,21 @@ $z-index-nav:     9000;
   }
 
   .bc-nav-inner {
+    
     @include media($nav-width) {
       @include outer-container($site-max-width);
       @include padding(null $site-margins null 1.5rem);
       position: relative;
+      
+
     }
   }
 
   .bc-nav-primary {
+    
     @include media($nav-width) {
       @include clearfix;
+      
     }
     // position: static;
     // top: 0;
@@ -195,6 +222,7 @@ $z-index-nav:     9000;
   }
 
   .bc-nav-link {
+    
     @include media($nav-width) {
       @include padding(1.8rem null);
     }
@@ -211,8 +239,10 @@ $z-index-nav:     9000;
   }
 
   .bc-megamenu {
+    
     @include media($nav-width) {
       padding-left: $site-margins;
+      
     }
   }
 
