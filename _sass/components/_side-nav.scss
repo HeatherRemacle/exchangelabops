@@ -45,11 +45,11 @@
 @include media($nav-width) {
   .bc-layout-docs {
     display: block;
-    // Note: This fixed the jump nav under banner issue
-    position: -webkit-sticky;
+    // Note: This fixed the jump nav under banner issue, but this breaks the footer links
+    position: -webkit-relative;
     position: sticky; 
-    top: 100px;
-
+    top: 0px;
+    
     .sidenav {
       display: block;
       float: left;
@@ -58,6 +58,7 @@
       position: -webkit-sticky;
       position: sticky; 
       top: 100px;
+      
 
       + .bc-layout-docs-main_content {
         display: inline-block;
