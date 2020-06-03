@@ -1,10 +1,8 @@
 ---
-title: Principles
-description: This is a main page.
-permalink: /principles
+title: Contact Us
+permalink: /contactus
 
 layout: post
-sidenav: docs
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Leo integer malesuada nunc vel risus commodo. Curabitur vitae nunc sed velit dignissim sodales. Tellus molestie nunc non blandit massa. Euismod in pellentesque massa placerat duis ultricies. Eget dolor morbi non arcu risus quis varius quam. Sollicitudin nibh sit amet commodo. Nisl suscipit adipiscing bibendum est ultricies integer quis. In ante metus dictum at tempor commodo ullamcorper.
 

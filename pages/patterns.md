@@ -1,7 +1,6 @@
 ---
-title: Fair Use
-description: This is a main page.
-permalink: /fairuse
+title: Patterns
+permalink: /patterns
 
 layout: post
 sidenav: docs

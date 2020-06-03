@@ -1,7 +1,6 @@
 ---
-title: Patterns
-description: This is a main page.
-permalink: /patterns
+title: Resources
+permalink: /resources
 
 layout: post
 sidenav: docs
