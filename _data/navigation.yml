@@ -75,7 +75,19 @@ footer:
   - text: Fair Use
     href: /fairuse
 
-
+footersidenav:
+  - text: Disclaimer
+    href: /disclaimer
+  - text: Privacy
+    href: /privacy
+  - text: Accessibility
+    href: /accessibility 
+  - text: Copyright
+    href: /copyright
+  - text: Contact Us
+    href: /contactus
+  - text: Fair Use
+    href: /fairuse
 
 
 
