@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors       = ['Shawn Allen', 'Brian Hurst', 'Scott Weber', 'Kelly Marcheluzzo']
   s.email         = ['brian.hurst@gsa.gov', 'scott.weber@gsa.gov']
 
-  s.summary       = "A Jekyll theme for the B.C. Web Design System."
+  s.summary       = "A Jekyll theme for the U.S.A. Web Design System."
   s.homepage      = "https://designsystem.digital.gov/"
   s.license       = "CC0-1.0"
 

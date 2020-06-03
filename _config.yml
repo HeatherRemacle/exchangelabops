@@ -3,8 +3,8 @@ title: CITZ DIGITAL PRODUCT PLAYBOOK
 # GitHub information
 # This is used for adding an edit this page link to the footer
 github_info:
-  organization: 18F
-  repository: bcwds-jekyll
+  organization: bcgov
+  repository: CITZ-IMB-playbook
   default_branch: master
 
 # Configuration for setting the site width to 100%
