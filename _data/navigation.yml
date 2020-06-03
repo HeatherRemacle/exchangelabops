@@ -15,7 +15,7 @@ primary:
   - text: Home
     href: /
   - text: Playbook
-    href: /play1
+    href: /plays/play1/
   - text: CITZ Home
     href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
     external: true
@@ -45,7 +45,7 @@ docs:
       
 plays:
   - text: Play 1
-    href: /play1
+    href: /plays/play1/
   - text: Play 2
     href: /play2
   - text: Play 3

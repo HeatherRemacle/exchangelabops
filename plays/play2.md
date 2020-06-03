@@ -21,7 +21,7 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/CITZ-IMB-playbook/play1)                
+[Previous Play](/plays/play1/)                
 
 ## Successfully Navigate the CITZ IM-IT Project Intake Process
 To improve our ability to deliver successful IM/IT services that meet the Ministries goals and objectives, business units work with experienced senior business consultants. Following the Ministries IM/IT Governance process ensures that project proposals that have been championed by a Ministry business unit will obtain funding and approvals for strategically important initiatives.
