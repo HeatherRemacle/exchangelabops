@@ -1,7 +1,7 @@
 ---
 title: Play 1
 description: This is a main page.
-permalink: /play1
+permalink: /CITZ-IMB-playbook/play1
 
 layout: post
 sidenav: plays
