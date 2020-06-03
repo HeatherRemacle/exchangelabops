@@ -15,7 +15,7 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/play4)
+[Previous Play](/CITZ-IMB-playbook/play4)
 
 ## Continuous Delivery
 Deploy, Test, Accept and Iterate – continuous development and delivery within the project development cycle  
@@ -34,6 +34,6 @@ Broad Examples Include:
 - Lorem Ipsum
 
 <br/>
-[Next Play](/play6)
+[Next Play](/CITZ-IMB-playbook/play6)
 <br/>
 [Return to top](#)

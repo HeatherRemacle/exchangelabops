@@ -15,7 +15,7 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/play3)
+[Previous Play](/CITZ-IMB-playbook/play3)
 
 ## Solution Development
 Methodologies and frameworks that result in working MVP solutions that have built in security and designed for operations.
@@ -34,6 +34,6 @@ Broad Examples Include:
 - Lorem Ipsum
 
 <br/>
-[Next Play](/play5)
+[Next Play](/CITZ-IMB-playbook/play5)
 <br/>
 [Return to top](#)

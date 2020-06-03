@@ -78,7 +78,7 @@ Broad examples include:
 - Engagement- solicit responses via surveys, workshops in order to provide data to guide the ideation process.
 
 <br/>
-[Next Play](/play2) 
+[Next Play](/CITZ-IMB-playbook/play2) 
 <br/>
 [Return to top](#)
 

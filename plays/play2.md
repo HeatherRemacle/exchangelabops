@@ -71,6 +71,6 @@ Broad examples include:
 
 
 <br/>
-[Next Play](/play3)
+[Next Play](/CITZ-IMB-playbook/play3)
 <br/>
 [Return to top](#)

@@ -23,7 +23,7 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/play2)
+[Previous Play](/CITZ-IMB-playbook/play2)
 
 ## Getting Started to Develop Your Solution
 Project success is never guaranteed. Determine your approach to product development in order to correctly fit your resource needs.  Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people either using temporary assignments, contractors or co-ops. Once you have your team come to a common understanding of the culture you wish to promote then entrust design and development to the team which you have empowered.
@@ -94,6 +94,6 @@ Broad examples include:
 - [Scrum templates](https://arminreiter.com/scrum-meeting-templates/)
 
 <br/>
-[Next Play](/play4)
+[Next Play](/CITZ-IMB-playbook/play4)
 <br/>
 [Return to top](#)

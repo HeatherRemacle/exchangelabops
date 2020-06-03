@@ -15,7 +15,7 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/play5)
+[Previous Play](/CITZ-IMB-playbook/play5)
 
 ## Retaining Product Knowledge
 Retaining knowledge as project resources leave
@@ -34,6 +34,6 @@ Broad Examples Include:
 - Lorem Ipsum
 
 <br/>
-[Next Play](/play7)
+[Next Play](/CITZ-IMB-playbook/play7)
 <br/>
 [Return to top](#)

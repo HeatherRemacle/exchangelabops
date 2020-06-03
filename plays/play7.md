@@ -32,6 +32,6 @@ Broad Examples Include:
 - Lorem Ipsum
 - Lorem Ipsum
 
-[Previous Play](/play6)
+[Previous Play](/CITZ-IMB-playbook/play6)
 <br/>
 [Return to top](#)

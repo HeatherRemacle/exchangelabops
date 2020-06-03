@@ -46,31 +46,31 @@ The business knows its users, it owns the problem space. Apply design thinking t
 ### 2: Navigate the CITZ IM Project Intake Process
 Having a clear understanding of the IM/IT project governance process will ensure your proposal can obtain the necessary approvals in order to proceed. 
 <br/>
-[Play Two](/play2)
+[Play Two](/CITZ-IMB-playbook/play2)
 
 ### 3: Getting Started to develop your Solution
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 
 <br/>
-[Play Three](/play3)
+[Play Three](/CITZ-IMB-playbook/play3)
 
 ### 4: Solution Development
 Methodologies and frameworks that result in working MVP solutions that have built in security and designed for operations. 
 <br/>
-[Play Four](/play4)
+[Play Four](/CITZ-IMB-playbook/play4)
 
 ### 5: Continuous Delivery
 Deploy, Test, Accept and Iterate – continuous development and delivery within the project development cycle.
 <br/>
-[Play Five](/play5)
+[Play Five](/CITZ-IMB-playbook/play5)
 
 ### 6: Retaining project knowledge
 Retaining knowledge as project resources leave.
 <br/>
-[Play Six](/play6)
+[Play Six](/CITZ-IMB-playbook/play6)
 
 ### 7: Product Sustainment
 Transitioning a solution to product sustainment.
 <br/>
-[Play Seven](/play7)
+[Play Seven](/CITZ-IMB-playbook/play7)
 <br/>
 [Return to top](#)
