@@ -41,7 +41,7 @@ Provides the IMB and our partners, vendors and clients with key resources that w
 ### 1: Ideate solutions that meet the needs of business
 The business knows its users, it owns the problem space. Apply design thinking to new product development to create high value solutions that users want to adopt. 
 <br/>
-[Play One](/plays/play1/)
+[Play One](/play1)
 
 ### 2: Navigate the CITZ IM Project Intake Process
 Having a clear understanding of the IM/IT project governance process will ensure your proposal can obtain the necessary approvals in order to proceed. 

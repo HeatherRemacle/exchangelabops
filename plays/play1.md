@@ -1,7 +1,7 @@
 ---
 title: Play 1
 description: This is a main page.
-permalink: /plays/play1/
+permalink: /play1
 
 layout: post
 sidenav: plays
