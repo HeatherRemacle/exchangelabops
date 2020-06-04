@@ -23,3 +23,6 @@ Contributions are welcome, but please review this document before making any cha
 * Use the present tense ("Add feature" not "Added feature")
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 * Limit the first line to 72 characters or less
+
+### Source
+This playbook was created using the template found [here](https://github.com/18F/uswds-jekyll)
