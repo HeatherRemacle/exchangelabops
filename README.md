@@ -8,7 +8,7 @@ Contributes to a shared understanding of the solution ecosystem from ideation to
 Provides the IMB and our partners, vendors and clients with key resources that will assist them to identify, use and leverage trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
 
 ## Source
-This playbook was created using the template found [here](https://github.com/18F/uswds-jekyll).
+This playbook was created using the Jekyll template found [here](https://github.com/18F/uswds-jekyll).
 
 ## Contributing Guideline:
 Contributions are welcome, but please review this document before making any change.

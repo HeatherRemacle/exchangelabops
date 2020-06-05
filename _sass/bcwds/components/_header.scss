@@ -183,7 +183,7 @@ $z-index-nav:     9000;
   }
 
   .bc-nav {
-    border-bottom: 3px solid #F7BA44;
+    
     @include media($nav-width) {
       border-top: 1px solid $color-gray-lighter;
       float: none;
