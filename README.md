@@ -1,6 +1,4 @@
 # CITZ-IMB-playbook
-CITZ IMB Playbook
-
 This playbook is designed to help you on your IT project journey. It provides the reader with a collection of references to tested methodologies, tools and best practices. 
 
 ## What does it do?
@@ -12,7 +10,6 @@ Provides the IMB and our partners, vendors and clients with key resources that w
 ## Source
 This playbook was created using the template found [here](https://github.com/18F/uswds-jekyll).
 
-# GitHub and The BC Government
 ## Contributing Guideline:
 
 Contributions are welcome, but please review this document before making any change.
