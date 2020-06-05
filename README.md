@@ -1,6 +1,18 @@
 # CITZ-IMB-playbook
 CITZ IMB Playbook
 
+This playbook is designed to help you on your IT project journey. It provides the reader with a collection of references to tested methodologies, tools and best practices. 
+
+## What does it do?
+Contributes to a shared understanding of the solution ecosystem from ideation to sustained operating IM/IT systems. “Plays” describe valuable patterns that project teams should consider as part of their digital product management lifecycle. 
+
+## What are the benefits?
+Provides the IMB and our partners, vendors and clients with key resources that will assist them to identify, use and leverage trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
+
+## Source
+This playbook was created using the template found [here](https://github.com/18F/uswds-jekyll).
+
+# GitHub and The BC Government
 ## Contributing Guideline:
 
 Contributions are welcome, but please review this document before making any change.
@@ -24,5 +36,4 @@ Contributions are welcome, but please review this document before making any cha
 * Use the imperative mood ("Move cursor to..." not "Moves cursor to...")
 * Limit the first line to 72 characters or less
 
-### Source
-This playbook was created using the template found [here](https://github.com/18F/uswds-jekyll)
+
