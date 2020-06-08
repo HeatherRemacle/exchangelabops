@@ -5,8 +5,8 @@ permalink: /play7
 layout: post
 sidenav: plays
 subnav: 
-  - text: Product Sustainment
-    href: '#product-sustainment'
+  - text: Sustainment Lifecycle
+    href: '#sustainment-lifecycle'
   - text: Step 1. Start
     href: '#step-1-start'
   - text: Resources
@@ -15,7 +15,7 @@ subnav:
     href: '#metrics'
 ---
 
-## Product Sustainment
+## Sustainment Lifecycle
 Transitioning a solution to product sustainment
 
 ### Step 1: Start

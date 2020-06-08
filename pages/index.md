@@ -12,20 +12,20 @@ subnav:
     href: '#what-are-the-benefits'
   - text: The Plays...
     href: '#the-plays'
-  - text: 1. Ideate solutions that meet the needs of business
-    href: '#1-ideate-solutions-that-meet-the-needs-of-business'
-  - text: 2. Navigate the CITZ IM/IT Project Intake Process
-    href: '#2-navigate-the-citz-im-project-intake-process'
-  - text: 3. Getting Started to develop your Solution
+  - text: 1. Ideate solutions that meet the needs of business units
+    href: '#1-ideate-solutions-that-meet-the-needs-of-business-units'
+  - text: 2. Successfully navigate the Ministry project intake process
+    href: '#2-successfully-navigate-the-ministry-project-intake-process'
+  - text: 3. Getting started to develop your Solution
     href: '#3-getting-started-to-develop-your-solution'
-  - text: 4. Solution Development
-    href: '#4-solution-development'
-  - text: 5. Continuous Delivery
-    href: '#5-continuous-delivery'
-  - text: 6. Retaining project knowledge
-    href: '#6-retaining-project-knowledge'
-  - text: 7. Product Sustainment
-    href: '#7-product-sustainment'
+  - text: 4. Develop your Product
+    href: '#4-develop-your-product'
+  - text: 5. Transition to Ops
+    href: '#5-transition-to-ops'
+  - text: 6. Continuous Product Improvement
+    href: '#6-continuous-product-improvement'
+  - text: 7. Sustainment Lifecycle
+    href: '#7-sustainment-lifecycle'
 
 ---
 This playbook is designed to help you on your IT project journey. It provides the reader with a collection of references to tested methodologies, tools and best practices. 
@@ -38,37 +38,37 @@ Provides the IMB and our partners, vendors and clients with key resources that w
 
 ## The Plays...
 
-### 1: Ideate solutions that meet the needs of business
+### 1: Ideate solutions that meet the needs of business units
 The business knows its users, it owns the problem space. Apply design thinking to new product development to create high value solutions that users want to adopt. 
 <br/>
 [Play One](/CITZ-IMB-playbook/play1)
 
-### 2: Navigate the CITZ IM Project Intake Process
+### 2: Successfully navigate the Ministry project intake process
 Having a clear understanding of the IM/IT project governance process will ensure your proposal can obtain the necessary approvals in order to proceed. 
 <br/>
 [Play Two](/CITZ-IMB-playbook/play2)
 
-### 3: Getting Started to develop your Solution
+### 3: Getting started to develop your Solution
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 
 <br/>
 [Play Three](/CITZ-IMB-playbook/play3)
 
-### 4: Solution Development
+### 4: Develop your Product
 Methodologies and frameworks that result in working MVP solutions that have built in security and designed for operations. 
 <br/>
 [Play Four](/CITZ-IMB-playbook/play4)
 
-### 5: Continuous Delivery
+### 5: Transition to Ops
 Deploy, Test, Accept and Iterate – continuous development and delivery within the project development cycle.
 <br/>
 [Play Five](/CITZ-IMB-playbook/play5)
 
-### 6: Retaining project knowledge
+### 6: Continuous Product Improvement
 Retaining knowledge as project resources leave.
 <br/>
 [Play Six](/CITZ-IMB-playbook/play6)
 
-### 7: Product Sustainment
+### 7: Sustainment Lifecycle
 Transitioning a solution to product sustainment.
 <br/>
 [Play Seven](/CITZ-IMB-playbook/play7)

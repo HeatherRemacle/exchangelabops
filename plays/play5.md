@@ -5,8 +5,8 @@ permalink: /play5
 layout: post
 sidenav: plays
 subnav: 
-  - text: Continuous Delivery
-    href: '#continuous-delivery'
+  - text: Transition to Ops
+    href: '#transition-to-ops'
   - text: Step 1. Start
     href: '#step-1-start'
   - text: Resources
@@ -16,7 +16,7 @@ subnav:
 ---
 [Previous Play](/CITZ-IMB-playbook/play4)
 
-## Continuous Delivery
+## Transition to Ops
 Deploy, Test, Accept and Iterate – continuous development and delivery within the project development cycle  
 
 ### Step 1: Start

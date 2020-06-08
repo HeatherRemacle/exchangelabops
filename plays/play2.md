@@ -5,8 +5,8 @@ permalink: /play2
 layout: post
 sidenav: plays
 subnav: 
-  - text: Successfully navigate the CITZ IM/IT Project Intake Process
-    href: '#successfully-navigate-the-citz-im-it-project-intake-process'
+  - text: Successfully navigate the Ministry project intake process
+    href: '#successfully-navigate-the-ministry-project-intake-process'
   - text: Step 1. Obtain Business Unit Endorsement
     href: '#step-1-obtain-business-unit-endorsement'
   - text: Step 2. Follow the Ministry IM-IT project intake process
@@ -22,7 +22,7 @@ subnav:
 ---
 [Previous Play](/CITZ-IMB-playbook/play1)                
 
-## Successfully Navigate the CITZ IM-IT Project Intake Process
+## Successfully navigate the Ministry project intake process
 To improve our ability to deliver successful IM/IT services that meet the Ministries goals and objectives, business units work with experienced senior business consultants. Following the Ministries IM/IT Governance process ensures that project proposals that have been championed by a Ministry business unit will obtain funding and approvals for strategically important initiatives.
 
 ### Step 1: Obtain Business Unit Endorsement

@@ -5,8 +5,8 @@ permalink: /play4
 layout: post
 sidenav: plays
 subnav: 
-  - text: Solution Development
-    href: '#solution-development'
+  - text: Develop your Product
+    href: '#develop-your-product'
   - text: Step 1. Start
     href: '#step-1-start'
   - text: Resources
@@ -16,7 +16,7 @@ subnav:
 ---
 [Previous Play](/CITZ-IMB-playbook/play3)
 
-## Solution Development
+## Develop your Product
 Methodologies and frameworks that result in working MVP solutions that have built in security and designed for operations.
 
 ### Step 1: Start

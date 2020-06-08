@@ -5,8 +5,8 @@ permalink: /play6
 layout: post
 sidenav: plays
 subnav: 
-  - text: Retaining Product Knowledge
-    href: '#retaining-product-knowledge'
+  - text: Continuous Product Improvement
+    href: '#continuous-product-improvement'
   - text: Step 1. Start
     href: '#step-1-start'
   - text: Resources
@@ -16,7 +16,7 @@ subnav:
 ---
 [Previous Play](/CITZ-IMB-playbook/play5)
 
-## Retaining Product Knowledge
+## Continuous Product Improvement
 Retaining knowledge as project resources leave
 
 ### Step 1: Start

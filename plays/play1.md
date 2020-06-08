@@ -5,8 +5,8 @@ permalink: /play1
 layout: post
 sidenav: plays
 subnav: 
-  - text: Ideate solutions that meet the needs of business
-    href: '#ideate-solutions-that-meet-the-needs-of-business'
+  - text: Ideate solutions that meet the needs of business units
+    href: '#ideate-solutions-that-meet-the-needs-of-business-units'
   - text: Step 1. Promote Innovation From Within
     href: '#step-1-promote-innovation-from-within'
   - text: Step 2. Engage Your Stakeholders
@@ -19,7 +19,7 @@ subnav:
     href: '#metrics'
 
 ---
-## Ideate solutions that meet the needs of business
+## Ideate solutions that meet the needs of business units
 We must begin digital projects by developing solutions for the people who will use them. Users are often but not always employees of the Ministry.  Staff who interact with users on a regular basis are often an untapped source of information. Creating an environment that promotes their participation will strengthen the business unit mandate and contribute to its future success.
 
 ### Step 1: Promote Innovation From Within
