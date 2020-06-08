@@ -1,5 +1,5 @@
 ---
-title: CITZ Digital Product Playbook
+title: CITZ Modern Application Playbook
 description: This is a main page.
 permalink: /
 

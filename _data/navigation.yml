@@ -20,7 +20,7 @@ primary:
     href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
     external: true
   - text: IMB Hub
-    href: https://dir.gov.bc.ca/gtds.cgi?esearch=&view=detailed&sortBy=name&for=organizational+units&attribute=name&matchMethod=is&searchString=Information+Management+Branch&objectId=12803#OUFOCUS
+    href: https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb
     external: true
   - text: Contribute
     href: https://github.com/bcgov/CITZ-IMB-playbook
@@ -34,7 +34,7 @@ secondary:
     href: /theme/
 
 docs:
-  - text: CITZ Digital Product Playbook
+  - text: CITZ Modern Application Playbook
     href: /
   - text: Resources
     href: /resources
