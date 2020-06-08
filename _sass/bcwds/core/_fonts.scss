@@ -62,4 +62,20 @@
   normal,
   $file-formats: eot woff2 woff ttf
 );
+
+@include font-face(
+  'BCSans-Bold',
+  '#{$font-path}/BC-Sans-Font-woff/BCSans-Bold',
+  normal,
+  $file-formats: woff
+);
+
+@include font-face(
+  'BCSans-Regular',
+  '#{$font-path}/BC-Sans-Font-woff/BCSans-Regular',
+  normal,
+  $file-formats: woff
+);
+
+
 /* stylelint-enable */

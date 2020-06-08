@@ -1,4 +1,5 @@
 .bc-header {
+    font-family: BCSans-Regular;
     // Note: for sticky header
     position: sticky;
     top: 0;
@@ -21,6 +22,7 @@
 
       & + .bc-logo-text {
         float: left;
+        
       }
     }
   }
@@ -35,7 +37,7 @@
     a {
         // Note: Color of links to the right of title
         color: white;
-      
+        
 
       &:hover {
         @if variable-exists(header-link-hover) {
