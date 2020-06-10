@@ -1,16 +1,196 @@
 ---
-title: Patterns
+title: Modern Application Development IMB Patterns and Practices
 permalink: /patterns
 
 layout: post
 sidenav: docs
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Integer feugiat scelerisque varius morbi enim nunc faucibus a. Leo integer malesuada nunc vel risus commodo. Curabitur vitae nunc sed velit dignissim sodales. Tellus molestie nunc non blandit massa. Euismod in pellentesque massa placerat duis ultricies. Eget dolor morbi non arcu risus quis varius quam. Sollicitudin nibh sit amet commodo. Nisl suscipit adipiscing bibendum est ultricies integer quis. In ante metus dictum at tempor commodo ullamcorper.
+Patterns describe typical issues that are experienced by Ministry business clients when they start to develop a new IM/IT based solution.  A pattern provides techniques that describe best practices toward achieving a desired outcome. 
 
-Urna id volutpat lacus laoreet non curabitur gravida arcu. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum. Purus in mollis nunc sed id. Facilisis volutpat est velit egestas. Nullam non nisi est sit amet facilisis magna. Sed nisi lacus sed viverra tellus in. Volutpat consequat mauris nunc congue nisi vitae suscipit tellus mauris. Sit amet consectetur adipiscing elit ut aliquam. Et odio pellentesque diam volutpat commodo sed egestas egestas fringilla. Eget magna fermentum iaculis eu non diam phasellus vestibulum. A diam sollicitudin tempor id eu. Sed arcu non odio euismod lacinia at quis. Pretium fusce id velit ut tortor pretium viverra. Maecenas accumsan lacus vel facilisis volutpat est velit egestas. Morbi blandit cursus risus at ultrices mi tempus. A condimentum vitae sapien pellentesque habitant morbi tristique senectus et.
+When a Ministry business unit starts its product development journey it is often aware of the need to get a STRA and if required, a PIA. Ministry clients require additional information when starting their new product journeys. The IMB is compiling a list of repeatable adoption and usage “patterns” to common questions asked of our Ministry business consultants.  The following list of patterns will evolve as IMB works with our clients to develop additional modern solutions based on our supported platforms and service offerings
 
-Proin fermentum leo vel orci porta non pulvinar neque. Non odio euismod lacinia at. Mi proin sed libero enim sed faucibus turpis in. Sit amet volutpat consequat mauris nunc. Donec enim diam vulputate ut pharetra. Viverra mauris in aliquam sem fringilla ut morbi. Ullamcorper morbi tincidunt ornare massa eget egestas purus viverra accumsan. Et malesuada fames ac turpis egestas. Facilisi etiam dignissim diam quis enim lobortis. Placerat vestibulum lectus mauris ultrices eros in cursus turpis. Elit sed vulputate mi sit. Mauris commodo quis imperdiet massa tincidunt nunc pulvinar. Scelerisque felis imperdiet proin fermentum leo vel. Consectetur libero id faucibus nisl tincidunt. Nunc id cursus metus aliquam eleifend. Justo laoreet sit amet cursus sit.
+#### How are patterns described?
+A pattern describes a process and a ‘thing’. It describes a proven solution that can be applied by our clients. Patterns are usually generic and intended to initiate a dialog. 
 
-Ornare massa eget egestas purus viverra. Commodo viverra maecenas accumsan lacus vel. Orci porta non pulvinar neque laoreet suspendisse interdum consectetur. Eu ultrices vitae auctor eu augue ut. Sed risus ultricies tristique nulla aliquet enim. Venenatis urna cursus eget nunc. Non blandit massa enim nec dui nunc. Venenatis cras sed felis eget velit. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices. Convallis posuere morbi leo urna molestie. Purus gravida quis blandit turpis cursus. Tincidunt augue interdum velit euismod in pellentesque massa. Senectus et netus et malesuada. Laoreet suspendisse interdum consectetur libero id faucibus. Sodales ut eu sem integer vitae justo eget magna. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Convallis tellus id interdum velit laoreet id donec ultrices tincidunt. Non enim praesent elementum facilisis. Imperdiet dui accumsan sit amet nulla facilisi morbi tempus iaculis. Felis donec et odio pellentesque diam volutpat commodo sed.
+A pattern has a:
+- name & short summary
+    - which demonstrates the business need for the pattern
+- context
+    - situations in which the pattern may apply
+- scenario
+    - that the pattern addresses
+- solution
+    - the fundamental solution concept that addresses the scenario
 
-Tempor nec feugiat nisl pretium fusce id velit ut tortor. Et malesuada fames ac turpis. Et tortor consequat id porta nibh venenatis cras sed. Quis viverra nibh cras pulvinar mattis nunc. Urna condimentum mattis pellentesque id nibh tortor id aliquet lectus. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget. Netus et malesuada fames ac. Ornare lectus sit amet est placerat in egestas erat. Viverra vitae congue eu consequat ac felis donec et odio. Dui ut ornare lectus sit amet est placerat. Dolor sit amet consectetur adipiscing elit duis tristique. Faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing. Ornare suspendisse sed nisi lacus. Amet nulla facilisi morbi tempus iaculis urna id volutpat.
+IMB Patterns we will evolve will include...
+
+#### Platform & Solution Patterns
+- DevExchange Adoption Pattern
+    - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
+- Microsoft PowerBI  Adoption Pattern
+    - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
+- Microsoft Dynamics Adoption Pattern
+    - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
+- Microsoft Sharepoint Adoption Pattern
+    - Describes a set of steps to allow your team to start a journey on the Microsoft Sharepoint platform.
+- RHEL OpenShift Adoption Pattern
+    - Describes a set of steps to allow your team to start a journey on the OpenShift platform.
+- Web Application Development Pattern 
+    - <span style="color: green">\*currently in development\*</span>
+    - Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
+
+#### IMB Patterns
+- Ministry IMB Business Unit Engagement Pattern
+    - Describes a set of steps to allow your team to start a journey with the IMB.
+- Ministry IMB Service Desk Pattern
+    - Describes a set of steps to follow when working with the IMB Service Desk.
+- Ministry STRA & PIA Pattern
+    - Describes a set of steps to allow your team to start your STRA journey.
+- Ministry IMB Infrastructure Support Pattern
+    - Describes a set of steps to allow your team to engage the IMB Infrastructure support  team and their service offerings.
+
+#### Platform & Solution Patterns
+### DevExchange Adoption Pattern
+Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### Platform & Solution Patterns
+### Microsoft PowerBI Adoption Pattern
+Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### Platform & Solution Patterns
+### Microsoft Dynamics Adoption Pattern
+Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### Platform & Solution Patterns
+### Microsoft SharePoint Adoption Pattern
+Describes a set of steps to allow your team to start a journey on the Microsoft SharePoint platform.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### Platform & Solution Patterns
+### OpenShift Adoption Pattern
+Describes a set of steps to allow your team to start a journey on the OpenShift platform.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### Platform & Solution Patterns
+### Web Application Development Pattern
+<span style="color: green">\*currently in development\*</span>
+
+Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application. This pattern consists of:
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### IMB Patterns
+### Ministry IMB Business Unit Engagement Pattern
+Describes a set of steps to allow your team to start a journey with the IMB.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### IMB Patterns
+### Ministry IMB Service Desk Pattern
+Describes a set of steps to follow when working with the IMB Service Desk.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
+
+#### IMB Patterns
+### Ministry STRA & PIA Pattern
+Describes a set of steps to allow your team to start your STRA and PIA journey.
+- Project team contacts the [Information Privacy and Security Team](mailto:CITZ Security and Privacy CITZ:EX %3cSecurityandPrivacy.Citz@gov.bc.ca%3e) (IPS) to seek advice and initiate the assessment process.
+- IPS collects information from the project team to provide an initial recommendation regarding assessment approach and scope.
+- IPS works together with the project team, and other key stakeholders as needed, to conduct the assessment.
+- Project team supports the process by providing all relevant information and documentation to IPS in order to conduct the assessment.
+- IPS liaises with core government information privacy and security branches (i.e., the Privacy, Compliance and Training Branch (PCT) and the Information Security Branch (ISB)) throughout the process, including during the assessment ‘sign-off’ phase.
+
+#### IMB Patterns
+### Ministry IMB Infrastructure Support Pattern
+Describes a set of steps to allow your team to engage the IMB Infrastructure support team and their service offerings.
+
+This pattern consists of:
+
+|**Name and Summary**|*Demonstrates the business need for the patterns*|
+||
+|**Context**|*Situations in which the pattern may apply*|
+||
+|**Scenario**|*That the pattern addresses*|
+||
+|**Solution**|*The solution concept that addresses the scenario*|
+||
