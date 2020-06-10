@@ -42,38 +42,38 @@ Provides the IMB and our partners, vendors and clients with key resources that w
 
 ### 1: Ideate solutions that meet the needs of business
 The business knows its users, it owns the problem space. Apply design thinking to new product development to create high value solutions that users want to adopt.   
-[Play One](/CITZ-IMB-playbook/play1)
+[Play 1](/CITZ-IMB-playbook/play1)
 
 ### 2: Successfully navigate the project intake process
 Having a clear understanding of the IM/IT project governance process will ensure your proposal can obtain the necessary approvals in order to proceed.
 <br/>
-[Play Two](/CITZ-IMB-playbook/play2)
+[Play 2](/CITZ-IMB-playbook/play2)
 
 ### 3: Getting started to develop your solution
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 	
 <br/>
-[Play Three](/CITZ-IMB-playbook/play3)
+[Play 3](/CITZ-IMB-playbook/play3)
 
 ### 4: Developing a product
 Methodologies and frameworks that result in working MVP solutions that have built in security and are designed for operations.                                                                                     
-[Play Four](/CITZ-IMB-playbook/play4)
+[Play 4](/CITZ-IMB-playbook/play4)
 
 ### 5: Transition to Ops
 Following a successful initial product development and deployment a Digital Product is launched. At this stage a decision is made  concerning the products lifecycle. Following  a knowledge transfer from the development team the product can be transitioned to operations.
 <br/>
-[Play Five](/CITZ-IMB-playbook/play5)
+[Play 5](/CITZ-IMB-playbook/play5)
 
 ### 6: Continuous Product Improvement
 In this cycle a team is responsible for a continuous cycle of product enhancement and ongoing support based on incorporating user feedback and operational metrics provided by monitoring.  The product owner shifts their role to becoming the “story owner”.
 <br/>
-[Play Six](/CITZ-IMB-playbook/play6)
+[Play 6](/CITZ-IMB-playbook/play6)
 
 ### 7: Sustainment Lifecycle
 Your product has been delivered you have a product roadmap that guides the product lifecycle.
 
 You need to ensure you revisit your plan to ensure the annual funding is in place to account for any and all changes including product retirement and product replacement.
 <br/>
-[Play Seven](/CITZ-IMB-playbook/play7)
+[Play 7](/CITZ-IMB-playbook/play7)
 
 ## Definition of a Modern Application
 Is an application that exhibits five important characteristics:

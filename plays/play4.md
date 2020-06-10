@@ -1,5 +1,5 @@
 ---
-title: Play Four
+title: Play 4
 permalink: /play4
 
 layout: post
@@ -14,8 +14,6 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/CITZ-IMB-playbook/play3)
-
 ## Develop your Product
 Methodologies and frameworks that result in working MVP solutions that have built in security and designed for operations.
 
@@ -32,7 +30,5 @@ Broad Examples Include:
 - Lorem Ipsum
 - Lorem Ipsum
 
-<br/>
-[Next Play](/CITZ-IMB-playbook/play5)
 <br/>
 [Return to top](#)

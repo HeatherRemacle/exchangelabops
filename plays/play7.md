@@ -1,5 +1,5 @@
 ---
-title: Play Seven
+title: Play 7
 permalink: /play7
 
 layout: post
@@ -14,7 +14,6 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-
 ## Sustainment Lifecycle
 Transitioning a solution to product sustainment
 
@@ -31,6 +30,5 @@ Broad Examples Include:
 - Lorem Ipsum
 - Lorem Ipsum
 
-[Previous Play](/CITZ-IMB-playbook/play6)
 <br/>
 [Return to top](#)

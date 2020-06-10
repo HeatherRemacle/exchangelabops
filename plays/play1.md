@@ -80,7 +80,5 @@ The Canadian and US federal governments detail a series of digital plays in thei
 - Engagement - solicit responses via surveys, workshops in order to provide data to guide the ideation process.
 
 <br/>
-[Next Play](/CITZ-IMB-playbook/play2) 
-<br/>
 [Back to the Top](#)
 

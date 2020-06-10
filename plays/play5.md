@@ -1,5 +1,5 @@
 ---
-title: Play Five
+title: Play 5
 permalink: /play5
 
 layout: post
@@ -14,8 +14,6 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/CITZ-IMB-playbook/play4)
-
 ## Transition to Ops
 Deploy, Test, Accept and Iterate – continuous development and delivery within the project development cycle  
 
@@ -32,7 +30,5 @@ Broad Examples Include:
 - Lorem Ipsum
 - Lorem Ipsum
 
-<br/>
-[Next Play](/CITZ-IMB-playbook/play6)
 <br/>
 [Return to top](#)

@@ -1,5 +1,5 @@
 ---
-title: Play Six
+title: Play 6
 permalink: /play6
 
 layout: post
@@ -14,8 +14,6 @@ subnav:
   - text: Metrics
     href: '#metrics'
 ---
-[Previous Play](/CITZ-IMB-playbook/play5)
-
 ## Continuous Product Improvement
 Retaining knowledge as project resources leave
 
@@ -32,7 +30,5 @@ Broad Examples Include:
 - Lorem Ipsum
 - Lorem Ipsum
 
-<br/>
-[Next Play](/CITZ-IMB-playbook/play7)
 <br/>
 [Return to top](#)
