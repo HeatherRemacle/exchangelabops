@@ -23,7 +23,7 @@ primary:
     href: https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb
     external: true
   - text: Provide Feedback
-    href: https://github.com/bcgov/CITZ-IMB-playbook/issues/new/
+    href: /feedback
     external: true
 
 secondary:
@@ -34,7 +34,7 @@ secondary:
     href: /theme/
 
 docs:
-  - text: CITZ Modern Application Playbook
+  - text: Modern Application Playbook
     href: /
   - text: Principles
     href: /principles
