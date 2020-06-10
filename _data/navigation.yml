@@ -22,12 +22,12 @@ primary:
   - text: IMB Hub
     href: https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb
     external: true
-  - text: Contribute
-    href: https://github.com/bcgov/CITZ-IMB-playbook
+  - text: Provide Feedback
+    href: https://github.com/bcgov/CITZ-IMB-playbook/issues/new/
     external: true
 
 secondary:
-  - text: Documentation
+  - text: GitHub Source
     href: https://github.com/bcgov/CITZ-IMB-playbook
     external: true
   - text: Theme
