@@ -32,15 +32,15 @@ IMB Patterns we will evolve will include...
 ### Platform & Solution Patterns
 - [DevExchange Adoption Pattern](/CITZ-IMB-playbook/devexchange-adoption)
     - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
-- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook//microsoft-powerbi-adoption)
+- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/microsoft-powerbi-adoption)
     - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
-- Microsoft Dynamics Adoption Pattern
+- [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/microsoft-dynamics-adoption)
     - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
-- Microsoft Sharepoint Adoption Pattern
+- [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/microsoft-sharepoint-adoption)
     - Describes a set of steps to allow your team to start a journey on the Microsoft Sharepoint platform.
-- RHEL OpenShift Adoption Pattern
+- [RHEL OpenShift Adoption Pattern](/CITZ-IMB-playbook/rhel-openshift-adoption)
     - Describes a set of steps to allow your team to start a journey on the OpenShift platform.
-- Web Application Development Pattern 
+- [Web Application Development Pattern](/CITZ-IMB-playbook/web-application-development)
     - <span style="color: green">\*currently in development\*</span>
     - Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
 

@@ -86,6 +86,14 @@ patterns:
     href: /devexchange-adoption
   - text: Microsoft PowerBI Adoption
     href: /microsoft-powerbi-adoption
+  - text: Microsoft Dynamics Adoption
+    href: /microsoft-dynamics-adoption
+  - text: Microsoft SharePoint Adoption
+    href: /microsoft-sharepoint-adoption
+  - text: RHEL OpenShift Adoption Pattern
+    href: /rhel-openshift-adoption
+  - text: Web Application Development Pattern
+    href: /web-application-development
   - text: Ministry IMB Business Unit Engagement
     href: /ministry-imb-business-unit-engagement
   - text: Ministry IMB Service Desk
