@@ -4,7 +4,7 @@ permalink: /feedback
 
 layout: post
 ---
-Thank you for providing us with feedback!
+We welcome your feedback!
 
 If you have a GitHub account, please create a new issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/).
 
