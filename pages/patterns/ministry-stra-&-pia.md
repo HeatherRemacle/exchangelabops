@@ -3,6 +3,7 @@ title: IMB Patterns
 permalink: /ministry-stra-&-pia
 
 layout: post
+sidenav: patterns
 ---
 ### Ministry STRA & PIA Pattern
 Describes a set of steps to allow your team to start your STRA and PIA journey.

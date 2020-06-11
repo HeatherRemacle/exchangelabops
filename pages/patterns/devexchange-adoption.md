@@ -1,11 +1,12 @@
 ---
-title: IMB Patterns
-permalink: /ministry-imb-service-desk
+title: Platform & Solution Patterns
+permalink: /devexchange-adoption
 
 layout: post
+sidenav: patterns
 ---
-### Ministry IMB Service Desk Pattern
-Describes a set of steps to follow when working with the IMB Service Desk.
+### DevExchange Adoption Pattern
+Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange.
 
 This pattern consists of:
 

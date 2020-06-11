@@ -4,6 +4,11 @@ permalink: /patterns
 
 layout: post
 sidenav: docs
+subnav:
+  - text: Platform & Solution Patterns
+    href: '#platform--solution-patterns'
+  - text: IMB Patterns
+    href: '#imb-patterns'
 ---
 Patterns describe typical issues that are experienced by Ministry business clients when they start to develop a new IM/IT based solution.  A pattern provides techniques that describe best practices toward achieving a desired outcome. 
 
@@ -24,10 +29,10 @@ A pattern has a:
 
 IMB Patterns we will evolve will include...
 
-#### Platform & Solution Patterns
-- DevExchange Adoption Pattern
+### Platform & Solution Patterns
+- [DevExchange Adoption Pattern](/CITZ-IMB-playbook/devexchange-adoption)
     - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
-- Microsoft PowerBI  Adoption Pattern
+- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook//microsoft-powerbi-adoption)
     - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
 - Microsoft Dynamics Adoption Pattern
     - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
@@ -39,7 +44,7 @@ IMB Patterns we will evolve will include...
     - <span style="color: green">\*currently in development\*</span>
     - Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
 
-#### IMB Patterns
+### IMB Patterns
 - [Ministry IMB Business Unit Engagement Pattern](/CITZ-IMB-playbook/ministry-imb-business-unit-engagement)
     - Describes a set of steps to allow your team to start a journey with the IMB.
 - [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/ministry-imb-service-desk)

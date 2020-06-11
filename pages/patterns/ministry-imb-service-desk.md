@@ -1,11 +1,12 @@
 ---
 title: IMB Patterns
-permalink: /ministry-imb-infrastructure-support
+permalink: /ministry-imb-service-desk
 
 layout: post
+sidenav: patterns
 ---
-### Ministry IMB Infrastructure Support Pattern
-Describes a set of steps to allow your team to engage the IMB Infrastructure support team and their service offerings.
+### Ministry IMB Service Desk Pattern
+Describes a set of steps to follow when working with the IMB Service Desk.
 
 This pattern consists of:
 

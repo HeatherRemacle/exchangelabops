@@ -3,6 +3,7 @@ title: IMB Patterns
 permalink: /ministry-imb-business-unit-engagement
 
 layout: post
+sidenav: patterns
 ---
 ### Ministry IMB Business Unit Engagement Pattern
 Describes a set of steps to allow your team to start a journey with the IMB.

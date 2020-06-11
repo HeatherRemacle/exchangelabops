@@ -78,3 +78,19 @@ footer:
     external: true
   - text: Fair Use
     href: /fairuse
+
+patterns:
+  - text: Patterns Home
+    href: /patterns
+  - text: DexExchange Adoption
+    href: /devexchange-adoption
+  - text: Microsoft PowerBI Adoption
+    href: /microsoft-powerbi-adoption
+  - text: Ministry IMB Business Unit Engagement
+    href: /ministry-imb-business-unit-engagement
+  - text: Ministry IMB Service Desk
+    href: /ministry-imb-service-desk
+  - text: Ministry STRA & PIA
+    href: /ministry-stra-&-pia
+  - text: Ministry IMB Infrastructure Support
+    href: /ministry-imb-infrastructure-support
