@@ -85,6 +85,9 @@ A modern application is one that exhibits five important characteristics:
 5. It conforms to the relevant elements of a [12-factor](https://12factor.net/) application.
 
 [CITZ Modern Application Checklist Download](/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK.docx)
+<a href="/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK.docx" download>CITZ Modern Application Checklist Download</a>
+
+
 
 <br/>
 [Back to the Top](#)
