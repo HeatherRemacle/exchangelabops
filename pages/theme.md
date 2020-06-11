@@ -1,7 +1,20 @@
 ---
+title: Working with the BC Web Design Jekyll Theme
 layout: page
 permalink: /theme/
 ---
+This GitHub Pages theme is based on the 18F + US Web Design System documentation template described [here](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/). 
+
+The 18F source GitHub  is available at [this](https://github.com/18F/uswds-jekyll) link where you will find information on how to apply the base theme including configuration for your own use. 
+
+In our clone we have replaced all references from ‘uswds’ to ‘bcwds’. 
+
+Additional customizations include the BC Government masthead, header and footer elements.
+
+The BCSans typography has also been incorporated.
+
+This work is made available under the BC DevExchange Apache 2.0 license with no warranty implied or expressed.
+
 # Links
 
 [This](javascript:void(0);) is a text link on a light background.
@@ -33,17 +46,17 @@ This is link that goes to an [external website](https://18f.gsa.gov){: .bc-exter
 
 | Document title  | Description  | Year |
 |---|---|---|
-| Declaration of Independence  | Statement adopted by the Continental Congress declaring independence from the British Empire. | 1776 |
-|  Bill of Rights | The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms. | 1791 |
-| Declaration of Sentiments  | A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens. | 1848 |
-| Emancipation Proclamation  | An executive order granting freedom to slaves in designated southern states. | 1863 |
+| Canada Act  | Act of the UK parliament that gave authority for the Canadian Parliament to proclaim the  [Constitution Act, 1982](https://en.wikipedia.org/wiki/Constitution_Act,_1982) | 1982 |
+|  British North America Act | Enacted by the Parliament of the United Kingdom | 1867 |
+| Canada’s 6th province  | British Columbia entered Confederation  | 1871 |
+| Statute of Westminster  | Removal of the ability of the British parliament to legislate for the Dominions | 1931 |
 
 ## Borderless
 
 {: .bc-table-borderless}
 | Document title  | Description  | Year |
 |---|---|---|
-| Declaration of Independence  | Statement adopted by the Continental Congress declaring independence from the British Empire. | 1776 |
-|  Bill of Rights | The first ten amendments of the U.S. Constitution guaranteeing rights and freedoms. | 1791 |
-| Declaration of Sentiments  | A document written during the Seneca Falls Convention outlining the rights that American women should be entitled to as citizens. | 1848 |
-| Emancipation Proclamation  | An executive order granting freedom to slaves in designated southern states. | 1863 |
+| Canada Act  | Act of the UK parliament that gave authority for the Canadian Parliament to proclaim the  [Constitution Act, 1982](https://en.wikipedia.org/wiki/Constitution_Act,_1982) | 1982 |
+|  British North America Act | Enacted by the Parliament of the United Kingdom | 1867 |
+| Canada’s 6th province  | British Columbia entered Confederation  | 1871 |
+| Statute of Westminster  | Removal of the ability of the British parliament to legislate for the Dominions | 1931 |
