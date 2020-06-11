@@ -59,7 +59,7 @@ Methodologies and frameworks that result in working MVP solutions that have buil
 [Play 4](/CITZ-IMB-playbook/play4)
 
 ### 5: Transition to Ops
-Following a successful initial product development and deployment a Digital Product is launched. At this stage a decision is made  concerning the products lifecycle. Following  a knowledge transfer from the development team the product can be transitioned to operations.
+Following a successful initial product development and deployment a digital product is launched. At this stage a decision is made concerning the products lifecycle. Following  a knowledge transfer from the development team the product can be transitioned to operations.
 <br/>
 [Play 5](/CITZ-IMB-playbook/play5)
 
@@ -76,13 +76,15 @@ You need to ensure you revisit your plan to ensure the annual funding is in plac
 [Play 7](/CITZ-IMB-playbook/play7)
 
 ## Definition of a Modern Application
-Is an application that exhibits five important characteristics:
-1. Supports multiple users through the interface of their choice
-  - Web, Mobile, API (application programming interface)
-2.	Provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS) for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI)
-3.	Data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON) or XML)
-4.	Is built on a modern stack that supports the creation of an application with a HTTP interface and an API which can consume and emit JSON data
-5.	Conforms to the relevant elements of a [12-factor](https://12factor.net/) application
+A modern application is one that exhibits five important characteristics:
+1. It supports multiple users through the interface of their choice.
+  - Web, Mobile, API (application programming interface).
+2. It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS) for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI).
+3. Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON) or XML).
+4. It is built on a modern stack that supports the creation of an application with a HTTP interface and an API which can consume and emit JSON data.
+5. It conforms to the relevant elements of a [12-factor](https://12factor.net/) application.
+
+[CITZ Modern Application Checklist Download](/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK.docx)
 
 <br/>
 [Back to the Top](#)

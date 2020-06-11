@@ -17,9 +17,9 @@ subnav:
     href: '#guidance-to-consider'
 ---
 ## Transition to Ops
-Following a successful initial product development and deployment a new modern application (digital product) is launched. At this stage a decision is made  concerning the products lifecycle. Ensure that the Operations team has ben involved in the previous plays on a regular basis from team formation product delivery so that they are aware and have been able to provide input into your delivery pipeline processes. Following formal  knowledge transfer from the development team the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) will require enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in Play 6. If however, the product meets the business needs, it will proceed through an operations cycle consisting of product governance and change management. 
+Following a successful initial product development and deployment a new modern application (digital product) is launched. At this stage a decision is made  concerning the products lifecycle. Ensure that the Operations team has been involved in the previous plays on a regular basis from team formation product delivery so that they are aware and have been able to provide input into your delivery pipeline processes. Following formal  knowledge transfer from the development team the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) will require enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in [Play 6](/CITZ-IMB-playbook/play6). If however, the product meets the business needs, it will proceed through an operations cycle consisting of product governance and change management. 
 
-### Step 1: Review your operations MOU (that was part of Play 2) with the Ministry IT Operations branch (or outsourced provider)
+### Step 1: Review your operations MOU (that was part of [Play 2](/CITZ-IMB-playbook/play2) with the Ministry IT Operations branch (or outsourced provider)
 - It takes time to resource additional skills, often as long as 6 months, plan accordingly in your transition plan
 
 ### Step 2: Complete knowledge transfer

@@ -25,47 +25,47 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
 
 ### Step 1: Obtain Business Unit endorsement
 #### Checklist
-- Follow [PROSCI](http://prosci.ca/) best practices (it all starts with change management)
-- Follow your business units project authorization process
-    - Create a Concept Case/Business Case
-    - Receive approval to proceed
-    - Business Unit BA works closely with the Project Secretariat (aka: IMB) Senior Business Consultant (SBC) holds regular biweekly meetings to surface initiatives and concerns
-    - Register proposal in the Ministry project tracking system
-- Develop your operating model 
+- Follow [PROSCI](http://prosci.ca/) best practices (it all starts with change management).
+- Follow your business units project authorization process.
+    - Create a Concept Case/Business Case.
+    - Receive approval to proceed.
+    - Business Unit BA works closely with the Project Secretariat (aka: IMB) Senior Business Consultant (SBC) holds regular biweekly meetings to surface initiatives and concerns.
+    - Register proposal in the Ministry project tracking system.
+- Develop your operating model.
   - What does it mean to be ‘done’?
   - Who will maintain and operate the solution?
-  - What is the sustainment lifecycle for the product? (skip ahead and go to [Play 7](/CITZ-IMB-playbook/play7) now)
+  - What is the sustainment lifecycle for the product? (Skip ahead and go to [Play 7](/CITZ-IMB-playbook/play7) now.)
 
 ### Step 2: Follow the Ministry IM-IT project intake process
 #### Checklist
-- Submit project Intake Form
+- Submit project Intake Form.
     - IM/IT Project Coordinator works with SBC to ensure submission receives visibility.
     - Provide project summary information.
     - Complete client project survey in order to rank submission.
-- Provide resources to participate at the Architecture Review Board(ARB)
-    - ARB assesses submission to determine technical fit with GCIO/MCIO direction
-    - Project review by the Project Review Board (PRAB) 
-        - Upon approval to proceed a project charter will be required 
-        - Project submission will be made to the OCIO-DIO and authorized by the DMC
+- Provide resources to participate at the Architecture Review Board(ARB).
+    - ARB assesses submission to determine technical fit with GCIO/MCIO direction.
+    - Project review by the Project Review Board (PRAB).
+        - Upon approval to proceed a project charter will be required.
+        - Project submission will be made to the OCIO-DIO and authorized by the DMC.
 
 ### Step 3: Determine Project Resourcing
 #### Checklist
-- Internally managed initiative 
-    - Business Unit has the skillset and resources to successfully manage and deliver the project 
-    - Business Unit enters a procurement activity to obtain an IM/IT solution (RFP)
-- Partnership Agreement
+- Internally managed initiative.
+    - Business Unit has the skillset and resources to successfully manage and deliver the project.
+    - Business Unit enters a procurement activity to obtain an IM/IT solution (RFP).
+- Partnership Agreement.
     - Business Unit enters into an Alliance agreement with the BCDevExchange/OCIO-DPDD to design and develop a solution -*or*-
-    - Business Unit enters a “Memorandum of Understanding” (MOU) with the IMB to co-develop and deliver an IM/IT solution 
-      - Incorporate a transition plan section into your MOU
-      - Formulate a common understanding of the ‘definition of done’
+    - Business Unit enters a “Memorandum of Understanding” (MOU) with the IMB to co-develop and deliver an IM/IT solution.
+      - Incorporate a transition plan section into your MOU.
+      - Formulate a common understanding of the ‘definition of done’.
     - **NOTE:** It takes time to resource additional skills, often as long as 6 months, plan accordingly in your transition plan -*or*-
-    - Draw down on Ministry contract for an external vendor (such as CGI) via the IMBs Request for Service (RFS) process
+    - Draw down on Ministry contract for an external vendor (such as CGI) via the IMBs Request for Service (RFS) process.
 
 ### Step 4: Provide regular updates 
 #### Checklist
-- Based upon the reporting requirement
-  - IM/IT capital = quarterly
-  - Project reporting = monthly
+- Based upon the reporting requirement.
+  - IM/IT capital = quarterly.
+  - Project reporting = monthly.
 - Working with the Secretariat Portfolio Manager / Project Analyst provide regular status update to  Ministry executives.
 
 ### Resources
@@ -73,11 +73,10 @@ The CITZ IMB maintains a collection of templates and information in their [Proje
 
 ### Guidance to consider
 Broad examples include:
-- [Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/)  
-- [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board) should be aware of your project and may ask you to provide a presentation
-- Understand why [Governance](http://www.optimumonline.ca/pdf/29-2/governance.pdf) is important
-- Adhere to Government IM/IT Principles and Standards
-
+- Understand the [Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/).
+- [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board) should be aware of your project and may ask you to provide a presentation.
+- Understand why [Governance](http://www.optimumonline.ca/pdf/29-2/governance.pdf) is important.
+- Adhere to Government IM/IT Principles and Standards.
 
 <br/>
 [Back to the Top](#)

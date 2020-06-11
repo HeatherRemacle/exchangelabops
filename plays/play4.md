@@ -48,7 +48,7 @@ Define your [architecturally significant requirements](https://en.wikipedia.org/
 - Monitorability
 
 ### Step 1: Meet with your team
-- Establish a [team agreement](https://shift.newco.co/2017/07/23/team-working-agreements-the-why-what-and-how/#:~:text=Why%20is%20it%20important%3F,together%20to%20produce%20great%20results.)
+- Establish a [team agreement](https://shift.newco.co/2017/07/23/team-working-agreements-the-why-what-and-how/#:~:text=Why%20is%20it%20important%3F,together%20to%20produce%20great%20results.).
 
 ### Step 2: Design / describe your Solution (conceptual architecture) 
 - Whiteboarding – relationships between components, data model
@@ -73,14 +73,14 @@ Verify your  processes for successful:
 - Application Security
 
 ### Step 8: Start Coding, testing  and  commit to your source code management system 
-- (Where it makes sense…) adopt a [Test Driven Development](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/#:~:text=Test%2Ddriven%20development%20(TDD),to%20pass%20that%20test%2C%20and) (TDD) approach to coding
+- (Where it makes sense…) adopt a [Test Driven Development](https://technologyconversations.com/2013/12/20/test-driven-development-tdd-example-walkthrough/#:~:text=Test%2Ddriven%20development%20(TDD),to%20pass%20that%20test%2C%20and) (TDD) approach to coding.
 
 ### Step 9: Submit for [Code Reviews](https://www.perforce.com/blog/qac/9-best-practices-for-code-review) (as required) 
 
 ### Step 10: [Complete User Acceptance testing](https://www.smartsourcingglobal.com/user-acceptance-testing-uat-in-agile-practices/#:~:text=User%20Acceptance%20Testing%20(UAT)%20in%20Agile%20Practices,%2Dworld%20scenarios%2C%20as%20specified.) and remediate defects
 
 ### Step 11: Deploy,  promote through your environments
-- Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done) (DoD) prior to deployment
+- Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done) (DoD) prior to deployment.
 
 ### Step 12: Demonstrate your products frequently, obtain user feedback 
 - [Sprint demos](https://agileforall.com/how-to-give-a-great-sprint-demo/) (feature delivery)
@@ -98,9 +98,9 @@ An MVP is no longer considered to be an experiment, but a product that has value
 [https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
 ### Guidance to consider
-- [Agile and Software Product Integrity](https://cacm.acm.org/magazines/2017/10/221329-what-can-agile-methods-bring-to-high-integrity-software-development/fulltext)
-- Define and develop your Pipeline (ex: Jenkins)
-- Create and maintain  a [Test Harness](https://www.guru99.com/what-is-test-harness-comparison.html)
+- Understand [Agile and Software Product Integrity](https://cacm.acm.org/magazines/2017/10/221329-what-can-agile-methods-bring-to-high-integrity-software-development/fulltext).
+- Define and develop your Pipeline (ex: Jenkins).
+- Create and maintain  a [Test Harness](https://www.guru99.com/what-is-test-harness-comparison.html).
 
 <br/>
 [Back to the Top](#)

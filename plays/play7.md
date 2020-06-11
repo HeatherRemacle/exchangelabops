@@ -29,23 +29,23 @@ You need to ensure you revisit your plans to ensure that annual funding is in pl
 
 ### Step 1: Maintain Happy User
 -	Review your products goals and assumptions - are they still relevant?
--	Evaluate and Analyze product analytics data (if available, if not look to create it) 
--	Interpret user feedback 
--	Conduct product research
+-	Evaluate and Analyze product analytics data (if available, if not look to create it).
+-	Interpret user feedback.
+-	Conduct product research.
 
 ### Step 2: Maintain product funding
--	Review your products’ value proposition
--	Get ahead of the budget cycle, review your opex regularly, update your budget plan often
--	Understand opportunities to adopt non proprietary services and products
--	Seek reviews from the finance team
+-	Review your products’ value proposition.
+-	Get ahead of the budget cycle, review your opex regularly, update your budget plan often.
+-	Understand opportunities to adopt non proprietary services and products.
+-	Seek reviews from the finance team.
 
 ### Step 3: Maintain vendor / partner relationships (including your support contracts)
 
 ### Step 4: Continuously improve your overall lifecycle
--	The goal is continuous productivity improvement
+-	The goal is continuous productivity improvement.
 
 ### Step 5: Maintain product integrity & quality
-- 	Product Owner and/or the Application Manager’s responsibility 
+- Product Owner and/or the Application Manager’s responsibility 
 
 ### Guidance to consider:
 - Business Unit Budgeting Exercise
@@ -53,7 +53,7 @@ You need to ensure you revisit your plans to ensure that annual funding is in pl
   -	UX review
 - Industry Analysis
 - Review the corporate product inventory (look for new opportunities)
-- [US Department of Defense](http://acqnotes.com/acqnote/careerfields/life-cycle-sustainment-plan-lcsp) LCSP (as an example).
+- [US Department of Defense](http://acqnotes.com/acqnote/careerfields/life-cycle-sustainment-plan-lcsp) LCSP (as an example)
 
 <br/>
 [Back to the Top](#)
