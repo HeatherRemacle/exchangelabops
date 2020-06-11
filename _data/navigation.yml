@@ -24,7 +24,6 @@ primary:
     external: true
   - text: Provide Feedback
     href: /feedback
-    external: true
 
 secondary:
   - text: GitHub Source
