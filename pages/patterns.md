@@ -42,9 +42,9 @@ IMB Patterns we will evolve will include...
 #### IMB Patterns
 - [Ministry IMB Business Unit Engagement Pattern](/CITZ-IMB-playbook/ministry-imb-business-unit-engagement)
     - Describes a set of steps to allow your team to start a journey with the IMB.
-- Ministry IMB Service Desk Pattern
+- [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/ministry-imb-service-desk)
     - Describes a set of steps to follow when working with the IMB Service Desk.
-- Ministry STRA & PIA Pattern
+- [Ministry STRA & PIA Pattern](/CITZ-IMB-playbook/ministry-stra-&-pia)
     - Describes a set of steps to allow your team to start your STRA journey.
-- Ministry IMB Infrastructure Support Pattern
+- [Ministry IMB Infrastructure Support Pattern](/CITZ-IMB-playbook/ministry-imb-infrastructure-support)
     - Describes a set of steps to allow your team to engage the IMB Infrastructure support  team and their service offerings.
