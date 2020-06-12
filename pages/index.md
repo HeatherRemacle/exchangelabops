@@ -32,7 +32,7 @@ subnav:
 ---
 [Download a PDF version of this playbook](/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf)
 
-This playbook is designed to help you on your IT project journey. It provides the reader with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
+This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
 
 ## What does it do?
 Contributes to a shared understanding of the solution ecosystem from ideation to sustained operating IM/IT systems. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
