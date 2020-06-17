@@ -24,7 +24,7 @@ We must begin digital projects by developing solutions for the people who will u
 
 ### Step 1: Promote innovation from within
 #### Checklist
-- Understand your business mandate.
+- Understand your business mandate. Test
     - Focus on business challenges. Invite your staff to contribute ideas.
     - Formulate problem statements to guide conversations.
     - Be specific, create a sense of urgency.
