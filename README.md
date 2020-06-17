@@ -65,7 +65,7 @@ Contributions are welcome, but please review this document before making any cha
 
 - ### Best Practices:
   - Be careful when using/passing/storing credentials
-  - •	Maintain quality
+  - Maintain quality
 
 - ### Pull Requests:
   - We use the [Forking process](https://guides.github.com/activities/forking/) in our development. Click [Here](https://blog.scottlowe.org/2015/01/27/using-fork-branch-git-workflow/) for more details and best practices
