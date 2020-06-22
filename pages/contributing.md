@@ -31,6 +31,8 @@ subnav:
 ### How to Create an Issue
 Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue). 
 
+You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/).
+
 ### Guidelines for Creating Issues
 To help our developers resolve your issue, we suggest the following:
 - Include the URL of the page with the issue.
@@ -56,7 +58,7 @@ If you really are just making small changes to a few words in one file, then it 
 *Note: This section assumes some knowledge of Git.*
 
 If you are making changes to the content of a few different pages then it would be best to do the following:
-- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the repo.
+- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook).
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
 - Ensure you are familiar with [Markdown](#a-note-on-markdown) syntax.
@@ -77,7 +79,7 @@ git push origin master
 If you are making big structural or visual changes to the playbook, we suggest that you get set up for local development on your computer. This increases efficiency by allowing you to preview the changes you are making in real time, and it reduces the risk of pushing errors to production.
 
 To do this you must do the following:
-- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the repo.
+- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook).
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
 - Set up your workstation for [local jekyll development](#developing-with-jekyll).
