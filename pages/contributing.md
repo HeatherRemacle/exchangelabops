@@ -55,7 +55,7 @@ If you really are just making small changes to a few words in one file, then it 
 ### Content of Multiple Pages
 *Note: This section assumes some knowledge of Git.*
 
-If you are making changes to the content of a few different pages then it would be best to to the following:
+If you are making changes to the content of a few different pages then it would be best to do the following:
 - Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the repo.
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
