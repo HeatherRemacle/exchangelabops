@@ -59,6 +59,7 @@ If you are making changes to the content of a few different pages then it would 
 - Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the repo.
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
+- Ensure you are familiar with [Markdown](#a-note-on-markdown) syntax.
 - Make any changes you are planning.
 - Issue the following commands to push the changes to your forked repo:
 ~~~~ 
@@ -80,7 +81,7 @@ To do this you must do the following:
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
 - Set up your workstation for [local jekyll development](#developing-with-jekyll).
-- Familiarize yourself with the [structure of the playbook](#navigation-and-general-structure).
+- Familiarize yourself with the [structure of the playbook](#playbook-structure).
 - Preview your changes with a local server.
 - Issue the following commands to push the changes to your forked repo:
 ~~~~ 
@@ -104,16 +105,17 @@ While Jekyll will work on Windows, it is not officially supported by the Jekyll 
 ### Getting Started
 To get started developing with Jekyll, use this [guide](https://jekyllrb.com/docs/). The terminal will be very helpful if you are missing any packages, so be sure to read any error messages in detail.
 
-## Playbook Structure
-### Markdown
+### A Note on Markdown
 The Markdown files that hold the playbook content live in the “plays” and “pages” folders. If you are unfamiliar with Markdown, [this](https://www.markdownguide.org/basic-syntax/) is a good place to get started.
 
-### CSS
-The CSS files that govern the look of the site live in the "_sass" folder. If you are making changes here, we assume you know what you are doing.
+## Playbook Structure
+The playbook follows the general structure of a Jekyll site. If you wish to make large structural or navigational changes, the resources below should help you.
 
-### Navigation and General Structure
-*Note: This section will be updated to better explain how to navigate the playbook’s folder structure and will likely include some links to more complex Jekyll documentation.*
-
-Making changes to the structure of the website is a bit more complicated, but some important folders are "_layouts", "_includes", and "_data". 
+*Note: the following list is not exhaustive (as there is a wealth of Jekyll documnetation available online), but it should be a good start.*
+- [Directory Structure](https://jekyllrb.com/docs/structure/)
+- [Configuring Site Navigation](https://jekyllrb.com/tutorials/navigation/)
+- [Variables](https://jekyllrb.com/docs/variables/)
+- [Includes](https://jekyllrb.com/docs/includes/)
+- [Layouts](https://jekyllrb.com/docs/layouts/)
 
 [Back to the Top](#)
