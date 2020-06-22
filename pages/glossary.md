@@ -34,7 +34,7 @@ Application Manager
 
 ### B	
 
-[backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
+[Backlog](https://www.scrum.org/resources/what-is-a-product-backlog)
 
 [BC Dev Exchange](https://bcdevexchange.org/)
 
@@ -46,15 +46,15 @@ Application Manager
 
 ### C	
 
-[change management](https://www.prosci.com/resources/articles/what-is-change-management)
+[Change Management](https://www.prosci.com/resources/articles/what-is-change-management)
 
 [Citizen Services (CITZ)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services)
 
-[cloud native](https://github.com/cncf/toc/blob/master/DEFINITION.md)
+[Cloud Native](https://github.com/cncf/toc/blob/master/DEFINITION.md)
 
-[Code review](https://smartbear.com/learn/code-review/agile-code-review-process/)
+[Code Review](https://smartbear.com/learn/code-review/agile-code-review-process/)
 
-[Code repository](https://en.wikipedia.org/wiki/Repository_(version_control))
+[Code Repository](https://en.wikipedia.org/wiki/Repository_(version_control))
 
 [Code With Us (CWU)](https://engage.gov.bc.ca/data/2017/01/03/building-community-code-with-us/)
 
@@ -89,7 +89,7 @@ Application Manager
 
 [EPICS](https://www.atlassian.com/agile/project-management/epics)
 
-[escalation](https://wiki.en.it-processmaps.com/index.php/Checklist_Incident_Escalation)
+[Escalation](https://wiki.en.it-processmaps.com/index.php/Checklist_Incident_Escalation)
 	
 ### F
 
@@ -226,7 +226,7 @@ Senior Business Consultant
 
 [Test Driven Development (TDD)](https://backend.turing.io/module1/lessons/test_driven_development?)
 
-[triage](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef)
+[Triage](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef)
 	
 ### U	
 
@@ -248,7 +248,7 @@ Senior Business Consultant
 
 [waterfall](https://en.wikipedia.org/wiki/Waterfall_model)
 
-[wireframes](https://theblog.adobe.com/everything-you-need-to-know-about-wireframes-and-prototypes/)
+[Wireframes](https://theblog.adobe.com/everything-you-need-to-know-about-wireframes-and-prototypes/)
 
 ### X	
 	

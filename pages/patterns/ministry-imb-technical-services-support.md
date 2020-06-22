@@ -17,4 +17,4 @@ IMB Technical Services works with the different business units to manage their t
     - Assistance with setup, install and upgrades for applications and Web infrastructure to support applications.
     - Firewall rule management.
     - Infrastructure patch and change management.
-- IMB Technical Services Team is available to provide consulting services on these services.
+- IMB Technical Services Team is available by [email](mailto:CITZIMBTechServ@gov.bc.ca) to provide consulting services on these services.

@@ -32,13 +32,13 @@ subnav:
 ---
 [Download a PDF version of this playbook](/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf)
 
-This playbook is designed to help you on your IT project journey. It provides the reader with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
+This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
 
 ## What does it do?
-Contributes to a shared understanding of the solution ecosystem from ideation to sustained operating IM/IT systems. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
+Contributes to a shared understanding of the solution ecosystem from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
 
 ## What are the Benefits?
-Provides the IMB and our partners, vendors and clients with key resources that will assist them to identify, use and leverage trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
+Provides the IMB and our partners, vendors and clients with key resources that will assist them in identifying, using and leveraging trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
 
 ## The Plays...
 
@@ -61,17 +61,17 @@ Methodologies and frameworks that result in working MVP solutions that have buil
 [Play 4](/CITZ-IMB-playbook/play4)
 
 ### 5: Transition to Ops
-Following a successful initial product development and deployment a digital product is launched. At this stage a decision is made concerning the products lifecycle. Following  a knowledge transfer from the development team the product can be transitioned to operations.
+Following product development and deployment, a decision is made concerning the products lifecycle. A knowledge transfer from the development team to the operations team is realized.
 <br/>
 [Play 5](/CITZ-IMB-playbook/play5)
 
 ### 6: Continuous Product Improvement
-In this cycle a team is responsible for a continuous cycle of product enhancement and ongoing support based on incorporating user feedback and operational metrics provided by monitoring.  The product owner shifts their role to becoming the “story owner”.
+In this play, a team is responsible for a continuous cycle of product enhancement and ongoing support based on incorporating user feedback and operational metrics provided by monitoring.  The product owner shifts their role to becoming the “story owner”.
 <br/>
 [Play 6](/CITZ-IMB-playbook/play6)
 
 ### 7: Sustainment Lifecycle
-Your product has been delivered you have a product roadmap that guides the product lifecycle.
+Your product has been delivered and you have a product roadmap that guides your products lifecycle.
 
 You need to ensure you revisit your plan to ensure the annual funding is in place to account for any and all changes including product retirement and product replacement.
 <br/>
