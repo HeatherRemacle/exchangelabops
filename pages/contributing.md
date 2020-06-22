@@ -46,7 +46,7 @@ When actioning an issue, consider [linking your pull request](https://help.githu
 Furthermore, take some time to consider what kind of change you are making. Is it a [small change](#small-changes), or a [big change](#big-changes)? This may determine how you resolve the issue.
 
 ## Making Changes
-### What kind of change fo you want to make?
+### What kind of change do you want to make?
 - I want to make a [small change to a few words on one page](#small-changes).
 - I want to make [changes to the content of multiple pages](#content-of-multiple-pages).
 - I want to make [big changes to the look and/or structure of the site](#big-changes).
@@ -113,7 +113,7 @@ The Markdown files that hold the playbook content live in the “plays” and �
 ## Playbook Structure
 The playbook follows the general structure of a Jekyll site. If you wish to make large structural or navigational changes, the resources below should help you.
 
-*Note: the following list is not exhaustive (as there is a wealth of Jekyll documnetation available online), but it should be a good start.*
+*Note: the following list is not exhaustive (as there is a wealth of Jekyll documentation available online), but it should be a good start.*
 - [Directory Structure](https://jekyllrb.com/docs/structure/)
 - [Configuring Site Navigation](https://jekyllrb.com/tutorials/navigation/)
 - [Variables](https://jekyllrb.com/docs/variables/)
@@ -121,3 +121,5 @@ The playbook follows the general structure of a Jekyll site. If you wish to make
 - [Layouts](https://jekyllrb.com/docs/layouts/)
 
 [Back to the Top](#)
+
+
