@@ -103,6 +103,10 @@ patterns:
   - text: Ministry IMB Technical Services Support Pattern
     href: /ministry-imb-technical-services-support
 
-contributing:
-  - text: Contributing
-    href: /contributing
+maintenanceanddevelopment:
+  - text: Maintenance and Development
+    href: /maintenanceanddevelopment
+
+feedback:
+  - text: Provide Feedback
+    href: /feedback

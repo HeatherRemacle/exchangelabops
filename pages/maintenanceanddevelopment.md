@@ -1,9 +1,9 @@
 ---
-title: Contributing
-permalink: /contributing
+title: Maintenance and Development
+permalink: /maintenanceanddevelopment
 
 layout: post
-sidenav: contributing
+sidenav: maintenanceanddevelopment
 subnav:
   - text: What would you like to do?
     href: '#what-would-you-like-to-do'
@@ -13,8 +13,6 @@ subnav:
     href: '#making-changes'
   - text: Small Changes
     href: '#small-changes'
-  - text: Changes to Multiple Pages
-    href: '#content-of-multiple-pages'
   - text: Big Changes
     href: '#big-changes'
   - text: Developing With Jekyll
@@ -23,23 +21,10 @@ subnav:
     href: '#playbook-structure'
 ---
 ## What would you like to do?
-- I want to [suggest a change](#issues).
 - I want to [resolve an issue](#resolving-and-actioning-issues).
-- I want to [make a change myself](#making-changes).
+- I want to [make my own change](#making-changes).
 
 ## Issues
-### How to Create an Issue
-Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue). 
-
-You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/).
-
-### Guidelines for Creating Issues
-To help our developers resolve your issue, we suggest the following:
-- Include the URL of the page with the issue.
-- If there is a typo, please include the selection of text that should be changed, along with the text to replace it.
-- If the issue is regarding some visual aspect of the site, please include a screenshot highlighting what you would like changed.
-- In general, please try to include as much information as possible.
-
 ### Resolving and Actioning Issues
 When actioning an issue, consider [linking your pull request](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue). This not only allows for collaborators to see who is working on what issues, but it also makes it so that the issue is automatically closed when the pull request is merged.
 
@@ -48,43 +33,31 @@ Furthermore, take some time to consider what kind of change you are making. Is i
 ## Making Changes
 ### What kind of change do you want to make?
 - I want to make a [small change to a few words on one page](#small-changes).
-- I want to make [changes to the content of multiple pages](#content-of-multiple-pages).
-- I want to make [big changes to the look and/or structure of the site](#big-changes).
+- I want to make [big changes](#big-changes).
+
+Big changes include:
+- Changes to the content of multiple pages
+- Changes to the structure of the website
+- Changes visual aspects of the website
 
 ### Small Changes
 If you really are just making small changes to a few words in one file, then it would be acceptable and easy to use the [GitHub file editor](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository). This is not advisable for larger changes, or if you plan on making changes to multiple pages.
 
-### Content of Multiple Pages
-*Note: This section assumes some knowledge of Git.*
-
-If you are making changes to the content of a few different pages then it would be best to do the following:
-- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook).
-- Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
-- [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
-- Ensure you are familiar with [Markdown](#a-note-on-markdown) syntax.
-- Make any changes you are planning.
-- Issue the following commands to push the changes to your forked repo:
-~~~~ 
-git add . 
-git commit -m “Meaningful message about your changes”
-git push origin master
-~~~~
-- Ensure everything looks good on your forked GitHub Pages site.
-    - *Note: the way GitHub Pages compiles your website may differ than what you see during local development.*
-- Make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests).
-
 ### Big Changes
-*Note: This section assumes some knowledge of Git and web development.*
+You will need a foundational understanding of Git and GitHub concepts, such as repos, commits, and pull requests, for submitting larger contributions.
+
+When you submit a contribution for adding, changing, or removing content you will most commonly submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), which will be reviewed.
 
 If you are making big structural or visual changes to the playbook, we suggest that you get set up for local development on your computer. This increases efficiency by allowing you to preview the changes you are making in real time, and it reduces the risk of pushing errors to production.
 
-To do this you must do the following:
+Follow these steps when making big changes:
 - Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook).
-- Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the fork.
+- Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) on the forked repo.
 - [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) your fork to your local machine.
-- Set up your workstation for [local jekyll development](#developing-with-jekyll).
-- Familiarize yourself with the [structure of the playbook](#playbook-structure).
-- Preview your changes with a local server.
+- Follow these steps if you want to preview your changes locally:
+    - Set up your workstation for [Jekyll development](#developing-with-jekyll).
+    - Familiarize yourself with the [structure of the playbook](#playbook-structure).
+    - Preview your changes with a local server.
 - Issue the following commands to push the changes to your forked repo:
 ~~~~ 
 git add . 
@@ -101,6 +74,14 @@ If the changes you are making to the site are quite large, consider creating a n
 - [Version tagging concepts](https://semver.org/) 
 
 ## Developing With Jekyll
+### Some Background on This Project
+This Playbook website has been developed using the 18F and US Web Design System Jekyll template described [here](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/). The content is hosted on the [bcgov](https://github.com/bcgov) collection of repositories.
+ 
+This Playbook is a clone of the 18F US Web Design System that has been modified for the BC Government branding. For information on how to apply the base theme, including configuration for your own use, go [here](https://github.com/18F/uswds-jekyll). Note that in our clone we have replaced all references from ‘uswds’ to ‘bcwds’. Additional customizations include the BC Government masthead, header, and footer elements. The BCSans typography has also been incorporated.
+ 
+To modify the site structure or make changes to the content we recommend you familiarize yourself with the following concepts and requirements.
+
+
 ### OS Recommendation
 While Jekyll will work on Windows, it is not officially supported by the Jekyll team. If you only have access to Windows, please consider using [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/) for development.
 
@@ -121,5 +102,3 @@ The playbook follows the general structure of a Jekyll site. If you wish to make
 - [Layouts](https://jekyllrb.com/docs/layouts/)
 
 [Back to the Top](#)
-
-
