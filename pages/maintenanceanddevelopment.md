@@ -9,8 +9,6 @@ subnav:
     href: '#development-background'
   - text: Resolving and Actioning Issues
     href: '#resolving-and-actioning-issues'
-  - text: Making Changes
-    href: '#making-changes'
   - text: Small Changes
     href: '#small-changes'
   - text: Big Changes
@@ -34,20 +32,10 @@ When actioning an issue, consider [linking your pull request](https://help.githu
 
 Furthermore, take some time to consider what kind of change you are making. Is it a [small change](#small-changes), or a [big change](#big-changes)? This may determine how you resolve the issue.
 
-## Making Changes
-#### [Small changes](#small-changes) include:
-- Fixes for typos
-- Revisions to sections of text on one page
+## Small Changes
+If you are just making small changes to a few words in one file, then it would be acceptable and easy to use the [GitHub file editor](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) on the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook). This is not advisable for larger changes, or if you plan on making changes to multiple pages.
 
-#### [Big changes](#big-changes) include changes to:
-- The content of multiple pages
-- The structure of the website
-- Visual aspects of the website
-
-### Small Changes
-If you really are just making small changes to a few words in one file, then it would be acceptable and easy to use the [GitHub file editor](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository) on the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook). This is not advisable for larger changes, or if you plan on making changes to multiple pages.
-
-### Big Changes
+## Big Changes
 You will need a foundational understanding of Git and GitHub concepts, such as repos, commits, and pull requests, for submitting larger contributions.
 
 When you submit a contribution for adding, changing, or removing content you will have to submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), which will be reviewed.
@@ -97,4 +85,8 @@ The playbook follows the general structure of a Jekyll site. If you wish to make
 - [Includes](https://jekyllrb.com/docs/includes/)
 - [Layouts](https://jekyllrb.com/docs/layouts/)
 
+<br>
+<br>
+<br>
+<br>
 [Back to the Top](#)
