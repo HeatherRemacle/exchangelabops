@@ -20,7 +20,7 @@ subnav:
 
 ---
 ## Ideate solutions that meet the needs of business
-We must begin digital projects by developing solutions for the people who will use them. Users are often but not always employees of the Ministry.  Staff who interact with users on a regular basis are often an untapped source of information. Creating an environment that promotes their participation will strengthen the business unit mandate and contribute to its future success. The ideation process is less about what the product will look like, and more about who it is for, how it works and why.
+We must begin digital projects by developing solutions for the people who will use them. Users are often, but not always, employees of the Ministry.  Staff who interact with users on a regular basis are often an untapped source of information. Creating an environment that promotes their participation will strengthen the business unit mandate and contribute to its future success. The ideation process is less about what the product will look like, and more about who it is for, how it works and why.
 
 ### Step 1: Promote innovation from within
 #### Checklist
