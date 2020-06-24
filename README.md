@@ -57,9 +57,9 @@ Objectives include:
 
 > We are actively adding new features and enhancements.
 
-Read about our design theme [here](https://bcgov.github.io/CITZ-IMB-playbook/theme/)
+Read about our design theme [here](https://bcgov.github.io/CITZ-IMB-playbook/theme/).
 
-Read our development guide [here](https://bcgov.github.io/CITZ-IMB-playbook/maintenanceanddevelopment)
+Read our development guide [here](https://bcgov.github.io/CITZ-IMB-playbook/maintenanceanddevelopment).
 
 ## Contributing Guideline:
 Contributions are welcome, but please review this document before making any change
