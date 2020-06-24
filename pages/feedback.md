@@ -33,23 +33,10 @@ To help our developers resolve your issue, we suggest the following:
 - If the issue is regarding some visual aspect of the site, please include a screenshot highlighting what you would like changed.
 - In general, please try to include as much information as possible.
 
+<br>
+<br>
+<br>
+<br>
 [Back to the Top](#)
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 
