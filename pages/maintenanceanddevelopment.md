@@ -21,7 +21,13 @@ subnav:
     href: '#playbook-structure'
 ---
 ## Development Background
-We developed this playbook website with the [US Web Design System](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/) in mind. The site is a clone of the [18F US Web Design Jekyll theme](https://github.com/18F/uswds-jekyll)  that we modified to fit BC Government branding. In our clone we have replaced all references from ‘uswds’ to ‘bcwds’. Additional changes include the BC Government masthead, header, and footer elements. We have also incorporated [The BC Sans font](https://developer.gov.bc.ca/Typography). The content is hosted on the [bcgov](https://github.com/bcgov) collection of repositories.
+We developed this playbook website with the [US Web Design System](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/) in mind. The site is a clone of the [18F US Web Design Jekyll theme](https://github.com/18F/uswds-jekyll)  that we modified to fit BC Government branding. The content is hosted on the [bcgov](https://github.com/bcgov) collection of repositories.
+
+Some of the changes we made include:
+- Replacing all instances of ‘uswds’ to ‘bcwds’
+- Inclusion of the BC Government masthead
+- Alteration of the header and footer elements
+- Application of the [BC Sans font](https://developer.gov.bc.ca/Typography)
 
 ## Resolving and Actioning Issues
 When actioning an issue, consider [linking your pull request](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue). This not only allows for collaborators to see who is working on what issues, but it also makes it so that the issue is automatically closed when the pull request is merged.
@@ -44,7 +50,7 @@ If you really are just making small changes to a few words in one file, then it 
 ### Big Changes
 You will need a foundational understanding of Git and GitHub concepts, such as repos, commits, and pull requests, for submitting larger contributions.
 
-When you submit a contribution for adding, changing, or removing content you will most commonly submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), which will be reviewed.
+When you submit a contribution for adding, changing, or removing content you will have to submit a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests), which will be reviewed.
 
 If you are making big structural or visual changes to the playbook, we suggest that you get set up for local development on your computer. This increases efficiency by allowing you to preview the changes you are making in real time, and it reduces the risk of pushing errors to production.
 
