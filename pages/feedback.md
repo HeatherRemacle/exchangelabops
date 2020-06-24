@@ -12,19 +12,19 @@ subnav:
   - text: Guidelines for Creating Issues
     href: '#guidelines-for-creating-issues'
 ---
-This site welcomes contributions by Playbook readers! On this page you will find the information required to make your submission, which will be tracked and vetted by the Playbook product owner who maintains the playbook content.
+This site welcomes contributions by playbook readers! On this page you will find the information required to make your submission, which will be tracked and vetted by the playbook product owner who maintains the playbook content.
 
-If you are part of the Playbook maintenance team, please consult the [maintenance and development guide](/CITZ-IMB-playbook/maintenanceanddevelopment).
+If you are part of the playbook maintenance team, please consult the [maintenance and development guide](/CITZ-IMB-playbook/maintenanceanddevelopment).
 
 ## GitHub Issues
-The Playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
+The playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
 
 ### How to Create an Issue
 Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue). 
 
 You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/) and check on the status of your issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues).
 
-If you don't have a GitHub account, you can send your feedback to [Robert Kobenter](mailto:robert.w.kobenter@gov.bc.ca).
+If you don't have a GitHub account, please send your feedback to [Robert Kobenter](mailto:robert.w.kobenter@gov.bc.ca).
 
 ### Guidelines for Creating Issues
 To help our developers resolve your issue, we suggest the following:
