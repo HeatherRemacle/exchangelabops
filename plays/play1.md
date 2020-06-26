@@ -76,7 +76,7 @@ The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/g
 The Canadian and US federal governments detail a series of digital plays in their playbooks. In The [Government of Canada Digital Playbook ‘design with users’](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html) section and the [US Digital Service](https://playbook.cio.gov/) plays 1,2 and 3 provide useful questions to ask during ideation.
 
 ### Guidance to consider
-- Research - develop a fulsome understanding of the problem and the intended audience. Understand the solution context and dependencies.
+- Research - develop a fulsome understanding of the problem and the intended audience. Understand the solution context and dependencies. Follow the [BC User Research Guide](https://bcgov.github.io/user-research-guide/).
 - Engagement - solicit responses via surveys, workshops in order to provide data to guide the ideation process.
 
 <br/>
