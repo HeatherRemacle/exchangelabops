@@ -3,7 +3,7 @@ title: Play 6
 permalink: /play6
 
 layout: post
-sidenav: plays
+sidenav: play6
 subnav: 
   - text: Continuous Product Improvement
     href: '#continuous-product-improvement'

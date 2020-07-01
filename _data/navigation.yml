@@ -14,35 +14,6 @@
 primary:
   - text: Home
     href: /
-  - text: Playbook
-    href: /play1
-  - text: CITZ Home
-    href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
-    external: true
-  - text: IMB Hub
-    href: https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb
-    external: true
-  - text: Provide Feedback
-    href: /feedback
-
-secondary:
-  - text: GitHub Source
-    href: https://github.com/bcgov/CITZ-IMB-playbook
-    external: true
-  - text: Theme
-    href: /theme/
-
-docs:
-  - text: Modern Application Playbook
-    href: /
-  - text: Principles
-    href: /principles
-  - text: Patterns
-    href: /patterns
-  - text: Glossary
-    href: /glossary
-      
-plays:
   - text: Play 1
     href: /play1
   - text: Play 2
@@ -55,6 +26,52 @@ plays:
     href: /play5
   - text: Play 6
     href: /play6
+  - text: Play 7
+    href: /play7
+
+secondary:
+  - text: GitHub Source
+    href: https://github.com/bcgov/CITZ-IMB-playbook
+    external: true
+  - text: Provide Feedback
+    href: /feedback
+    external: false
+
+docs:
+  - text: Modern Application Playbook
+    href: /
+  - text: Principles
+    href: /principles
+  - text: Patterns
+    href: /patterns
+  - text: Glossary
+    href: /glossary
+      
+play1:
+  - text: Play 1
+    href: /play1
+
+play2:
+  - text: Play 2
+    href: /play2
+
+play3:
+  - text: Play 3
+    href: /play3
+
+play4:
+  - text: Play 4
+    href: /play4
+
+play5:
+  - text: Play 5
+    href: /play5
+
+play6:
+  - text: Play 6
+    href: /play6
+
+play7:
   - text: Play 7
     href: /play7
 

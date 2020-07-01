@@ -3,7 +3,7 @@ title: Play 2
 permalink: /play2
 
 layout: post
-sidenav: plays
+sidenav: play2
 subnav: 
   - text: Successfully navigate the Project Intake Process
     href: '#successfully-navigate-the-project-intake-process'

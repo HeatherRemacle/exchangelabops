@@ -29,7 +29,7 @@
         <ul class="bc-unstyled-list">
           {% for _link in footer_links %}
           <li class="bc-width-one-{{ _size }} bc-footer-primary-content">
-            <a class="bc-footer-primary-link" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
+            <a class="bc-footer-primary-link" target="{% if _link.external %}{{ '_blank' }}{% else %}{{ '_self' }}{% endif %}" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
               {{ _link.text }}
             </a>
           </li>
@@ -44,7 +44,7 @@
             <div class="bc-footer-primary-content bc-footer-contact_info">
               <p>
                 <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
-                  {{ _link.text }}
+                  {{ _link.text }} 
                 </a>
               </p>
             </div>

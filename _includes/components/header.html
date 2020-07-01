@@ -19,7 +19,7 @@
             <img class="bc-logo-img" src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}" alt="{{ header.logo.alt }}">
           {% endif %}
           <em class="bc-logo-text">
-            {{ header.title | default: site.title }} &nbsp; <sup style="font-size:15px; color:#FCBA19">ALPHA</sup>
+            {{ header.title | default: site.title }} &nbsp; <sup style="font-size:15px; color:#FCBA19">BETA</sup>
           </em>
         </a>
       </div>
@@ -107,7 +107,7 @@
               {% assign secondary_links = site.data.navigation[_secondary.links] | default: _secondary.links %}
               {% for _link in secondary_links %}
                 <li>
-                  <a href="{% if _link.external %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}"
+                  <a target="{% if _link.external %}{{ '_blank' }}{% else %}{{ '_self' }}{% endif %}" href="{% if _link.external %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}"
                   {% if _link.class %} class="{{ _link.class }}" {% endif %}>
                     {{ _link.text }}
                   </a>

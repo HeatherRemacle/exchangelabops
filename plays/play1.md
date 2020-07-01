@@ -3,7 +3,7 @@ title: Play 1
 permalink: /play1
 
 layout: post
-sidenav: plays
+sidenav: play1
 subnav: 
   - text: Ideate solutions that meet the needs of business
     href: '#ideate-solutions-that-meet-the-needs-of-business'

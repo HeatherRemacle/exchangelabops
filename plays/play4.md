@@ -3,7 +3,7 @@ title: Play 4
 permalink: /play4
 
 layout: post
-sidenav: plays
+sidenav: play4
 subnav: 
   - text: Develop your Product
     href: '#develop-your-product'

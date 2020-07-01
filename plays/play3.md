@@ -3,7 +3,7 @@ title: Play 3
 permalink: /play3
 
 layout: post
-sidenav: plays
+sidenav: play3
 subnav: 
   - text: Getting Started to Develop Your Solution
     href: '#getting-started-to-develop-your-solution'
