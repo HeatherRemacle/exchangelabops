@@ -80,7 +80,10 @@
                 <span>{{ _section.text }}</span>
               </a>
             {% endif %}
-          </li>
+          </li> 
+            {% if forloop.last != true %}
+              <span style="color:white">|</span>
+            {% endif %}
           {% endfor %}
         </ul>
         {% endif %}

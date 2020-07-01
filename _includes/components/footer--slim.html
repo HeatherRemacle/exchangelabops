@@ -30,11 +30,18 @@
           {% for _link in footer_links %}
           <li class="bc-width-one-{{ _size }} bc-footer-primary-content">
             <a class="bc-footer-primary-link" target="{% if _link.external %}{{ '_blank' }}{% else %}{{ '_self' }}{% endif %}" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
-              {{ _link.text }}
-            </a>
-          </li>
+              {{ _link.text }} 
+
+
+              {% if forloop.last != true %}
+              <span style="color:white"> &nbsp;&nbsp;&nbsp; |</span>
+              {% endif %}
+              
+            </a> 
+            
+          </li> 
           {% endfor %}
-        </ul>
+        </ul> 
       </nav>
     {% if footer.contact.contact_links %}
       <address>
