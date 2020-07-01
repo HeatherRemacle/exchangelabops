@@ -28,17 +28,13 @@
       <nav class="bc-footer-nav{% if footer.contact.contact_links %} bc-width-two-thirds{% endif %}">
         <ul class="bc-unstyled-list">
           {% for _link in footer_links %}
-          <li class="bc-width-one-{{ _size }} bc-footer-primary-content">
+          <li style="font-size:1.5rem;" class="bc-width-one-{{ _size }} bc-footer-primary-content">
             <a class="bc-footer-primary-link" target="{% if _link.external %}{{ '_blank' }}{% else %}{{ '_self' }}{% endif %}" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
               {{ _link.text }} 
-
-
               {% if forloop.last != true %}
-              <span style="color:white"> &nbsp;&nbsp;&nbsp; |</span>
+              <span style="color:white;"> &nbsp;&nbsp;&nbsp; |</span>
               {% endif %}
-              
             </a> 
-            
           </li> 
           {% endfor %}
         </ul> 
