@@ -30,6 +30,9 @@ primary:
     href: /play7
 
 secondary:
+  - text: Home
+    href: /
+    external: false
   - text: GitHub Source
     href: https://github.com/bcgov/CITZ-IMB-playbook
     external: true
