@@ -3,7 +3,7 @@ title: Play 7
 permalink: /play7
 
 layout: post
-sidenav: play7
+sidenav: docs
 subnav: 
   - text: Sustainment Lifecycle
     href: '#sustainment-lifecycle'

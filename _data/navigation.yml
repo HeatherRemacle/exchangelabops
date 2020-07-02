@@ -40,6 +40,20 @@ secondary:
 docs:
   - text: Modern Application Playbook
     href: /
+  - text: Play 1
+    href: /play1
+  - text: Play 2
+    href: /play2
+  - text: Play 3
+    href: /play3
+  - text: Play 4
+    href: /play4
+  - text: Play 5
+    href: /play5
+  - text: Play 6
+    href: /play6
+  - text: Play 7
+    href: /play7
   - text: Principles
     href: /principles
   - text: Patterns

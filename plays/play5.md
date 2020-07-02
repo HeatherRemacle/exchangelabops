@@ -3,7 +3,7 @@ title: Play 5
 permalink: /play5
 
 layout: post
-sidenav: play5
+sidenav: docs
 subnav: 
   - text: Transition to Ops
     href: '#transition-to-ops'

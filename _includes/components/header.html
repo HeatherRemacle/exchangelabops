@@ -14,12 +14,16 @@
     <div class="bc-navbar">
       <button class="bc-menu-btn">Menu</button>
       <div class="bc-logo" id="{% if header.type == 'extended' or header.type == 'extended-mega' %}extended-mega-{% endif %}logo">
-        <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home">
+        <!-- Note: Header Link -->
+        <!-- <a href="{% if header.href %}{{ header.href }}{% else %}{{ site.baseurl }}/{% endif %}" title="Home"> -->
+        <a target= "_blank" href="https://intranet.gov.bc.ca/thehub" title="Home">  
+          
           {% if header.logo %}
             <img class="bc-logo-img" src="{% if header.logo.external %}{{ header.logo.src }}{% else %}{{ header.logo.src | relative_url }}{% endif %}" alt="{{ header.logo.alt }}">
           {% endif %}
           <em class="bc-logo-text">
-            {{ header.title | default: site.title }} &nbsp; <sup style="font-size:15px; color:#FCBA19">BETA</sup>
+            {{ header.title | default: site.title }} &nbsp; 
+            <!-- <sup style="font-size:15px; color:#FCBA19">BETA</sup> -->
           </em>
         </a>
       </div>
@@ -31,7 +35,7 @@
           <img src="{{ site.baseurl }}/assets/bcwds/img/close.svg" alt="close">
         </button>
 
-        {% assign _primary = header.primary.links %}
+        <!-- {% assign _primary = header.primary.links %}
         {% assign primary_links = site.data.navigation[_primary] | default: _primary %}
         {% if primary_links %}
         <ul class="bc-nav-primary bc-accordion">
@@ -86,7 +90,7 @@
             {% endif %}
           {% endfor %}
         </ul>
-        {% endif %}
+        {% endif %} -->
 
         {% if header.type == 'basic' or header.type == 'basic-mega' %}
           {% assign _secondary = header.secondary %}
