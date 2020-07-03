@@ -49,7 +49,7 @@ Ensure that team ownership (that was originally defined in [Play 2](/CITZ-IMB-pl
 ### Step 6: Skills retention requires a plan
 - Change is inevitable, ensure you have a succession plan in place for each ‘role’ on your team .
 - Review your processes, review your documentation.
-- Share knowledge .
+- Share knowledge.
 - Ask for feedback from other groups.
 - Seek opportunities to invite other interested workers into the team (via ‘Expression of Interest’ Temporary Assignments).
 - Engage University/College Co-op students.

@@ -35,8 +35,8 @@ You need to ensure you revisit your plans to ensure that annual funding is in pl
 
 ### Step 2: Maintain product funding
 -	Review your products’ value proposition.
--	Get ahead of the budget cycle, review your opex regularly, update your budget plan often.
--	Understand opportunities to adopt non proprietary services and products.
+-	Get ahead of the budget cycle, review your operating and capital expenses (OpEx/CapEx) regularly, update your budget plan often.
+-	Understand opportunities to adopt non-proprietary services and products.
 -	Seek reviews from the finance team.
 
 ### Step 3: Maintain vendor / partner relationships (including your support contracts)
