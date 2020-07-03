@@ -112,6 +112,9 @@ footer:
     external: true
   - text: Fair Use
     href: /fairuse
+  - text: Updated 15/07/2020
+    href: https://github.com/bcgov/CITZ-IMB-Playbook
+    external: true
 
 patterns:
   - text: Patterns Home

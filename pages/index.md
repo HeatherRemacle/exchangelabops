@@ -1,5 +1,5 @@
 ---
-title: Modern Application Playbook
+title: Modern Application Playbook (BETA)
 description: This is a main page.
 permalink: /
 
@@ -30,12 +30,9 @@ subnav:
     href: '#definition-of-a-modern-application'
 
 ---
-[Download a PDF version of this playbook](/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf)
+<a target="_blank" href="/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf">Download a PDF version of this playbook</a>
 
 This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
-
-Version: Beta<br>
-Last updated on 15/07/2020
 
 ## What does it do?
 Contributes to a shared understanding of the solution ecosystem from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
@@ -57,8 +54,8 @@ Having a clear understanding of the IM/IT project governance process will ensure
 <br/>
 [Play 2](/CITZ-IMB-playbook/play2)
 
-<img style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt="">
-<img style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt=""></img>
+<img style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt=""></img>
 
 ### 3: Building your team
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 	
