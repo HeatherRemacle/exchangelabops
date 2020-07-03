@@ -24,7 +24,7 @@ Information on how to create an issue on GitHub can be found [here](https://help
 
 You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/) and check on the status of your issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues).
 
-If you don't have a GitHub account, please send your feedback to [Robert Kobenter](mailto:robert.w.kobenter@gov.bc.ca).
+If you don't have a GitHub account, please email us your [feedback](mailto:robert.w.kobenter@gov.bc.ca).
 
 ### Guidelines for Creating Issues
 To help our developers resolve your issue, we suggest the following:
