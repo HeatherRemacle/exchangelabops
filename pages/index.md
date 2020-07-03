@@ -34,11 +34,17 @@ subnav:
 
 This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
 
+Version: Beta<br>
+Last updated on 15/07/2020
+
 ## What does it do?
 Contributes to a shared understanding of the solution ecosystem from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
 
 ## What are the Benefits?
 Provides the IMB and our partners, vendors and clients with key resources that will assist them in identifying, using and leveraging trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
+
+<img style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/arrowdots.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/arrowdots.png" alt="">
 
 ## The Plays...
 
