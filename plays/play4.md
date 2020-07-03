@@ -5,8 +5,8 @@ permalink: /play4
 layout: post
 sidenav: docs
 subnav: 
-  - text: Develop your Product
-    href: '#develop-your-product'
+  - text: Ready, Refine, Sprint...
+    href: '#ready-refine-sprint'
   - text: Step 1. Meet with your team
     href: '#step-1-meet-with-your-team'
   - text: Step 2. Design / describe your Solution (conceptual architecture)
@@ -38,14 +38,13 @@ subnav:
   - text: Guidance to consider
     href: '#guidance-to-consider'
 ---
-## Develop your Product
-Adopt code frameworks that accelerate your development to create working Minimal Viable Product (MVP) solutions which have built in security and are designed for [product management](https://www.infoq.com/articles/product-management-in-agile/). 
+## Ready, Refine, Sprint...
+Activities undertaken by the entire team to define a fulsome “sprint 0”  prepare the team for product development sprints.  
 
-Define your [architecturally significant requirements](https://en.wikipedia.org/wiki/Architecturally_significant_requirements#:~:text=Architecturally%20significant%20requirements%20are%20those,system%20in%20measurably%20identifiable%20ways.) (ASR) based on  product “abilities”:	
-- Deployability
-- Modifiability
-- Testability 
-- Monitorability
+Adopt code frameworks and libraries that accelerate your development to create working Minimal Viable Product (MVP) solutions that adhere to security and privacy requirements.
+
+Define your architecturally significant requirements (ASR) based on product abilities. Implement architecture as late as possible so as to be able to pivot when required.
+
 
 ### Step 1: Meet with your team
 - Establish a [team agreement](https://shift.newco.co/2017/07/23/team-working-agreements-the-why-what-and-how/#:~:text=Why%20is%20it%20important%3F,together%20to%20produce%20great%20results.).
