@@ -40,7 +40,7 @@ We must begin digital projects by developing solutions for the people who will u
     - Amplify soft voices. They will bring unique insights that often get overlooked. Failing to do so may lead to a disengaged workforce.
 - Collaborate.
     - Time box activities. Circulate proposals. Encourage additions.
-    - Require a short submission that describes objectives and benefits. Estimate effort to develop and implement. Include a [risk assessment](https://www.haspod.com/blog/paperwork/difference-between-risk-assessments-and-method-statements#:~:text=Where%20a%20risk%20assessment%20tells,the%20work%2C%20providing%20extra%20details.).
+    - Require a short submission that describes objectives and benefits. Estimate effort to develop and implement. Include a risk assessment.
 - Visualize.
     - A diagram helps to communicate. Develop from the end user’s perspective.
 - The more the better.
@@ -50,11 +50,11 @@ We must begin digital projects by developing solutions for the people who will u
 
 ### Step 2: Engage your stakeholders
 #### Checklist
-- Develop & test [low fidelity prototypes](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/#:~:text=Low%2Dfidelity%20prototyping,visual%20appearance%20of%20the%20product.).
-    - Describe the [user’s journey](https://www.appcues.com/blog/user-journey-map#:~:text=A%20user%20journey%20is%20a,from%20their%20point%20of%20view.) and interaction with the solution.
-    - Develop [wireframes](https://theblog.adobe.com/everything-you-need-to-know-about-wireframes-and-prototypes/#:~:text=A%20wireframe%20(also%20known%20as,where%20the%20name%20comes%20from).).
+- Develop & test prototypes.
+    - Describe the user’s journey and interaction with the solution.
+    - Develop wireframes.
     - Solicit feedback.  Document attributes (goals, needs, behaviours, preferences).  
-- Evolve [Scenarios and User Stories](https://www.akendi.com/blog/scenarios-user-stories-and-use-casesoh-my/#:~:text=Scenarios%20are%20created%20by%20user,a%20sprint%20in%20agile%20development.&text=Scenarios%20are%20stories%20that%20capture,persona%20in%20a%20given%20context.) that speak to a set of defined [Personas](https://www.interaction-design.org/literature/article/personas-why-and-how-you-should-use-them).
+- Evolve Scenarios and User Stories that speak to a set of defined Personas.
     - Invite stakeholders to review and prioritize.
     - Avoid over-solutioning how to accomplish the idea.
     - Do your research. Are your assumptions complete?
@@ -62,7 +62,7 @@ We must begin digital projects by developing solutions for the people who will u
 ### Step 3: Present Your Proposal
 #### Checklist
 - Do your homework. What would be required to go from ideation to project inception?
-- Develop the [product roadmap](https://product-guide.18f.gov/future/roadmap/).
+- Develop the product roadmap.
 - Seek approval to proceed.
 - Become a business priority.
 

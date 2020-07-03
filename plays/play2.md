@@ -25,11 +25,11 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
 
 ### Step 1: Obtain Business Unit endorsement
 #### Checklist
-- Follow [PROSCI](http://prosci.ca/) best practices (it all starts with change management).
-- Follow your business units project authorization process.
+- Follow change management best practices.
+- Follow your business unit's project authorization process.
     - Create a Concept Case/Business Case.
     - Receive approval to proceed.
-    - Business Unit BA works closely with the Project Secretariat (aka: IMB) Senior Business Consultant (SBC) holds regular biweekly meetings to surface initiatives and concerns.
+    - Business unit's analyst works closely with the Project Secretariat Senior Business Consultant (SBC), holds regular biweekly meetings to surface initiatives and concerns.
     - Register proposal in the Ministry project tracking system.
 - Develop your operating model.
   - What does it mean to be ‘done’?
@@ -43,23 +43,23 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
     - Provide project summary information.
     - Complete client project survey in order to rank submission.
 - Provide resources to participate at the Architecture Review Board(ARB).
-    - ARB assesses submission to determine technical fit with GCIO/MCIO direction.
+    - ARB assesses submission to determine technical fit with Government CIO/Ministry CIO direction.
     - Project review by the Project Review Board (PRAB).
         - Upon approval to proceed a project charter will be required.
-        - Project submission will be made to the OCIO-DIO and authorized by the DMC.
+        - Project submission will be made to the OCIO-Digital Investment Office and authorized by the Deputy Minister Committee.
 
 ### Step 3: Determine Project Resourcing
 #### Checklist
 - Internally managed initiative.
     - Business Unit has the skillset and resources to successfully manage and deliver the project.
-    - Business Unit enters a procurement activity to obtain an IM/IT solution (RFP).
+    - Business Unit enters a procurement activity to obtain an IM/IT solution via a Request For Proposal (RFP) process.
 - Partnership Agreement.
-    - Business Unit enters into an Alliance agreement with the BCDevExchange/OCIO-DPDD to design and develop a solution -*or*-
+    - Business Unit enters into an Alliance agreement with the BCDevExchange/OCIO-Digital Products Division (DPDD) to design and develop a solution -*or*-
     - Business Unit enters a “Memorandum of Understanding” (MOU) with the IMB to co-develop and deliver an IM/IT solution.
       - Incorporate a transition plan section into your MOU.
       - Formulate a common understanding of the ‘definition of done’.
     - **NOTE:** It takes time to resource additional skills, often as long as 6 months, plan accordingly in your transition plan -*or*-
-    - Draw down on Ministry contract for an external vendor (such as CGI) via the IMBs Request for Service (RFS) process.
+    - Draw down on Ministry contract for an external vendor via the IMB's Request for Service (RFS) process.
 
 ### Step 4: Provide regular updates 
 #### Checklist
