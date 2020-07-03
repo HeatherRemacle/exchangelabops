@@ -16,12 +16,12 @@ subnav:
     href: '#1-ideate-solutions-that-meet-the-needs-of-business'
   - text: 2. Successfully navigate the project intake process
     href: '#2-successfully-navigate-the-project-intake-process'
-  - text: 3. Getting started to develop your solution
-    href: '#3-getting-started-to-develop-your-solution'
-  - text: 4. Developing a product
-    href: '#4-developing-a-product'
-  - text: 5. Transition to Ops
-    href: '#5-transition-to-ops'
+  - text: 3. Building your team
+    href: '#3-building-your-team'
+  - text: 4. Ready, Refine, Sprint
+    href: '#4-ready-refine-sprint'
+  - text: 5. Transition to Operations
+    href: '#5-transition-to-operations'
   - text: 6. Continuous Product Improvement
     href: '#6-continuous-product-improvement'
   - text: 7. Sustainment Lifecycle
@@ -57,19 +57,26 @@ Having a clear understanding of the IM/IT project governance process will ensure
 <br/>
 [Play 2](/CITZ-IMB-playbook/play2)
 
-### 3: Getting started to develop your solution
+<img style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist.png" alt="">
+
+### 3: Building your team
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 	
 <br/>
 [Play 3](/CITZ-IMB-playbook/play3)
 
-### 4: Developing a product
-Methodologies and frameworks that result in working MVP solutions that have built in security and are designed for operations.                                                                                     
+### 4: Ready, Refine, Sprint
+Methodologies and frameworks that you can follow to develop working MVP solutions.
+<br>
 [Play 4](/CITZ-IMB-playbook/play4)
 
-### 5: Transition to Ops
+### 5: Transition to Operations
 Following product development and deployment, a decision is made concerning the products lifecycle. A knowledge transfer from the development team to the operations team is realized.
 <br/>
 [Play 5](/CITZ-IMB-playbook/play5)
+
+<img style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/hands.png" alt="">
+<img style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/hands.png" alt="">
 
 ### 6: Continuous Product Improvement
 In this play, a team is responsible for a continuous cycle of product enhancement and ongoing support based on incorporating user feedback and operational metrics provided by monitoring.  The product owner shifts their role to becoming the “story owner”.
