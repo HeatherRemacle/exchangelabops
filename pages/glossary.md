@@ -6,7 +6,7 @@ layout: post
 sidenav: docs
 subnav: 
   - text: A-F
-    href: '#'
+    href: '#a'
   - text: G-M
     href: '#g'
   - text: N-S
@@ -14,6 +14,10 @@ subnav:
   - text: T-Z
     href: '#t'
 ---
+Government technology is in the process of a significant shift from the solutions of the 1980’s, which were based on traditional, on-premise hosted platforms, and proprietary vendor licenced software, towards a cloud based open sourced model.
+
+As your project and digital products advance on this journey, you will encounter a new vocabulary of terms, acronyms and definitions. While we have included a list of links to many of these terms, we can not guarantee that all these links will be available. We recommend the <a target="_blank" href="https://tech.gsa.gov/guides/glossary/">glossary</a> posted at the United States Federal Government Services Agency (GSA) technical guides web site.
+
 ### \#
 
 [12 factor](https://12factor.net/)
