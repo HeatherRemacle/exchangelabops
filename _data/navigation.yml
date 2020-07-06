@@ -119,6 +119,14 @@ footer:
 patterns:
   - text: Patterns Home
     href: /patterns
+  - text: Platform & Solution Patterns
+    href: /platform-&-solution-patterns
+  - text: IMB Patterns
+    href: /imb-patterns
+
+patterns2:
+  - text: Patterns Home
+    href: /patterns
   - text: DexExchange Adoption
     href: /devexchange-adoption
   - text: Microsoft PowerBI Adoption
@@ -131,8 +139,8 @@ patterns:
     href: /rhel-openshift-adoption
   - text: Web Application Development Pattern
     href: /web-application-development
-  - text: Ministry IMB Business Unit Engagement
-    href: /ministry-imb-business-unit-engagement
+  - text: Ministry IMB IM/IT Strategic Planning
+    href: /ministry-imb-im-it-strategic-planning
   - text: Ministry IMB Service Desk
     href: /ministry-imb-service-desk
   - text: Ministry STRA & PIA

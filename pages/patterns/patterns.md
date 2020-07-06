@@ -29,27 +29,27 @@ A pattern has a:
 
 IMB Patterns we will evolve will include...
 
-### Platform & Solution Patterns
-- [DevExchange Adoption Pattern](/CITZ-IMB-playbook/devexchange-adoption)
+### [Platform & Solution Patterns](/CITZ-IMB-playbook/platform-&-solution-patterns)
+- [DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#devexchange-adoption-pattern)
     - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
-- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/microsoft-powerbi-adoption)
+- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-powerbi-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
-- [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/microsoft-dynamics-adoption)
+- [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-dynamics-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
-- [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/microsoft-sharepoint-adoption)
+- [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-sharepoint-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the Microsoft Sharepoint platform.
-- [RHEL OpenShift Adoption Pattern](/CITZ-IMB-playbook/rhel-openshift-adoption)
+- [RHEL OpenShift Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#openshift-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the OpenShift platform.
-- [Web Application Development Pattern](/CITZ-IMB-playbook/web-application-development)
+- [Web Application Development Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#web-application-development-pattern)
     - <span style="color: green">\*currently in development\*</span>
     - Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
 
-### IMB Patterns
-- [Ministry IMB Business Unit Engagement Pattern](/CITZ-IMB-playbook/ministry-imb-business-unit-engagement)
-    - Describes a set of steps to allow your team to start a journey with the IMB.
-- [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/ministry-imb-service-desk)
+### [IMB Patterns](/CITZ-IMB-playbook/imb-patterns)
+- [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbookimb-patetrns#ministry-imb-imit-strategic-planning-pattern)
+    - Describes how the IMB will work with your division/business unit for IM/IT initiatives and enquiries.
+- [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-service-desk-pattern)
     - Describes how to contact the IMB Service Desk and the areas of assistance available to the Ministry.
-- [Ministry STRA & PIA Pattern](/CITZ-IMB-playbook/ministry-stra-&-pia)
+- [Ministry STRA & PIA Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-stra--pia-pattern)
     - Describes a set of steps to allow your team to start your STRA journey.
-- [Ministry IMB Technical Services Support Pattern](/CITZ-IMB-playbook/ministry-imb-technical-services-support)
+- [Ministry IMB Technical Services Support Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-technical-services-support-pattern)
     - Describes a set of services available to your team and how to engage the IMB Technical Services team.
