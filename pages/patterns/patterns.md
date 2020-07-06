@@ -45,7 +45,7 @@ IMB Patterns we will evolve will include...
     - Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
 
 ### [IMB Patterns](/CITZ-IMB-playbook/imb-patterns)
-- [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbookimb-patetrns#ministry-imb-imit-strategic-planning-pattern)
+- [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbookimb-patterns#ministry-imb-imit-strategic-planning-pattern)
     - Describes how the IMB will work with your division/business unit for IM/IT initiatives and enquiries.
 - [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-service-desk-pattern)
     - Describes how to contact the IMB Service Desk and the areas of assistance available to the Ministry.
