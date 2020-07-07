@@ -29,7 +29,7 @@ Following a successful initial product development and deployment a new modern a
 ### Step 3: Validate Operations processes including:
 - Change Management procedures
 - Monitoring & Logging
-  - Application Performance Monitoring ([APM](https://www.ea.oit.va.gov/EAOIT/docs/Oct_2016_Release_Docs/APM-2-2.pdf)) metrics have been defined
+  - Application Performance Monitoring ([APM](https://www.ea.oit.va.gov/EAOIT/docs/Oct_2016_Release_Docs/APM-2-2.pdf){:target="_blank"}) metrics have been defined
   - Application logs are generated and maintained in accordance with policy. 
 - Tooling Updates
 - Product Triage
@@ -42,8 +42,8 @@ Following a successful initial product development and deployment a new modern a
 -	Make documentation easily locatable (Confluence, SharePoint, GitHub)
 -	Create a product “runbook”
 -	Integrate your solution into the Ministry logging and monitoring environment 
-- [Google’s monitoring & logging patterns](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns)
-- [Triage best practices](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef)
+- [Google’s monitoring & logging patterns](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns){:target="_blank"}
+- [Triage best practices](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef){:target="_blank"}
 - Knowledge transfer best practices
 - Review your operating commitments
   - 9’s uptime

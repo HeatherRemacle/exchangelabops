@@ -3,9 +3,9 @@ title: Working with the BC Web Design Jekyll Theme
 layout: page
 permalink: /theme/
 ---
-This GitHub Pages theme is based on the 18F + US Web Design System documentation template described [here](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/). 
+This GitHub Pages theme is based on the 18F + US Web Design System documentation template described [here](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/){:target="_blank"}. 
 
-The 18F source GitHub  is available at [this](https://github.com/18F/uswds-jekyll) link where you will find information on how to apply the base theme including configuration for your own use. 
+The 18F source GitHub  is available at [this](https://github.com/18F/uswds-jekyll){:target="_blank"} link where you will find information on how to apply the base theme including configuration for your own use. 
 
 In our clone we have replaced all references from ‘uswds’ to ‘bcwds’. 
 

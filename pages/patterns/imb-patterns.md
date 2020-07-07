@@ -18,7 +18,7 @@ subnav:
 How the IMB will work with your division/business unit for IM/IT initiatives and enquiries.
 
 - IMB has dedicated Senior Business Consultants’ for every Division, and we want to help you through the challenges and successes to meet your goals/objectives.  
-    - Please contact your Division [Senior Business Consultant](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb).
+    - Please contact your Division [Senior Business Consultant](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb){:target="_blank"}.
 - The IMB works together with our internal team, and other key stakeholders as needed, to review the enquiry and help you through every step of your journey.
 - The team will do a comprehensive review as to your needs and requirements and try to align you with the best tools and the Ministry objectives.
 - An agreed upon response to the enquiry is reached and your Senior Business Consultant will follow up with you to guide you through the next steps of the journey.
@@ -29,7 +29,7 @@ Describes how to contact the IMB Service Desk and the areas of assistance availa
 
 Ministry staff and client can contact service desk via phone, [email](mailto:CITZIMBSD@gov.bc.ca) or the [OCIO My Service Centre](https://ociomysc.service-now.com/sp) to request a service or a product.
 
-Users can access the [IMB Hub](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb) site for  IMB Service Catalogue information.
+Users can access the [IMB Hub](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb){:target="_blank"} site for  IMB Service Catalogue information.
 
 The Service Desk will assist clients by:
 - Reviewing and authenticating requests or consults with requesters where necessary, and entering requests into the ticketing system for tracking

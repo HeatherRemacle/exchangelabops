@@ -32,7 +32,7 @@ subnav:
 ---
 <a target="_blank" href="/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf">Download a PDF version of this playbook</a>
 
-This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model) methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow) culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/).  
+This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model){:target="_blank"} methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow){:target="_blank"} culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/){:target="_blank"}.  
 
 ## What does it do?
 Contributes to a shared understanding of the solution ecosystem from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
@@ -91,13 +91,13 @@ You need to ensure you revisit your plan to ensure the annual funding is in plac
 A modern application is one that exhibits five important characteristics:
 1. It supports multiple users through the interface of their choice.
   - Web, Mobile, API (application programming interface).
-2. It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS) for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI).
-3. Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON) or XML).
+2. It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS){:target="_blank"} for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI).
+3. Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON){:target="_blank"} or XML).
 4. It is built on a modern stack that supports the creation of an application with a HTTP interface and an API which can consume and emit JSON data.
-5. It conforms to the relevant elements of a [12-factor](https://12factor.net/) application.
+5. It conforms to the relevant elements of a [12-factor](https://12factor.net/){:target="_blank"} application.
 
 ### CITZ Modern Application Checklist
-Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK-CHECKLIST.docx).
+Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK-CHECKLIST.docx){:target="_blank"}.
 
 <br/>
 [Back to the Top](#)

@@ -114,7 +114,7 @@ Patterns and practices are the tools used to achieve the desired outcome of the 
 - SoC—Separation of concerns.
     - Minimize tight coupling of code to low-implementation details by separating core business logic from infrastructure and user interface logic so that the module is easy to test and can be evolved. 
 
-### Principle 4: Adopt a [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture)
+### Principle 4: Adopt a [Service Oriented Architecture](https://en.wikipedia.org/wiki/Service-oriented_architecture){:target="_blank"}
 - Single responsibility
     - Objects should have only one reason to change this helps to produce more loosely coupled and modular systems.
 - Bounded Context
@@ -123,13 +123,13 @@ Patterns and practices are the tools used to achieve the desired outcome of the 
 ### Principle 5: API First
 Develop your solution to be used by multiple client applications through a well described API. 
 
-### Principle 6: [Be data driven](https://digitalprinciples.org/wp-content/uploads/PDD_Principle-BeDataDriven_v2.pdf)
+### Principle 6: [Be data driven](https://digitalprinciples.org/wp-content/uploads/PDD_Principle-BeDataDriven_v2.pdf){:target="_blank"}
 
 ### Principle 7: Design to be secure
-Design, develop and deliver solutions that [mitigate risks](https://blog.threatpress.com/security-design-principles-owasp/). Ensure security is addressed end to end and considered upfront. 
+Design, develop and deliver solutions that [mitigate risks](https://blog.threatpress.com/security-design-principles-owasp/){:target="_blank"}. Ensure security is addressed end to end and considered upfront. 
 
 ### Principle 8: Adopt Cloud
-Whether public, private or hybrid cloud, adopt a set of [guiding principles for Cloud Computing and Use](https://www.isaca.org/bookstore/bookstore-wht_papers-digital/whpgp) - include enablement, cost/benefit, enterprise risk, capability, accountability and trust.
+Whether public, private or hybrid cloud, adopt a set of [guiding principles for Cloud Computing and Use](https://www.isaca.org/bookstore/bookstore-wht_papers-digital/whpgp){:target="_blank"} - include enablement, cost/benefit, enterprise risk, capability, accountability and trust.
 
 ### Principle 9: DevOps for Agility
 DevOps is founded on product delivery.  Agile is founded on the project success. Embrace the  combination of 1) continuous integration (including Build management, test management and automation), 2) continuous delivery (including environment management and deployment management), 3) infrastructure as code and 4) iterative development approach to support successful projects.

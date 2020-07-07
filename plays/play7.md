@@ -62,7 +62,7 @@ Review annual funding plans are in place to account for any and all changes incl
 -	UX review (outlined in [play 6](/CITZ-IMB-playbook/play6))
 - Industry Analysis of similar products
 - Review the corporate product inventory (look for new opportunities)
-- [US Department of Defense](http://acqnotes.com/acqnote/careerfields/life-cycle-sustainment-plan-lcsp) LCSP (as an example)
+- [US Department of Defense](http://acqnotes.com/acqnote/careerfields/life-cycle-sustainment-plan-lcsp){:target="_blank"} LCSP (as an example)
 
 <br/>
 [Back to the Top](#)

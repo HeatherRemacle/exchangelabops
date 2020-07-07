@@ -64,16 +64,16 @@ We must begin digital projects by developing solutions for the people who will u
 - Become a business priority.
 
 ### Resources
-[Thoughtworks.com](https://www.thoughtworks.com/insights/blog/future-proof-your-business-through-enterprise-innovation) provides valuable insight into organizational future proofing in an era of constant change by promoting the concept of validated learning.
+[Thoughtworks.com](https://www.thoughtworks.com/insights/blog/future-proof-your-business-through-enterprise-innovation){:target="_blank"} provides valuable insight into organizational future proofing in an era of constant change by promoting the concept of validated learning.
 
-[Interaction-design.org](https://www.interaction-design.org/literature/article/14-barriers-to-ideation-and-how-to-overcome-them) identifies strategies towards reducing potential barriers of innovation.
+[Interaction-design.org](https://www.interaction-design.org/literature/article/14-barriers-to-ideation-and-how-to-overcome-them){:target="_blank"} identifies strategies towards reducing potential barriers of innovation.
 
-The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service) provides resources, methods and templates to guide new service development. [Ideo.org](https://www.designkit.org/methods) and [Sourcemaking.com](https://sourcemaking.com/design_patterns) both provide additional toolkits and sources of useful information 
+The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service){:target="_blank"} provides resources, methods and templates to guide new service development. [Ideo.org](https://www.designkit.org/methods){:target="_blank"} and [Sourcemaking.com](https://sourcemaking.com/design_patterns){:target="_blank"} both provide additional toolkits and sources of useful information 
 
-The Canadian and US federal governments detail a series of digital plays in their playbooks. In The [Government of Canada Digital Playbook ‘design with users’](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html) section and the [US Digital Service](https://playbook.cio.gov/) plays 1,2 and 3 provide useful questions to ask during ideation.
+The Canadian and US federal governments detail a series of digital plays in their playbooks. In The [Government of Canada Digital Playbook ‘design with users’](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html){:target="_blank"} section and the [US Digital Service](https://playbook.cio.gov/){:target="_blank"} plays 1,2 and 3 provide useful questions to ask during ideation.
 
 ### Guidance to consider
-- Research - develop a fulsome understanding of the problem and the intended audience. Understand the solution context and dependencies. Follow the [BC User Research Guide](https://bcgov.github.io/user-research-guide/).
+- Research - develop a fulsome understanding of the problem and the intended audience. Understand the solution context and dependencies. Follow the [BC User Research Guide](https://bcgov.github.io/user-research-guide/){:target="_blank"}.
 - Engagement - solicit responses via surveys, workshops in order to provide data to guide the ideation process.
 
 <br/>

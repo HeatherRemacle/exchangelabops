@@ -20,9 +20,9 @@ If you are part of the playbook maintenance team, please consult the [maintenanc
 The playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
 
 ### How to Create an Issue
-Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue). 
+Information on how to create an issue on GitHub can be found [here](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue){:target="_blank"}. 
 
-You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/) and check on the status of your issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues).
+You can create an issue for this playbook [here](https://github.com/bcgov/CITZ-IMB-playbook/issues/new/){:target="_blank"} and check on the status of your issue [here](https://github.com/bcgov/CITZ-IMB-playbook/issues){:target="_blank"}.
 
 If you don't have a GitHub account, please email us your [feedback](mailto:robert.w.kobenter@gov.bc.ca).
 

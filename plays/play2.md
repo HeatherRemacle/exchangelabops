@@ -65,13 +65,13 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
 - Working with the Secretariat Portfolio Manager / Project Analyst provide regular status update to  Ministry executives.
 
 ### Resources
-The CITZ IMB maintains a collection of templates and information in their [Project Management Resource Centre](https://intranet.gov.bc.ca/thehub/tools-and-resources/project-management-resource-centre). Gaurav Mehra provides insight into common challenges encountered in Agile intake processes: [Part 1](https://www.linkedin.com/pulse/agile-project-intake-challenges-learnings-best-practices-gaurav-mehra?articleId=6418711210946101248) & [Part 2](https://www.linkedin.com/pulse/introduction-agile-project-intake-challenges-learnings-gaurav-mehra)
+The CITZ IMB maintains a collection of templates and information in their [Project Management Resource Centre](https://intranet.gov.bc.ca/thehub/tools-and-resources/project-management-resource-centre){:target="_blank"}. Gaurav Mehra provides insight into common challenges encountered in Agile intake processes: [Part 1](https://www.linkedin.com/pulse/agile-project-intake-challenges-learnings-best-practices-gaurav-mehra?articleId=6418711210946101248){:target="_blank"} & [Part 2](https://www.linkedin.com/pulse/introduction-agile-project-intake-challenges-learnings-gaurav-mehra){:target="_blank"}.
 
 ### Guidance to consider
 Broad examples include:
-- Understand the [Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/).
-- [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board) should be aware of your project and may ask you to provide a presentation.
-- Understand why [Governance](http://www.optimumonline.ca/pdf/29-2/governance.pdf) is important.
+- Understand the [Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/){:target="_blank"}.
+- [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board){:target="_blank"} should be aware of your project and may ask you to provide a presentation.
+- Understand why [Governance](http://www.optimumonline.ca/pdf/29-2/governance.pdf){:target="_blank"} is important.
 - Adhere to Government IM/IT Principles and Standards.
 
 <br/>

@@ -56,7 +56,7 @@ Define your architecturally significant requirements (ASR) based on product abil
 - Document the overarching view of the system (placement of technical functions (e.g. use ArchiMate to visualize relationships).
 
 ### Step 3: Adhere to modern application principles
--	Adopt the [12 factor](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology) approach
+-	Adopt the [12 factor](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology){:target="_blank"} approach
 -	Understand cloud native architecture
 
 ### Step 4: Set up your environment (technical infrastructure)
@@ -88,7 +88,7 @@ Following a successful “Sprint 0” phase your team is prepared to start codin
 ### Step 10: Complete User Acceptance testing and remediate defects
 
 ### Step 11: Deploy, promote through your environments
-- Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done) (DoD) prior to deployment.
+- Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done){:target="_blank"} (DoD) prior to deployment.
 
 ### Step 12: Demonstrate your products frequently, obtain user feedback 
 - Sprint demos (feature delivery)
@@ -96,14 +96,14 @@ Following a successful “Sprint 0” phase your team is prepared to start codin
 
 ### Step 13: Monitor and measure the development process
 - Supports Product Owner and supports the Team – shields members from scope/feature creep
-- [Monitor your system for reliability](https://aspetraining.com/resources/blog/system-monitoring-age-of-site-reliability-engineering)
+- [Monitor your system for reliability](https://aspetraining.com/resources/blog/system-monitoring-age-of-site-reliability-engineering){:target="_blank"}
 
 ### Definition of an MVP:
 A Minimal Viable Product (MVP) is one that delivers  core functionality as expected by a business units’ target audience. The core functionality is a set of features that is delivered at the initial product  launch.  Once launched the product follows a documented lifecycle for user feedback and product support.
 
 An MVP is no longer considered to be an experiment, but a product that has value to its users.
 
-[https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+[https://en.wikipedia.org/wiki/Minimum_viable_product](https://en.wikipedia.org/wiki/Minimum_viable_product){:target="_blank"}
 
 ### Guidance to consider
 -	Understand how product management is different in Agile projects.
