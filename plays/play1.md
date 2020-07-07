@@ -23,7 +23,6 @@ subnav:
 We must begin digital projects by developing solutions for the people who will use them. Users are often, but not always, employees of the Ministry.  Staff who interact with users on a regular basis are often an untapped source of information. Creating an environment that promotes their participation will strengthen the business unit mandate and contribute to its future success. The ideation process is less about what the product will look like, and more about who it is for, how it works and why.
 
 ### Step 1: Promote innovation from within
-#### Checklist
 - Understand your business mandate.
     - Focus on business challenges. Invite your staff to contribute ideas.
     - Formulate problem statements to guide conversations.
@@ -49,7 +48,6 @@ We must begin digital projects by developing solutions for the people who will u
     - Your colleagues bring a diverse lens based on their unique insight.
 
 ### Step 2: Engage your stakeholders
-#### Checklist
 - Develop & test prototypes.
     - Describe the user’s journey and interaction with the solution.
     - Develop wireframes.
@@ -60,7 +58,6 @@ We must begin digital projects by developing solutions for the people who will u
     - Do your research. Are your assumptions complete?
 
 ### Step 3: Present Your Proposal
-#### Checklist
 - Do your homework. What would be required to go from ideation to project inception?
 - Develop the product roadmap.
 - Seek approval to proceed.

@@ -45,7 +45,6 @@ Adopt code frameworks and libraries that accelerate your development to create w
 
 Define your architecturally significant requirements (ASR) based on product abilities. Implement architecture as late as possible so as to be able to pivot when required.
 
-
 ### Step 1: Develop a release plan
 -	Refine the (initial) backlog.
 -	Define the product release schedule.

@@ -24,7 +24,6 @@ subnav:
 To improve our ability to deliver successful IM/IT services that meet the Ministry goals and objectives, business units work with experienced senior business consultants. Following the Ministry IM/IT Governance process ensures that project proposals that have been championed by a Ministry business unit will obtain funding and approvals for strategically important initiatives.
 
 ### Step 1: Obtain Business Unit endorsement
-#### Checklist
 - Follow change management best practices.
 - Follow your business unit's project authorization process.
     - Create a Concept Case/Business Case.
@@ -37,7 +36,6 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
   - What is the sustainment lifecycle for the product? (Skip ahead and go to [Play 7](/CITZ-IMB-playbook/play7) now.)
 
 ### Step 2: Follow the Ministry IM-IT project intake process
-#### Checklist
 - Submit project Intake Form.
     - IM/IT Project Coordinator works with SBC to ensure submission receives visibility.
     - Provide project summary information.
@@ -49,7 +47,6 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
         - Project submission will be made to the OCIO-Digital Investment Office and authorized by the Deputy Minister Committee.
 
 ### Step 3: Determine Project Resourcing
-#### Checklist
 - Internally managed initiative.
     - Business Unit has the skillset and resources to successfully manage and deliver the project.
     - Business Unit enters a procurement activity to obtain an IM/IT solution via a Request For Proposal (RFP) process.
@@ -62,7 +59,6 @@ To improve our ability to deliver successful IM/IT services that meet the Minist
     - Draw down on Ministry contract for an external vendor via the IMB's Request for Service (RFS) process.
 
 ### Step 4: Provide regular updates 
-#### Checklist
 - Based upon the reporting requirement.
   - IM/IT capital = quarterly.
   - Project reporting = monthly.

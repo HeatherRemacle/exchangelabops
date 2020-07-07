@@ -26,7 +26,6 @@ Project success is never guaranteed. Determine your approach to product developm
 Have a design system which establishes your product framework based on your priorities and complies with government standards.
 
 ### Step 1: Go Agile, don’t repeat the old ways
-#### Checklist
 - Select Agile because:
   - The intended solution is large.
   - The solution can be a collection of many different projects.
@@ -41,7 +40,6 @@ Have a design system which establishes your product framework based on your prio
   - Many waterfall projects are abandoned and do not meet user expectations when finally completed.
 
 ### Step 2: Augment your team with experience
-#### Checklist
 - Identify the roles your project needs.
   - Build up your team's capacity by bringing in resources that are seasoned professionals. 
   - Work with the procurement team to understand how to evaluate proposals. 
@@ -51,7 +49,6 @@ Have a design system which establishes your product framework based on your prio
 - Consider the [Sprint with Us](https://digital.gov.bc.ca/marketplace/learn-more/sprint-with-us) and [Code With Us](https://engage.gov.bc.ca/data/2017/01/03/building-community-code-with-us/procurement) mechanisms that allows the Government of B.C. to procure Agile software development teams. 
 
 ### Step 3: Introduction to the Product Vision
-#### Checklist
 - Review the project team membership identify responsibilities.
   - Product Owner, Scrum Master, Developers, Testers.
 - Specify the approval process for signing off deliverables.
@@ -63,7 +60,6 @@ Have a design system which establishes your product framework based on your prio
 - Formulate the Project Inception Agenda.
 
 ### Step 4: Project Inception 
-#### Checklist
 - Identify the Scrum Master and Product Owner.
 - Have a team agreement session, identify the [team’s values](http://www.andycleff.com/2015/08/agile-best-practices-values-principles-virtues/#:~:text=Agile%20Values&text=Individuals%20and%20interactions%20over%20processes,change%20over%20following%20a%20plan). Display prominently.
 - [Establish your team agreement](https://shift.newco.co/2017/07/23/team-working-agreements-the-why-what-and-how/#:~:text=Why%20is%20it%20important%3F,together%20to%20produce%20great%20results.).
@@ -79,10 +75,10 @@ Have a design system which establishes your product framework based on your prio
 - Publish your Sprint calendar, key project dates, and team resource vacations.
 - Work in the open. Deliver often. Increment continuously.
 
-#### Resources
+### Resources
 Adopt a set of [Digital Principles and Standards such as these](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/single-page-seule/en/digital-standards.html). The [Government of Canada Digital Playbook](https://canada-ca.github.io/digital-playbook-guide-numerique/views-vues/agile/en/agile-use-when.html) has a useful tool to help determine if ‘Agile’ is right for your project. For more information on the [BCDevExchange](https://bcdevexchange.org/) approach to agile consult the [DevHub](https://devhub-static-test-devhub-test.pathfinder.gov.bc.ca/Agile-Delivery-Process/Agile-Delivery-Process). The [US Digital Playbook](https://playbook.cio.gov/#play4) describes the benefits of adopting an incremental agile approach to digital project development. 
 
-#### Tooling to consider
+### Tooling to consider
 Broad examples include:
 - Kanban board
 - Task assignment system (Jira)
