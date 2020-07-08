@@ -45,9 +45,10 @@ Following a successful initial product development and deployment a new modern a
 - [Google’s monitoring & logging patterns](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns){:target="_blank"}
 - [Triage best practices](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef){:target="_blank"}
 - Knowledge transfer best practices
-- Review your operating commitments
+- Review your operating commitments:
   - 9’s uptime
   - Performance targets
+- Read through and understand the <a target="_blank" href="/CITZ-IMB-playbook/docs/IMB-Application-Transition-Checklist.pdf">IMB Application Transition Checklist</a>
 
 <br/>
 [Back to the Top](#)
