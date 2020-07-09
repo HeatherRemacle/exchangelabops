@@ -24,6 +24,8 @@ How the IMB will work with your division/business unit for IM/IT initiatives and
 - An agreed upon response to the enquiry is reached and your Senior Business Consultant will follow up with you to guide you through the next steps of the journey.
 - Our goal is to set out a clear objectives and actions that will be determined the best outcome of the review.
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ### Ministry IMB Service Desk Pattern
 Describes how to contact the IMB Service Desk and the areas of assistance available to the Ministry.
 
@@ -44,6 +46,8 @@ The Service Desk will assist clients by:
 
 The CITZ IMB Service Desk Manager can be reached by email [here](mailto:gladys.gatobu@gov.bc.ca).
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ### Ministry STRA & PIA Pattern
 Describes a set of steps to allow your team to start your STRA and PIA journey.
 - Project team contacts the [Information Privacy and Security Team](mailto:CITZ Security and Privacy CITZ:EX %3cSecurityandPrivacy.Citz@gov.bc.ca%3e) (IPS) to seek advice and initiate the assessment process.
@@ -51,6 +55,8 @@ Describes a set of steps to allow your team to start your STRA and PIA journey.
 - IPS works together with the project team, and other key stakeholders as needed, to conduct the assessment.
 - Project team supports the process by providing all relevant information and documentation to IPS in order to conduct the assessment.
 - IPS liaises with core government information privacy and security branches (i.e., the Privacy, Compliance and Training Branch (PCT) and the Information Security Branch (ISB)) throughout the process, including during the assessment ‘sign-off’ phase.
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### Ministry IMB Technical Services Support Pattern
 Describes a set of steps to allow your team to engage the IMB Infrastructure support team and their service offerings.

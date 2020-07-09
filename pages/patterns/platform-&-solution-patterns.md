@@ -35,6 +35,7 @@ The BCDev Exchange promotes the creation of organizational capabilities that all
 -	Obtain executive sponsorship and commitment to form a dedicated team to [learn](https://bcdevexchange.org/learning){:target="_blank"}, experiment and create a viable solution in the BC Dev Exchange lab environment capable of being transitioned to and  supported by the IMB.   
 -	Start the conversation with the IMB Strategic planning team. 
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### Microsoft PowerBI Adoption Pattern
 Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.
@@ -50,6 +51,8 @@ This pattern consists of:
 |**Solution**|*The solution concept that addresses the scenario*|
 ||
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ### Microsoft Dynamics Adoption Pattern
 Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
 
@@ -63,6 +66,8 @@ This pattern consists of:
 ||
 |**Solution**|*The solution concept that addresses the scenario*|
 ||
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### Microsoft SharePoint Adoption Pattern
 #### The Need:
@@ -86,6 +91,7 @@ Before deciding on a completely self serve approach to team based document manag
 #### Additional information:
 - [IMB Hub SharePoint resource](https://intranet.gov.bc.ca/thehub/tools-and-resources/information-security-privacy-records-management/info-records-management/sharepoint){:target="_blank"}
 
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### BC Dev Exchange DevOps Container Platform(OpenShift) Adoption Pattern
 #### The Need:
@@ -110,6 +116,8 @@ As teams design and architect new IT based systems that deliver business value t
 -	Communicate with the DevExchange DevOps team through [Rocketchat](https://chat.pathfinder.gov.bc.ca/home){:target="_blank"}.
 -	Request a [GitHub repository](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation){:target="_blank"}.
 -	Request an [OpenShift environment](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-Request-a-New-OpenShift-Project){:target="_blank"}.
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ### Web Application Development Pattern
 <span style="color: green">\*currently in development\*</span>
