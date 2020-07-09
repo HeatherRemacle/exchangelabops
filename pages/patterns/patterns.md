@@ -40,7 +40,7 @@ IMB Patterns we will evolve will include...
     - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform.
 - [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-sharepoint-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the Microsoft Sharepoint platform.
-- [BC Dev Exchange DevOps Container Platform(OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-dev-exchange-devops-container-platformopenshift-adoption-pattern)
+- [BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the OpenShift platform.
 - [Web Application Development Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#web-application-development-pattern)
     - <span style="color: green">\*currently in development\*</span>

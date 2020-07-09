@@ -13,8 +13,8 @@ subnav:
       href: '#microsoft-dynamics-adoption-pattern'
     - text: Microsoft SharePoint Adoption Pattern
       href: '#microsoft-sharepoint-adoption-pattern'
-    - text: BC Dev Exchange DevOps Container Platform(OpenShift) Adoption Pattern
-      href: '#bc-dev-exchange-devops-container-platformopenshift-adoption-pattern'
+    - text: BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern
+      href: '#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern'
     - text: Web Application Development Pattern
       href: '#web-application-development-pattern'
 ---
@@ -115,7 +115,7 @@ Before deciding on a completely self serve approach to team based document manag
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### BC Dev Exchange DevOps Container Platform(OpenShift) Adoption Pattern
+### BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern
 #### The Need:
 Successful application development teams require on-demand, consistent environments and do not want to deal with underlying infrastructure. Business units are looking for hosting flexibility.
 
