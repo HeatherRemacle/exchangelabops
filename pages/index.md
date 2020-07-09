@@ -38,8 +38,8 @@ Contributes to a shared understanding of the solution ecosystem from ideation to
 ## What are the Benefits?
 Provides the IMB and our partners, vendors and clients with key resources that will assist them in identifying, using and leveraging trustworthy sources of knowledge that is regularly improved with the aim of enhancing and simplifying the IT solution delivery experience. 
 
-<!-- <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt=""> -->
-<img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt="">
+<img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt="">
+<!-- <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt=""> -->
 
 ## The Plays...
 
