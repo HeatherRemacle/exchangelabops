@@ -52,8 +52,8 @@ Having a clear understanding of the IM/IT project governance process will ensure
 <br/>
 [Play 2](/CITZ-IMB-playbook/play2)
 
-<!-- <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt=""> -->
-<img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt="">
+<img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt="">
+<!-- <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt=""> -->
 
 ### 3: Building your team
 Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 	
@@ -70,8 +70,8 @@ Following product development and deployment, a decision is made concerning the 
 <br/>
 [Play 5](/CITZ-IMB-playbook/play5)
 
-<!-- <img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/support-icon.png" alt=""> -->
-<img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/support-icon.png" alt="">
+<img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/support-icon.png" alt="">
+<!-- <img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/support-icon.png" alt=""> -->
 
 ### 6: Continuous Product Improvement
 In this play, a team is responsible for a continuous cycle of product enhancement and ongoing support based on incorporating user feedback and operational metrics provided by monitoring.  The product owner shifts their role to becoming the “story owner”.
