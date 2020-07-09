@@ -30,7 +30,7 @@ A pattern has a:
 IMB Patterns we will evolve will include...
 
 ### [Platform & Solution Patterns](/CITZ-IMB-playbook/platform-&-solution-patterns)
-- [DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#devexchange-adoption-pattern)
+- [DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-devexchange-adoption-pattern)
     - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
 - [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-powerbi-adoption-pattern)
     - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform.

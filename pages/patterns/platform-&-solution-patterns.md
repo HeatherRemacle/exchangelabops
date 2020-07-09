@@ -33,7 +33,7 @@ The BCDev Exchange promotes the creation of organizational capabilities that all
 
 #### Solution:
 -	Obtain executive sponsorship and commitment to form a dedicated team to [learn](https://bcdevexchange.org/learning){:target="_blank"}, experiment and create a viable solution in the BC Dev Exchange lab environment capable of being transitioned to and  supported by the IMB.   
--	Start the conversation with the IMB Strategic planning team. 
+-	Start the conversation with the [IMB Strategic planning team](/CITZ-IMB-playbook/imb-patterns#ministry-imb-imit-strategic-planning-pattern). 
 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
@@ -77,16 +77,16 @@ Collaboration is key to team success. Working in the open is a digital principle
 As a member of the business unit working on a new initiative, I need to have a secure document storage site that my team and our partners can access over the web so that we can collaborate on documents for our project.
 
 #### Context:
-Teams delivering a time boxed initiative create office documents of many common types including spreadsheets, presentations, word and PDF documents. Being able to organize the document structure allows for efficient team collaboration. 
+Teams delivering a time boxed initiative create office documents including spreadsheets, presentations, word, and PDF documents. Being able to organize the document structure allows for efficient team collaboration. 
 
 #### Scenario:
 Your initiative requires a central repository of project related documents, lists and team contacts. Files should only be viewable to those who have been granted access to specific folders. In order to ensure that changes can be rolled back a versioning feature is required. The platform should include an all-of-site search capability. The site will have a diverse set of government users but may also allow access to external authenticated users.
 
 #### Solution:
-Before deciding on a completely self serve approach to team based document management engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration and development. SharePoint is a flexible environment and includes a team site collaboration template.
--	SharePoint projects should be requested through the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}.
--	Operational services are requested through [CITZ SharePoint Support](mailto:citz_sp_support@gov.bc.ca).  
--	For additional information on the SharePoint service offering visit the [IMB Hub](https://intranet.gov.bc.ca/thehub/tools-and-resources/imb-service-catalogue/application-management-services/sharepoint){:target="_blank"}.
+Before deciding on a completely self serve approach to team based document management engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration and development. SharePoint is a flexible environment that includes a team site collaboration template which supports IDIR and BCEID user accounts.
+-	SharePoint projects should be requested through the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}
+-	Operational services are requested through [CITZ SharePoint Support](mailto:citz_sp_support@gov.bc.ca)
+-	For additional information on the SharePoint service offering visit the [IMB Hub](https://intranet.gov.bc.ca/thehub/tools-and-resources/imb-service-catalogue/application-management-services/sharepoint){:target="_blank"}
 
 #### Additional information:
 - [IMB Hub SharePoint resource](https://intranet.gov.bc.ca/thehub/tools-and-resources/information-security-privacy-records-management/info-records-management/sharepoint){:target="_blank"}
@@ -111,7 +111,7 @@ As teams design and architect new IT based systems that deliver business value t
 -	Solutions that don’t expect to have a high degree of ongoing development.    
 
 #### Solution:
--	Obtain executive approval as described in the DevExchange Adoption Pattern(LINK). 
+-	Obtain executive approval as described in the [DevExchange Adoption Pattern](#bc-devexchange-adoption-pattern). 
 -	Identify a Product Owner and a Technical Steward for your project.
 -	Communicate with the DevExchange DevOps team through [Rocketchat](https://chat.pathfinder.gov.bc.ca/home){:target="_blank"}.
 -	Request a [GitHub repository](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation){:target="_blank"}.
