@@ -64,7 +64,7 @@ To improve the delivery of successful IM/IT services that meet the Ministry goal
 - Working with the Secretariat Portfolio Manager / Project Analyst, provide regular status updates to Ministry executives
 
 ### Resources
-The CITZ IMB maintains a collection of templates and information in their [Project Management Resource Centre](https://intranet.gov.bc.ca/thehub/tools-and-resources/project-management-resource-centre){:target="_blank"}. Gaurav Mehra provides insight into common challenges encountered in Agile intake processes: [Part 1](https://www.linkedin.com/pulse/agile-project-intake-challenges-learnings-best-practices-gaurav-mehra?articleId=6418711210946101248){:target="_blank"} & [Part 2](https://www.linkedin.com/pulse/introduction-agile-project-intake-challenges-learnings-gaurav-mehra){:target="_blank"}.
+The CITZ IMB maintains a collection of templates and information in their [Project Management Resource Centre](https://intranet.gov.bc.ca/thehub/tools-and-resources/project-management-resource-centre){:target="_blank"}. Gaurav Mehra provides insight into common challenges encountered in Agile intake processes: [Part 1](https://www.linkedin.com/pulse/Agile-project-intake-challenges-learnings-best-practices-gaurav-mehra?articleId=6418711210946101248){:target="_blank"} & [Part 2](https://www.linkedin.com/pulse/introduction-Agile-project-intake-challenges-learnings-gaurav-mehra){:target="_blank"}.
 
 ### Guidance to Consider
 Broad examples include:

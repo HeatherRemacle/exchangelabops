@@ -30,7 +30,7 @@ subnav:
     href: '#definition-of-a-modern-application'
 
 ---
-This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within the agile framework. It provides you with a collection of references, tools, and best practices. 
+This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within the Agile framework. It provides you with a collection of references, tools, and best practices. 
 
 ## What Does It Do?
 It contributes to a shared understanding of the solution ecosystem from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 

@@ -26,7 +26,7 @@ As your project and digital products advance on this journey, you will encounter
 
 [Acceptance Criteria](https://tinyurl.com/yb3p88av){:target="_blank"}
 
-[Agile](https://www.agilealliance.org/agile101/){:target="_blank"}
+[Agile](https://www.Agilealliance.org/Agile101/){:target="_blank"}
 
 Application Manager
 
@@ -56,7 +56,7 @@ Application Manager
 
 [Cloud Native](https://github.com/cncf/toc/blob/master/DEFINITION.md){:target="_blank"}
 
-[Code Review](https://smartbear.com/learn/code-review/agile-code-review-process/){:target="_blank"}
+[Code Review](https://smartbear.com/learn/code-review/Agile-code-review-process/){:target="_blank"}
 
 [Code Repository](https://en.wikipedia.org/wiki/Repository_(version_control)){:target="_blank"}
 
@@ -67,7 +67,7 @@ Application Manager
 	
 ### D
 
-[Definition of Done (DoD)](https://www.agilealliance.org/glossary/definition-of-done/){:target="_blank"}
+[Definition of Done (DoD)](https://www.Agilealliance.org/glossary/definition-of-done/){:target="_blank"}
 
 [Definition of Ready (DOR)](https://www.scrum.org/resources/blog/walking-through-definition-ready){:target="_blank"}
 
@@ -75,7 +75,7 @@ Application Manager
 
 [Design Thinking](https://www.interaction-design.org/literature/topics/design-thinking){:target="_blank"}
 
-[Deploy](https://www.scaledagileframework.com/continuous-deployment/){:target="_blank"}
+[Deploy](https://www.scaledAgileframework.com/continuous-deployment/){:target="_blank"}
 
 [Devhub](https://developer.gov.bc.ca/){:target="_blank"}
 
@@ -91,7 +91,7 @@ Application Manager
 
 [ELK stack](https://www.elastic.co/elastic-stack?){:target="_blank"}
 
-[EPICS](https://www.atlassian.com/agile/project-management/epics){:target="_blank"}
+[EPICS](https://www.atlassian.com/Agile/project-management/epics){:target="_blank"}
 
 [Escalation](https://wiki.en.it-processmaps.com/index.php/Checklist_Incident_Escalation){:target="_blank"}
 	
@@ -130,7 +130,7 @@ Application Manager
 	
 ### M
 
-[Methodologies (Agile)](https://resources.collab.net/agile-101/agile-methodologies){:target="_blank"}
+[Methodologies (Agile)](https://resources.collab.net/Agile-101/Agile-methodologies){:target="_blank"}
 
 [Ministry Chief information Officer (MCIO)](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb/mcio-updates){:target="_blank"}
 
@@ -165,15 +165,15 @@ Digital Investment office of the BC OCIO
 	
 ### P	
 
-[Persona](https://www.romanpichler.com/blog/10-tips-agile-personas/){:target="_blank"}
+[Persona](https://www.romanpichler.com/blog/10-tips-Agile-personas/){:target="_blank"}
 
-[Pipeline (agile)](https://pm-powerconsulting.com/blog/agile-pipeline-scale-agile-delivery/){:target="_blank"}
+[Pipeline (Agile)](https://pm-powerconsulting.com/blog/Agile-pipeline-scale-Agile-delivery/){:target="_blank"}
 
 [Playbooks (examples)](https://tech.gsa.gov/playbooks/){:target="_blank"}
 
 [Principles (example)](https://www.toptal.com/designers/ui/principles-of-design){:target="_blank"}
 
-[Product Owner (PO)](https://www.scaledagileframework.com/product-owner/){:target="_blank"}
+[Product Owner (PO)](https://www.scaledAgileframework.com/product-owner/){:target="_blank"}
 
 [Progressive Web App (PWA)](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0){:target="_blank"}
 
@@ -200,9 +200,9 @@ Project Review Board
 	
 ### S
 
-[Scenarios](https://www.romanpichler.com/blog/agile-scenarios-and-storyboards/){:target="_blank"}
+[Scenarios](https://www.romanpichler.com/blog/Agile-scenarios-and-storyboards/){:target="_blank"}
 
-[Scrum Master](https://www.yodiz.com/blog/scrum-master-job-descriptions-and-responsibilities-in-agile-methodology/){:target="_blank"}
+[Scrum Master](https://www.yodiz.com/blog/scrum-master-job-descriptions-and-responsibilities-in-Agile-methodology/){:target="_blank"}
 
 [Security](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/security101_guidebook_feb2018.pdf){:target="_blank"}
 
@@ -212,7 +212,7 @@ Senior Business Consultant
 
 [Site Reliability Engineer (SRE)](https://landing.google.com/sre/){:target="_blank"}
 
-[Sprints](https://www.atlassian.com/agile/scrum/sprints){:target="_blank"}
+[Sprints](https://www.atlassian.com/Agile/scrum/sprints){:target="_blank"}
 
 [Sprint demo](https://manifesto.co.uk/scrum-practice-sprint-demo/){:target="_blank"}
 
@@ -224,7 +224,7 @@ Senior Business Consultant
 
 [Steering Committee](https://www.henricodolfing.com/2018/07/effective-steering-committees.html){:target="_blank"}
 
-[Story Owner](https://www.mountaingoatsoftware.com/agile/user-stories){:target="_blank"}
+[Story Owner](https://www.mountaingoatsoftware.com/Agile/user-stories){:target="_blank"}
 	
 ### T
 
@@ -240,7 +240,7 @@ Senior Business Consultant
 
 [User Journey Mapping](https://www.appcues.com/blog/user-journey-map){:target="_blank"}
 
-[User Story](https://blog.easyagile.com/how-to-write-good-user-stories-in-agile-software-development-d4b25356b604){:target="_blank"}
+[User Story](https://blog.easyAgile.com/how-to-write-good-user-stories-in-Agile-software-development-d4b25356b604){:target="_blank"}
 
 ### V	
 
@@ -250,7 +250,7 @@ Senior Business Consultant
 
 [Way of working (WOW)](https://www.101ways.com/2019/04/03/how-to-develop-a-teams-ways-of-working/){:target="_blank"}
 
-[waterfall](https://en.wikipedia.org/wiki/Waterfall_model){:target="_blank"}
+[Waterfall](https://en.wikipedia.org/wiki/Waterfall_model){:target="_blank"}
 
 [Wireframes](https://theblog.adobe.com/everything-you-need-to-know-about-wireframes-and-prototypes/){:target="_blank"}
 

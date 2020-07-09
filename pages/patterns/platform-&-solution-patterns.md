@@ -29,7 +29,7 @@ As a member of the business unit executive, I need to have a knowledgeable team 
 Taking a solution that is nearing it’s end of life, identifying business scenarios through client engagement can identify the need to create internal capacity for team skills capable of proposing, designing and delivering solutions that will modernize the business unit’s product portfolio for the digital government era. 
 
 #### Scenario:
-The BCDev Exchange promotes the creation of organizational capabilities that allow teams to solve difficult business problems. The [lab environment](https://bcdevexchange.org/ExchangeLab){:target="_blank"} offers teams space where they can reside for up to a year (physically or virtually), be exposed to resident experts that have experience and knowledge in delivering solutions based on agile methodologies and using open source software working on modern cloud-ready platforms.
+The BCDev Exchange promotes the creation of organizational capabilities that allow teams to solve difficult business problems. The [lab environment](https://bcdevexchange.org/ExchangeLab){:target="_blank"} offers teams space where they can reside for up to a year (physically or virtually), be exposed to resident experts that have experience and knowledge in delivering solutions based on Agile methodologies and using open source software working on modern cloud-ready platforms.
 
 #### Solution:
 -	Obtain executive sponsorship and commitment to form a dedicated team to [learn](https://bcdevexchange.org/learning){:target="_blank"}, experiment and create a viable solution in the BC Dev Exchange lab environment capable of being transitioned to and  supported by the IMB.   

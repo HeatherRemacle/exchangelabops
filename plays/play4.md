@@ -107,7 +107,7 @@ An MVP is no longer considered to be an experiment, but a product that has value
 
 ### Guidance to consider
 -	Understand how product management is different in Agile projects.
--	Understand agile software product integrity.
+-	Understand Agile software product integrity.
 -	Define and develop your pipeline (ex: Jenkins).
 -	Create and maintain a testing framework.
 
