@@ -39,6 +39,8 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
+  - text: PDF Version
+    href: /CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf
 
 docs:
   - text: Modern Application Playbook

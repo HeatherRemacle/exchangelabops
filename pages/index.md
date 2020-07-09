@@ -30,8 +30,6 @@ subnav:
     href: '#definition-of-a-modern-application'
 
 ---
-<a target="_blank" href="/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf">Download a PDF version of this playbook</a>
-
 This playbook is designed to help you on your IT project journey. It provides you with a collection of references to tested methodologies, tools and best practices.  Developing and supporting government applications continues to shift from a requirements heavy traditional [waterfall](https://en.wikipedia.org/wiki/Waterfall_model){:target="_blank"} methodology towards a user centric agile approach with shorter project development cycles and the adoption of a [DevOps](https://www.lucidchart.com/blog/devops-process-flow){:target="_blank"} culture that has been successfully pioneered within the BC Government by the [BC Dev Exchange](https://bcdevexchange.org/){:target="_blank"}.  
 
 ## What does it do?
