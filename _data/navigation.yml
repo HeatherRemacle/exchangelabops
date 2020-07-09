@@ -41,6 +41,7 @@ secondary:
     external: false
   - text: PDF Version
     href: /docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf
+    external: true
 
 docs:
   - text: Modern Application Playbook
