@@ -20,13 +20,13 @@ subnav:
 ---
 ### BC DevExchange Adoption Pattern
 #### The Need:
-Modernization has been identified as a Ministry goal. To achieve this business units are embarking on  difficult change initiatives that are tied to culture shifts within their organizations. It won’t happen overnight. Readiness to adopt new systems and approaches requires a plan. A key element of the plan is based on having the capabilities and capacity to deliver solutions that end-users value. The [BC DevExchange](https://bcdevexchange.org/){:target="_blank"} is an incubator for the promotion of  innovation.
+Modernization has been identified as a Ministry goal. To achieve this, business units are embarking on  difficult change initiatives that are tied to culture shifts within their organizations. It won’t happen overnight. Readiness to adopt new systems and approaches requires a plan. A key element of the plan is based on having the capabilities and capacity to deliver solutions that end-users value. The [BC DevExchange](https://bcdevexchange.org/){:target="_blank"} is an incubator for the promotion of  innovation.
 
 #### User Story:
 As a member of the business unit executive, I need to have a knowledgeable team capable of delivering a digitally enabled product that meets the needs of our discerning users.
 
 #### Context:
-Taking a solution that is nearing it’s end of life, identifying business scenarios through client engagement can identify the need to create internal capacity for team skills capable of proposing, designing and delivering solutions that will modernize the business unit’s product portfolio for the digital government era. 
+Taking a solution that is nearing its end of life, identifying business scenarios through client engagement can identify the need to create internal capacity for team skills capable of proposing, designing and delivering solutions that will modernize the business unit’s product portfolio for the digital government era. 
 
 #### Scenario:
 Develop organization capabilities that allow teams to solve difficult business problems. Co-locate in the lab environment where teams can reside (physically or virtually). Get exposure to resident experts who have experience and knowledge in delivering solutions, based on agile methodologies, utilizing open source software on modern, cloud-ready platforms.
@@ -93,7 +93,7 @@ IMB can work with project teams to review requirements, participate on technical
 
 ### Microsoft SharePoint Adoption Pattern
 #### The Need:
-Collaboration is key to team success. Working in the open is a digital principle that requires on-demand access to information. Projects are mandated to follow core policy and OCIO records management. Files stored on network drives or in e-Mail folders are difficult to locate. A purpose built, secure (IDIR/BCeID supported) document repository enforces structure and file findability.  
+Collaboration is key to team success. Working in the open is a digital principle that requires on-demand access to information. Projects are mandated to follow core policy and OCIO records management. Files stored on network drives or in email folders are difficult to locate. A purpose built, secure (IDIR/BCeID supported) document repository enforces structure and file findability.  
 
 #### User Story:
 As a member of the business unit working on a new initiative, I need to have a secure document storage site that my team and our partners can access over the web so that we can collaborate on documents for our project.
@@ -102,10 +102,10 @@ As a member of the business unit working on a new initiative, I need to have a s
 Teams delivering a time boxed initiative create office documents including spreadsheets, presentations, word, and PDF documents. Being able to organize the document structure allows for efficient team collaboration. 
 
 #### Scenario:
-Your initiative requires a central repository of project related documents, lists and team contacts. Files should only be viewable to those who have been granted access to specific folders. In order to ensure that changes can be rolled back a versioning feature is required. The platform should include an all-of-site search capability. The site will have a diverse set of government users but may also allow access to external authenticated users.
+Your initiative requires a central repository of project related documents, lists and team contacts. Files should only be viewable to those who have been granted access to specific folders. In order to ensure that changes can be rolled back, a versioning feature is required. The platform should include an all-of-site search capability. The site will have a diverse set of government users but may also allow access to external authenticated users.
 
 #### Solution:
-Before deciding on a completely self serve approach to team based document management engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration and development. SharePoint is a flexible environment that includes a team site collaboration template which supports IDIR and BCEID user accounts.
+Before deciding on a completely self-serve approach to team based document management engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration and development. SharePoint is a flexible environment that includes a team site collaboration template which supports IDIR and BCEID user accounts.
 -	SharePoint projects should be requested through the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}
 -	Operational services are requested through [CITZ SharePoint Support](mailto:citz_sp_support@gov.bc.ca)
 -	For additional information on the SharePoint service offering visit the [IMB Hub](https://intranet.gov.bc.ca/thehub/tools-and-resources/imb-service-catalogue/application-management-services/sharepoint){:target="_blank"}
@@ -120,16 +120,16 @@ Before deciding on a completely self serve approach to team based document manag
 Successful application development teams require on-demand, consistent environments and do not want to deal with underlying infrastructure. Business units are looking for hosting flexibility.
 
 #### User Story:
-As a product owner, I need to be assured that my  full stack development team has access to a supported platform that offers an automated code delivery environment without having to concern ourselves about the infrastructure so that my team can sustain a high frequency of feature delivery.
+As a product owner, I need to be assured that my full stack development team has access to a supported platform that offers an automated code delivery environment without having to worry about the infrastructure, so that my team can sustain a high frequency of feature delivery.
 
 #### Context:
-As teams design and architect new IT based systems that deliver business value they are looking to adopt flexible technologies without the inherent lock-in that have come with selecting platforms in the past. Application containers are lightweight, secure and scalable. Container Based Applications (CBA) are portable across a number of on-premise (OCIO-ES) and vendor clouds. 
+As teams design and architect new IT based systems that deliver business value, they are looking to adopt flexible technologies without the inherent lock-in that has come with selecting platforms in the past. Application containers are lightweight, secure and scalable. Container Based Applications (CBA) are portable across a number of on-premise (OCIO-ES) and vendor clouds.
 
 #### Scenarios:
 -	New or existing web based solutions that can be designed or refactored to run on the OpenShift platform
--	 New product offerings that may have peak volume demands are ideal candidates to take advantage of the scalable nature of the [BCDevExchange DevOps](https://bcdevexchange.org/DevOpsPlatform){:target="_blank"} OpenShift container platform
+-	New product offerings that may have peak volume demands are ideal candidates to take advantage of the scalable nature of the [BCDevExchange DevOps](https://bcdevexchange.org/DevOpsPlatform){:target="_blank"} OpenShift container platform
 -	ETL scheduled jobs
--	 Application Programming Interfaces (API)
+-	Application Programming Interfaces (API)
 -	Solutions that don’t expect to have a high degree of ongoing development   
 
 #### Solution:
@@ -144,7 +144,7 @@ As teams design and architect new IT based systems that deliver business value t
 ### Web Application Development Pattern
 <span style="color: green">\*under development\*</span>
 
-Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application. This pattern consists of:
+Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
 
 This pattern consists of:
 
