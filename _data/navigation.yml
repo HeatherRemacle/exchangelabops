@@ -40,7 +40,7 @@ secondary:
     href: /feedback
     external: false
   - text: PDF Version
-    href: /docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf
+    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/CITZ-IMB-MODERN-APP-PLAYBOOK-ALPHA.pdf
     external: true
 
 docs:
