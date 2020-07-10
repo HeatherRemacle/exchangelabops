@@ -17,41 +17,18 @@ When a Ministry business unit starts its product development journey, it is ofte
 #### How are patterns described?
 A pattern describes a process and a "thing". It describes a proven solution that can be applied by our clients. Patterns are usually generic and intended to initiate a dialog. 
 
-A pattern has a:
-- Name & short summary
-    - Which demonstrates the business need for the pattern
-- Need
-- User Story
-- Context
-    - Situations in which the pattern may apply
-- Scenario
-    - That the pattern addresses
-- Solution
-    - The fundamental solution concept that addresses the scenario
-
 IMB Patterns we will evolve will include...
 
 ### Platform & Solution Patterns
 - [BC DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-devexchange-adoption-pattern)
-    - Describes a set of steps to allow your team to start a DevOps journey in the BC Dev Exchange
 - [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-powerbi-adoption-pattern)
-    - Describes a set of steps to allow your team to start a journey on the Microsoft PowerBI platform
 - [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-dynamics-adoption-pattern)
-    - Describes a set of steps to allow your team to start a journey on the Microsoft Dynamics platform
 - [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-sharepoint-adoption-pattern)
-    - Describes a set of steps to allow your team to start a journey on the Microsoft Sharepoint platform
 - [BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern)
-    - Describes a set of steps to allow your team to start a journey on the OpenShift platform
-- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#progressive-web-application-capstone-pattern)
-    - <span style="color: green">\*currently in development\*</span>
-    - Describes a set of steps to allow your team to start a journey when developing a progressive/responsive web application
+- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#progressive-web-application-capstone-pattern) <span style="color: green">\*currently in development\*</span>
 
 ### IMB Patterns
 - [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-imit-strategic-planning-pattern)
-    - Describes how the IMB will work with your division/business unit for IM/IT initiatives and enquiries
 - [Ministry IMB Service Desk Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-service-desk-pattern)
-    - Describes how to contact the IMB Service Desk and the areas of assistance available to the Ministry
 - [Ministry STRA & PIA Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-stra--pia-pattern)
-    - Describes a set of steps to allow your team to start your STRA journey
 - [Ministry IMB Technical Services Support Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-technical-services-support-pattern)
-    - Describes a set of services available to your team and how to engage the IMB Technical Services team
