@@ -122,34 +122,10 @@ footer:
 patterns:
   - text: Patterns Home
     href: /patterns
-  - text: Platform & Solution Patterns
-    href: /platform-&-solution-patterns
+  - text: Platform Adoption Patterns
+    href: /platform-adoption-patterns
   - text: IMB Patterns
     href: /imb-patterns
-
-patterns2:
-  - text: Patterns Home
-    href: /patterns
-  - text: DexExchange Adoption
-    href: /devexchange-adoption
-  - text: Microsoft PowerBI Adoption
-    href: /microsoft-powerbi-adoption
-  - text: Microsoft Dynamics Adoption
-    href: /microsoft-dynamics-adoption
-  - text: Microsoft SharePoint Adoption
-    href: /microsoft-sharepoint-adoption
-  - text: RHEL OpenShift Adoption Pattern
-    href: /rhel-openshift-adoption
-  - text: Web Application Development Pattern
-    href: /web-application-development
-  - text: Ministry IMB IM/IT Strategic Planning
-    href: /ministry-imb-im-it-strategic-planning
-  - text: Ministry IMB Service Desk
-    href: /ministry-imb-service-desk
-  - text: Ministry STRA & PIA
-    href: /ministry-stra-&-pia
-  - text: Ministry IMB Technical Services Support Pattern
-    href: /ministry-imb-technical-services-support
 
 maintenanceanddevelopment:
   - text: Maintenance and Development

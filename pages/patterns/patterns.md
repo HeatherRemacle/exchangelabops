@@ -5,8 +5,8 @@ permalink: /patterns
 layout: post
 sidenav: docs
 subnav:
-  - text: Platform & Solution Patterns
-    href: '#platform--solution-patterns'
+  - text: Platform Adoption Patterns
+    href: '#platform-adoption-patterns'
   - text: IMB Patterns
     href: '#imb-patterns'
 ---
@@ -19,13 +19,13 @@ A pattern describes a process and a "thing". It describes a proven solution that
 
 IMB Patterns we will evolve will include...
 
-### Platform & Solution Patterns
-- [BC DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-devexchange-adoption-pattern)
-- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-powerbi-adoption-pattern)
-- [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-dynamics-adoption-pattern)
-- [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#microsoft-sharepoint-adoption-pattern)
-- [BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern)
-- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-&-solution-patterns#progressive-web-application-capstone-pattern) <span style="color: green">\*currently in development\*</span>
+### Platform Adoption Patterns
+- [BC DevExchange Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#bc-devexchange-adoption-pattern)
+- [Microsoft PowerBI  Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#microsoft-powerbi-adoption-pattern)
+- [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#microsoft-dynamics-adoption-pattern)
+- [Microsoft Sharepoint Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#microsoft-sharepoint-adoption-pattern)
+- [BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern)
+- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#progressive-web-application-capstone-pattern) <span style="color: green">\*currently in development\*</span>
 
 ### IMB Patterns
 - [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-imit-strategic-planning-pattern)

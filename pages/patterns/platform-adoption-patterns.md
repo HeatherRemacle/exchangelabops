@@ -1,6 +1,6 @@
 ---
-title: Platform & Solution Patterns
-permalink: /platform-&-solution-patterns
+title: Platform Adoption Patterns
+permalink: /platform-adoption-patterns
 
 layout: post
 sidenav: patterns
