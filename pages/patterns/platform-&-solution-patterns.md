@@ -15,8 +15,8 @@ subnav:
       href: '#microsoft-sharepoint-adoption-pattern'
     - text: BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern
       href: '#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern'
-    - text: Web Application Development Pattern
-      href: '#web-application-development-pattern'
+    - text: Progressive Web Application Capstone Pattern
+      href: '#progressive-web-application-capstone-pattern'
 ---
 ## BC DevExchange Adoption Pattern
 ### The Need:
@@ -146,7 +146,7 @@ As teams design and architect new IT-based systems that deliver business value, 
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-## Web Application Development Pattern
+## Progressive Web Application Capstone Pattern
 <span style="color: green">\*under development\*</span>
 
 Describes a set of steps to allow your team to start a journey when developing a progressive/responsive web application.
