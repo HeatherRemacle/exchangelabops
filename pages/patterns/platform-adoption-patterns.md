@@ -74,7 +74,7 @@ Digital government requires on-demand, reliable delivery of citizen-centric serv
 As a BC Government digital product owner, I need a platform that allows me to deliver a secure e-Permitting (as one example) solution that involves stakeholders from a diverse group of Ministries.
 
 ### Context:
-Modern enterprise resource platforms, such as Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating workflows to solve complex citizen-focused solutions.
+Modern Customer Relationship Management (CRM) platforms, such as Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating workflows to solve complex citizen-focused solutions.
 
 ### Scenarios:
 The Dynamics platform can been applied in a diverse set of citizen and service focused management systems including:
@@ -92,6 +92,9 @@ The Dynamics platform can been applied in a diverse set of citizen and service f
 
 IMB can work with project teams to review requirements, participate on technical teams, and assist teams through the approval and project inception process.
 -	MS Dynamics initiatives can be started by completing the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}
+
+### Additional Guidance:
+- [Customer Relationship Management](https://bcgov.github.io/HADF-Overview/C.ModernizationPlaybook/Business%20Applications/CRM/CRM-Index.html){:target="_blank"}
 
 <br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
@@ -142,6 +145,7 @@ As teams design and architect new IT-based systems that deliver business value, 
 -	Obtain executive approval as described in the [DevExchange Adoption Pattern](#bc-devexchange-adoption-pattern) 
 -	Identify a Product Owner and a Technical Steward for your project
 -	Communicate with the DevExchange DevOps team through [Rocketchat](https://chat.pathfinder.gov.bc.ca/home){:target="_blank"}
+- Enroll and complete [Agile and OpenShift training](https://bcdevexchange.org/learning){:target="_blank"} offered through the DevExchange
 -	Request a [GitHub repository](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation){:target="_blank"}
 -	Request an [OpenShift environment](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-Request-a-New-OpenShift-Project){:target="_blank"}
 
@@ -166,3 +170,6 @@ Installable progressive web applications (PWA) offer an authentic mobile experie
 ### Solution:
 - Use modern web technologies (such as React and Node.js)
 - Investigate the [playbook exemplar](http://github.com/bcgov/CITZ-IMB-Capstone2020){:target="_blank"} as a “starter kit”
+
+### Additional Information:
+- [PWA on Wikipedia](https://en.wikipedia.org/wiki/Progressive_web_application){:target="_blank"}
