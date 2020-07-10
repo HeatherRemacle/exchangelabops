@@ -149,17 +149,20 @@ As teams design and architect new IT-based systems that deliver business value, 
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Progressive Web Application Capstone Pattern
-<span style="color: green">\*under development\*</span>
 
-Describes a set of steps to allow your team to start a journey when developing a progressive/responsive web application.
+### The Need:
+Citizens and employees prefer to use their mobile devices to access information and services. Mobile devices are able to access on-device sensors and smart-phone/tablet features to provide a richer more engaging user experience.
 
-This pattern consists of:
+### User Story:
+As a citizen, I rely on my mobile device as my preferred way of consuming government services.
 
-|**Name and Summary**|*Demonstrates the business need for the patterns*|
-||
-|**Context**|*Situations in which the pattern may apply*|
-||
-|**Scenario**|*That the pattern addresses*|
-||
-|**Solution**|*The solution concept that addresses the scenario*|
-||
+### Context:
+Installable progressive web applications (PWA) offer an authentic mobile experience for users. A PWA allows a website to run on the mobile device when connectivity can't be guaranteed. Web-based solutions can be enriched to access on-device sensors (example: location services). PWAs allow users to self-install the solution without having to be published in an App Store. Solution owners can send update notices directly to the installed solution, thereby simplifying application management.
+
+### Scenarios:
+- Offline information services
+- Store/forward data entry
+
+### Solution:
+- Use modern web technologies (such as React and Node.js)
+- Investigate the [playbook exemplar](http://github.com/bcgov/CITZ-IMB-Capstone2020){:target="_blank"} as a “starter kit”
