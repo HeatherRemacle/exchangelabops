@@ -68,22 +68,24 @@ The IMB can work with project teams to review requirements, participate on techn
 <span style="color: green">\*under development\*</span>
 
 ### The Need:
-Digital government requires on-demand, reliable delivery of citizen-centric services that often touch multiple business units in multiple Ministries. Being able to provide a unified view of the citizen, often using multiple backing services with separate data sources, requires a platform approach to service delivery. 
+Digital government requires on-demand, reliable delivery of citizen-centric services that often touch multiple business units in multiple Ministries. Being able to provide a unified view of the citizen, while using various backing services each with separate data sources, requires a platform approach to service delivery. 
 
 ### User Story:
 As a BC Government digital product owner, I need a platform that allows me to deliver a secure e-Permitting (as one example) solution that involves stakeholders from a diverse group of Ministries.
 
 ### Context:
-Modern enterprise resource platforms, such as MS Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating complex workflows to solve complicated citizen-focused solutions.
+Modern enterprise resource platforms, such as Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating workflows to solve complex citizen-focused solutions.
 
 ### Scenarios:
--	Workforce Management Systems
--	Financial Accounting
--	Grant/Entitlement Management
--	Permit System Management
--	Case Management
--	Project Management
--	Customer Contact 
+The Dynamics platform can been applied in a diverse set of citizen and service focused management systems including:
+- Grant Management
+- Registration systems / Registries
+- Appeals Management
+- Citizen Engagement
+- Referral Management
+- Product orders and delivery tracking
+- Call Centres
+- Marketing List Management
 
 ### Solution:
 <span style="color: green">\*under development\*</span>
