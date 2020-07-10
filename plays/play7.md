@@ -28,10 +28,10 @@ Maintain care and feeding of your processes with your stakeholders through good 
 Ensure that annual funding plans are in place to account for any and all changes, including product retirement and product replacement.
 
 ### Step 1: Maintain a Happy User
--	Review your products goals and assumptions
+-	Review your product's goals and assumptions
     - Are they still relevant?
     - Are they being met?
--	Evaluate and Analyze product analytics data (if available, if not look to create it)
+-	Evaluate and Analyze product analytics data (if not available then look to create it)
 -	Interpret user feedback. Can unused features be deprecated? Will a new user interface result in increased adoption and user satisfaction?
 -	Conduct product research. Do other products offer a better value proposition for users? 
 -	Review the product roadmap and release schedule
@@ -60,7 +60,7 @@ Ensure that annual funding plans are in place to account for any and all changes
 -	Do your release and change management processes align with the platform update cadence?
 -	Review the defect log
     - Have the processes that you put in place reduced the time it takes to remediate these defects?
-    - The aim is to identify in the early development stage of [play 4](/CITZ-IMB-playbook/play4)
+    - The aim is to identify in this the early development stage of [play 4](/CITZ-IMB-playbook/play4)
     - Late stage remediation takes away from new feature development and delivery
 
 ### Guidance to Consider

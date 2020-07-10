@@ -21,7 +21,7 @@ subnav:
     href: '#tooling-to-consider'
 ---
 ## Building Your Team
-Project success is never guaranteed. Determine your approach to product development in order to correctly fit your resource needs. Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people either using temporary assignments, contractors or co-ops. Once you have your team come to a common understanding of the culture you wish to promote then entrust design and development to the team which you have empowered.
+Project success is never guaranteed. Determine your approach to product development in order to correctly fit your resource needs. Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people either using temporary assignments, contractors, or co-ops. Once you have your team come to a common understanding of the culture you wish to promote, then entrust design and development to the team which you have empowered.
 
 Have a design system that establishes your product framework, is based on your priorities, and complies with government standards.
 
@@ -66,13 +66,13 @@ Have a design system that establishes your product framework, is based on your p
 - Establish your [team agreement](https://shift.newco.co/2017/07/23/team-working-agreements-the-why-what-and-how/#:~:text=Why%20is%20it%20important%3F,together%20to%20produce%20great%20results.){:target="_blank"}
 - Establish [“way of working”](https://www.101ways.com/2019/04/03/how-to-develop-a-teams-ways-of-working/#:~:text=Suggested%20ways%20of%20working&text=For%20larger%20teams%2C%20break%20into,one%20way%20of%20doing%20something){:target="_blank"} (sprint cycles, way of communication, meeting regularity)
   - Advertise when you will hold Sprint Planning, Stand-ups, Sprint Reviews, and Product/feature Demos
-- Agree on a common [“definition of done”](https://www.boost.co.nz/blog/2019/05/definition-of-done-examples-and-tips){:target="_blank"}
-- Create virtual/physical workspace for the team
+- Agree on a common ["definition of done"](https://www.boost.co.nz/blog/2019/05/definition-of-done-examples-and-tips){:target="_blank"}
+- Create a virtual/physical workspace for the team
 - Set up your development environment
-- [Define initial backlog](https://www.youtube.com/watch?v=DUYUIj1t10Q){:target="_blank"} of requirements/stories/features
+- [Define an initial backlog](https://www.youtube.com/watch?v=DUYUIj1t10Q){:target="_blank"} of requirements/stories/features
 - Identify the high value user stories based on their needs/challenges formulated as user stories
 - [Specify acceptance criteria](https://rubygarage.org/blog/clear-acceptance-criteria-and-why-its-important#:~:text=Put%20simply%2C%20acceptance%20criteria%20specify,client's%20demands%20and%20prevent%20miscommunication.){:target="_blank"} for each story
-- Review your [Definition of Ready](https://www.scruminc.com/definition-of-ready/){:target="_blank"}.
+- Review your [Definition of Ready](https://www.scruminc.com/definition-of-ready/){:target="_blank"}
 - Work in the open. Deliver often. Increment continuously
 
 ### Resources
@@ -82,11 +82,10 @@ Have a design system that establishes your product framework, is based on your p
 - The [US Digital Playbook](https://playbook.cio.gov/#play4){:target="_blank"} and the [GSA Guides](https://tech.gsa.gov/guides/#API+Agile+Design+DevSecOps+Development+Team){:target="_blank"} describe the benefits of adopting an incremental Agile approach to digital project development
 
 ### Tooling to Consider
-Broad examples include:
 - Kanban board
 - Task assignment system (Jira)
-- Documentation Hub (Confluence)
-- Code Repository (GitHub)
+- Documentation hub (Confluence)
+- Code repository (GitHub)
 - Training schedule
 - Scrum templates
 - Scrum ceremonies

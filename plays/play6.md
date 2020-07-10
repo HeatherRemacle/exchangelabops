@@ -37,9 +37,9 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 -	Who is providing the Business Analyst (BA) services? Are the IMB BA’s involved?
 
 ### Step 1: Incorporate Feedback
--	Conduct product reusability analysis at least twice a year
+-	Conduct a product reusability analysis at least twice a year
     -	Defer to a product usability expert to run workshops
-    -	Aim for incremental deliverables, identify the features users want (unnecessary features result in partially done work)
+    -	Aim for incremental deliverables; identify the features users want (unnecessary features result in partially done work)
     -	Review and obtain metrics that can provide product adoption and usage insights 
 -	Prioritize feedback
 
@@ -47,14 +47,14 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 -	Reaffirm direction with stakeholders
 -	Review the product roadmap with the team and your stakeholders
 -	Regularly groom the Kanban board 
--	Review user story catalogue, deprecate stories that are no longer valued
+-	Review the user story catalogue and deprecate stories that are no longer valued
 -	Strive for better team and stakeholder collaboration
 
 ### Step 3: Conduct Process Improvement Reviews
 -	Prioritize the type of improvement:
-    -	**Deliberate Improvement:** make features better that add user value. Focus on small incremental improvements that can be quickly deployed
-    -	**Frequency Improvement:** identify features that would benefit from increased usage. Communicate with the team. Incorporate into the product release plan
-    -	**Adoption Improvement:** A feature that is core to the product that isn’t being used; identify opportunities to recast the feature. This may introduce risk; plan potential solutions
+    -	**Deliberate Improvement:** Make features better that add user value. Focus on small incremental improvements that can be quickly deployed
+    -	**Frequency Improvement:** Identify features that would benefit from increased usage. Communicate with the team. Incorporate into the product release plan
+    -	**Adoption Improvement:** Identify opportunities to recast features that are core to the product but aren't being used. This may introduce risk; plan potential solutions
 -	Identify non-valued work (defects, partially done work, unnecessary features, sources of delays) and devise strategies to address it
 -	Seek to improve the sizing of tasks
 -	Maintain an "improvement" backlog
@@ -67,11 +67,11 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
     -	Maintain a defect backlog
 
 ### Step 5: Ongoing Code/Build/Deploy/Release Management
--	Commit to feature driven development where team pulls tasks from the Kanban board
+-	Commit to feature driven development where the team pulls tasks from the Kanban board
 -	Review your tooling
     - Are there updates or dependencies that impact the supportability of your product? 
 -	When was the documentation last reviewed?
--	Utilize application performance monitoring tools to conduct application flow analysis. This will help to show what features users are or are not using
+-	Utilize application performance monitoring tools to conduct application flow analysis. This will help to show which features are actually being used
 -	Conduct code reviews to identify partially done work or features that have not been deployed
 -	Review image build times
     - Can they be reduced?
@@ -87,7 +87,7 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 -	Give staff the time to take webinars and other online training
 
 ### Step 7: Communicate Your Success
--	Measure, celebrate, and communicate the team’s workflow throughout the organization through announcements such as newsletters, "lessons learned" webinars, presentations, and author blogs
+-	Measure, celebrate, and communicate the team’s workflow throughout the organization with announcements such as newsletters, "lessons learned" webinars, presentations, and author blogs
 
 ### Guidance to Consider
 -	Does your team composition (IS21, IS24, IS27s) still reflect the product's needs?

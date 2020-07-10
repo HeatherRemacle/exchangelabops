@@ -17,8 +17,8 @@ subnav:
     href: '#step-4-set-up-your-technical-infrastructure'
   - text: Step 5. Identify Your Development Workflow Processes
     href: '#step-5-identify-your-development-workflow-processes'
-  - text: Step 6. Set Up, Document & Implement Your Tooling (Code Repository, Pipelines, Automation)
-    href: '#step-6-set-up-document---implement-your-tooling-code-repository-pipelines-automation'
+  - text: Step 6. Set Up, Document and Implement Your Tooling (Code Repository, Pipelines, Automation)
+    href: '#step-6-set-up-document-and-implement-your-tooling-code-repository-pipelines-automation'
   - text: Step 7. Educate Your Business Stakeholders
     href: '#step-7-educate-your-business-stakeholders'
   - text: Step 8. Now Sprint...
@@ -43,7 +43,7 @@ Activities undertaken by the entire team to define a fulsome “Sprint 0”  pre
 
 Adopt code frameworks and libraries that accelerate your development to create working Minimal Viable Product (MVP) solutions that adhere to security and privacy requirements.
 
-Define your architecturally significant requirements (ASR) based on product abilities. Implement architecture as late as possible so as to be able to pivot when required.
+Define your architecturally significant requirements (ASR) based on product abilities. Implement architecture as late as possible so you can pivot when required.
 
 ### Step 1: Develop a Release Plan 
 -	Refine the (initial) backlog
@@ -52,15 +52,15 @@ Define your architecturally significant requirements (ASR) based on product abil
 -	Identify dependencies
 
 ### Step 2: Develop Your Conceptual Architecture
-- Document the overarching view of the system (placement of technical functions (e.g. use ArchiMate to visualize relationships)
+- Document the overarching view of the system and placement of technical functions (e.g. use ArchiMate to visualize relationships)
 - Whiteboard relationships between components and the data model
 
 ### Step 3: Adhere to Modern Application Principles
 -	Adopt the [12 factor](https://en.wikipedia.org/wiki/Twelve-Factor_App_methodology){:target="_blank"} approach
--	Understand cloud native architecture
+-	Understand cloud-native architecture
 
 ### Step 4: Set up Your Technical Infrastructure
-- Communication channels for support
+- Establish communication channels for support
     - MS-Teams, RocketChat, Slack
 - Create a documentation repository
 - Provision your environments
@@ -68,7 +68,7 @@ Define your architecturally significant requirements (ASR) based on product abil
 
 ### Step 5: Identify Your Development Workflow Processes
 
-### Step 6: Set Up, Document & Implement Your Tooling (Code Repository, Pipelines, Automation)
+### Step 6: Set Up, Document, and Implement Your Tooling (Code Repository, Pipelines, Automation)
 Verify your  processes for successful:
 - Integration
 - Build and Deployment
@@ -90,18 +90,18 @@ Your project has a finite set of resources and funding; defining and managing th
 - Dealing with this in advance will save effort and time in the future
 
 ### Step 11: Deploy and Promote Through Your Environments
-- Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done){:target="_blank"} (DoD) prior to deployment
+- The Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done){:target="_blank"} (DoD) prior to deployment
 
 ### Step 12: Demonstrate Your Products Frequently and Obtain User Feedback  
-- Sprint demos (feature delivery)
+- Sprint demo (feature delivery)
 - Stakeholder demo (batch delivery)
 
 ### Step 13: Monitor and Measure the Development Process
-- Supports Product Owner and supports the Team – shields members from scope/feature creep
+- This supports the Product Owner and the Team; it also shields members from scope/feature creep
 - [Monitor your system for reliability](https://aspetraining.com/resources/blog/system-monitoring-age-of-site-reliability-engineering){:target="_blank"}
 
 ### Definition of an MVP
-A Minimal Viable Product (MVP) is one that delivers core functionality as expected by a business unit's target audience. The core functionality is a set of features that is delivered at the initial product  launch.  Once launched the product follows a documented lifecycle for user feedback and product support.
+A Minimal Viable Product (MVP) is one that delivers core functionality as expected by a business unit's target audience. The core functionality is a set of features that is delivered at the initial product  launch. Once launched, the product follows a documented lifecycle for user feedback and product support.
 
 An MVP is no longer considered to be an experiment, but a product that has value to its users.
 

@@ -7,8 +7,8 @@ sidenav: docs
 subnav: 
   - text: Transition to Operations
     href: '#transition-to-operations'
-  - text: Step 1. Review Your Operations MOU 
-    href: '#step-1-review-your-operations-memorandum-of-understanding-see-play-2'
+  - text: Step 1. Review Your MOU 
+    href: '#step-1-review-your-memorandum-of-understanding-see-play-2'
   - text: Step 2. Complete Knowledge Transfer
     href: '#step-2-complete-knowledge-transfer'
   - text: Step 3. Validate Operations Processes
@@ -17,9 +17,9 @@ subnav:
     href: '#guidance-to-consider'
 ---
 ## Transition to Operations
-Following successful initial product development and deployment, a new modern application (digital product) is launched. At this stage a decision is made concerning the products lifecycle. Ensure that the Operations team has been involved in the previous plays on a regular basis from team formation to product delivery so that they are aware and have been able to provide input into your delivery pipeline processes. Following formal knowledge transfer from the development team the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) requires enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in [Play 6](/CITZ-IMB-playbook/play6). If, however, the product meets the business needs, it will proceed through an operations cycle consisting of product governance and change management.
+Following successful initial product development and deployment, a new modern application (digital product) is launched. At this stage a decision is made concerning the products lifecycle. Ensure that the Operations team has been involved in the previous plays on a regular basis from team formation to product delivery so that they are aware of, and have been able to provide input into, your delivery pipeline processes. Following formal knowledge transfer from the development team, the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) requires enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in [Play 6](/CITZ-IMB-playbook/play6). If, however, the product meets the business needs, it will proceed through an operations cycle consisting of product governance and change management.
 
-### Step 1: Review your operations Memorandum of Understanding (See [Play 2](/CITZ-IMB-playbook/play2))
+### Step 1: Review Your Memorandum of Understanding (See [Play 2](/CITZ-IMB-playbook/play2))
 - It takes time to resource additional skills (often as long as 6 months), so your transition plan should reflect this
 
 ### Step 2: Complete Knowledge Transfer
@@ -37,10 +37,10 @@ Following successful initial product development and deployment, a new modern ap
 - Escalation procedures
 
 ### Guidance to Consider
--	The project operations (Ops) team member communicates with colleagues of the Ministry DevOps & technical support team to educate other coworkers about the product’s shared documentation, tooling and outcomes from design review meetings
--	The project’s source code repository (ex: GitHub) has a readme file with relevant procedures and links required to recreate the solution installation
+-	The project operations (Ops) team member communicates with colleagues of the Ministry DevOps and technical support team to educate other coworkers about the product’s shared documentation, tooling and outcomes from design review meetings
+-	The project’s source code repository (ex: GitHub) has a README file with relevant procedures and links required to recreate the solution installation
 -	Make documentation easily locatable (Confluence, SharePoint, GitHub)
--	Create a product “runbook”
+-	Create a product "runbook"
 -	Integrate your solution into the Ministry logging and monitoring environment 
 - [Google’s monitoring & logging patterns](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns){:target="_blank"}
 - [Triage best practices](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef){:target="_blank"}

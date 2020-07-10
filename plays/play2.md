@@ -21,13 +21,13 @@ subnav:
     href: '#guidance-to-consider'
 ---              
 ## Successfully Navigate the Project Intake Process
-To improve the delivery of successful IM/IT services that meet the Ministry goals and objectives, business units work with experienced senior business consultants. Following the Ministry IM/IT Governance process ensures that project proposals, which have been championed by a Ministry business unit, will obtain funding and approvals for strategically important initiatives.
+To improve the delivery of successful IM/IT services that meet Ministry goals and objectives, business units work with experienced senior business consultants. Following the Ministry IM/IT Governance process ensures that project proposals, which have been championed by a Ministry business unit, will obtain funding and approvals for strategically important initiatives.
 
 ### Step 1: Obtain Business Unit Endorsement
 - Follow your business unit's project authorization process
     - Create a Concept Case / Business Case
     - Receive approval to proceed
-    - The business unit's analyst works closely with the Project Secretariat Senior Business Consultant (SBC) and holds regular biweekly meetings to surface initiatives and concerns
+    - The business unit's analyst works closely with the Project Secretariat Senior Business Consultant (SBC) and holds biweekly meetings to surface initiatives and concerns
     - Register proposal in the Ministry project tracking system
 - Develop your operating model
   - What does it mean to be "done"?
@@ -67,9 +67,8 @@ To improve the delivery of successful IM/IT services that meet the Ministry goal
 The CITZ IMB maintains a collection of templates and information in their [Project Management Resource Centre](https://intranet.gov.bc.ca/thehub/tools-and-resources/project-management-resource-centre){:target="_blank"}. Gaurav Mehra provides insight into common challenges encountered in Agile intake processes: [Part 1](https://www.linkedin.com/pulse/Agile-project-intake-challenges-learnings-best-practices-gaurav-mehra?articleId=6418711210946101248){:target="_blank"} & [Part 2](https://www.linkedin.com/pulse/introduction-Agile-project-intake-challenges-learnings-gaurav-mehra){:target="_blank"}.
 
 ### Guidance to Consider
-Broad examples include:
 - Understand the [Work Intake Process](https://acuityppm.com/ppm-101-successful-work-intake-process/){:target="_blank"}
-- [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board){:target="_blank"} should be aware of your project and may ask you to provide a presentation
+- The [Architecture Review Board](https://cio.ubc.ca/it-governance/governance-body-responsibilities/architecture-review-board){:target="_blank"} should be aware of your project and may ask you to provide a presentation
 - Understand why [Governance](http://www.optimumonline.ca/pdf/29-2/governance.pdf){:target="_blank"} is important
 - Adhere to Government IM/IT Principles and Standards
 

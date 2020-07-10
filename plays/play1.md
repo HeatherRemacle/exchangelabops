@@ -55,7 +55,7 @@ We must begin digital projects by developing solutions for the people who will u
     - Describe the user’s journey and interaction with the solution
     - Develop wireframes
     - Solicit feedback.  Document attributes (goals, needs, behaviours, preferences). 
-- Evolve Scenarios and User Stories that speak to a set of defined Personas
+- Evolve scenarios and user stories that speak to a set of defined personas
     - Invite stakeholders to review and prioritize
     - Avoid over-solutioning how to accomplish the idea
     - Do your research. Are your assumptions complete?
@@ -71,9 +71,9 @@ We must begin digital projects by developing solutions for the people who will u
 
 [Interaction-design.org](https://www.interaction-design.org/literature/article/14-barriers-to-ideation-and-how-to-overcome-them){:target="_blank"} identifies strategies towards reducing potential barriers of innovation.
 
-The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service){:target="_blank"} provides resources, methods, and templates to guide new service development. [Ideo.org](https://www.designkit.org/methods){:target="_blank"} and [Sourcemaking.com](https://sourcemaking.com/design_patterns){:target="_blank"} both provide additional toolkits and sources of useful information 
+The [BC Government Service Design Playbook](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/service-design-in-the-bc-public-service){:target="_blank"} provides resources, methods, and templates to guide new service development. [Ideo.org](https://www.designkit.org/methods){:target="_blank"} and [Sourcemaking.com](https://sourcemaking.com/design_patterns){:target="_blank"} both provide additional toolkits and sources of useful information.
 
-The Canadian and US federal governments detail a series of digital plays in their playbooks. In The [Government of Canada Digital Playbook "design with users"](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html){:target="_blank"} section and the [US Digital Service](https://playbook.cio.gov/){:target="_blank"} plays 1,2, and 3 provide useful questions to ask during ideation.
+The Canadian and US federal governments detail a series of digital plays in their playbooks. Both the Government of Canada Digital Playbook ["design with users"](https://canada-ca.github.io/digital-playbook-guide-numerique/en/1-design-with-users.html){:target="_blank"} section, and plays 1, 2, and 3 from the [US Digital Service](https://playbook.cio.gov/){:target="_blank"} provide useful questions to ask during ideation.
 
 ### Guidance to Consider
 - Research

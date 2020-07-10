@@ -23,16 +23,16 @@ subnav:
 Modernization has been identified as a Ministry goal. To achieve this, business units are embarking on  difficult change initiatives that are tied to culture shifts within their organizations. It won’t happen overnight. Readiness to adopt new systems and approaches requires a plan. A key element of the plan is based on having the capabilities and capacity to deliver solutions that end-users value. The [BC DevExchange](https://bcdevexchange.org/){:target="_blank"} is an incubator for the promotion of  innovation.
 
 ### User Story:
-As a member of the business unit executive, I need to have a knowledgeable team capable of delivering a digitally enabled product that meets the needs of our discerning users.
+As a member of the business unit executive, I need to have a knowledgeable team that is capable of delivering a digitally enabled product that meets the needs of our discerning users.
 
 ### Context:
 Taking a solution that is nearing its end of life, identifying business scenarios (through client engagement) pinpoints the need for teams that can propose, design, and deliver solutions that will modernize the business unit’s product portfolio for the digital government era.
 
 ### Scenario:
-Develop organization capabilities that allow teams to solve difficult business problems. Co-locate in the lab environment where teams can reside (physically or virtually). Get exposure to resident experts who have experience and knowledge in delivering solutions, based on agile methodologies, utilizing open source software on modern, cloud-ready platforms.
+Develop organization capabilities that allow teams to solve difficult business problems. Co-locate in the lab environment where teams can reside (physically or virtually). Get exposure to resident experts who have experience and knowledge in delivering solutions, based on Agile methodologies, utilizing open source software on modern, cloud-ready platforms.
 
 ### Solution:
--	Obtain executive sponsorship and commitment to form a dedicated team to [learn](https://bcdevexchange.org/learning){:target="_blank"}, experiment and create a viable solution in the BC Dev Exchange lab environment capable of being transitioned to and  supported by the IMB
+-	Obtain executive sponsorship and commitment to form a dedicated team to [learn](https://bcdevexchange.org/learning){:target="_blank"}, experiment, and create a viable solution in the BC Dev Exchange lab environment capable of being transitioned to, and supported by, the IMB
 -	Start the conversation with the [IMB Strategic planning team](/CITZ-IMB-playbook/imb-patterns#ministry-imb-imit-strategic-planning-pattern)
 
 <br>
@@ -52,7 +52,7 @@ Business intelligence tools are a central organizational capability used to anal
 
 ### Scenarios:
 -	Provide regular financial reports, drawing on multiple data sources
--	Report real time internet-of-things enabled instrumented data sources
+-	Report real-time internet-of-things enabled instrumented data sources
 -	Provide predictive views of consumption reports, based on field data
 
 ### Solution:  
@@ -74,7 +74,7 @@ Digital government requires on-demand, reliable delivery of citizen-centric serv
 As a BC Government digital product owner, I need a platform that allows me to deliver a secure e-Permitting (as one example) solution that involves stakeholders from a diverse group of Ministries.
 
 ### Context:
-Modern enterprise resource platforms, such as MS-Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating complex workflows to solve complex citizen-focused solutions.
+Modern enterprise resource platforms, such as MS Dynamics, offer a diverse suite of products that allow government service providers to obtain consistent integrated views of their business functions by using a common database. Custom applications can be built on the platform, integrating complex workflows to solve complicated citizen-focused solutions.
 
 ### Scenarios:
 -	Workforce Management Systems
@@ -96,22 +96,22 @@ IMB can work with project teams to review requirements, participate on technical
 
 ## Microsoft SharePoint Adoption Pattern
 ### The Need:
-Collaboration is key to team success. Working in the open is a digital principle that requires on-demand access to information. Projects are mandated to follow core policy and OCIO records management. Files stored on network drives or in email folders are difficult to locate. A purpose built, secure (IDIR/BCeID supported) document repository enforces structure and file findability.  
+Collaboration is key to team success. Working in the open is a digital principle that requires on-demand access to information. Projects are mandated to follow core policy and OCIO records management. Files stored on network drives or in email folders are difficult to locate. A purpose built, secure (IDIR/BCEID supported) document repository enforces structure and file findability.  
 
 ### User Story:
 As a member of the business unit working on a new initiative, I need to have a secure document storage site that my team and our partners can access over the web so that we can collaborate on documents for our project.
 
 ### Context:
-Teams delivering a time boxed initiative create office documents including spreadsheets, presentations, word, and PDF documents. Being able to organize the document structure allows for efficient team collaboration. 
+Teams delivering a time boxed initiative create office documents including spreadsheets, presentations, MS Word files, and PDF documents. Being able to organize the document structure allows for efficient team collaboration. 
 
 ### Scenario:
-Your initiative requires a central repository of project related documents, lists and team contacts. Files should only be viewable to those who have been granted access to specific folders. In order to ensure that changes can be rolled back, a versioning feature is required. The platform should include an all-of-site search capability. The site will have a diverse set of government users but may also allow access to external authenticated users.
+Your initiative requires a central repository of project related documents, lists, and team contacts. Files should only be viewable to those who have been granted access to specific folders. In order to ensure that changes can be rolled back, a versioning feature is required. The platform should include an all-of-site search capability. The site will have a diverse set of government users but may also allow access to external authenticated users.
 
 ### Solution:
-Before deciding on a completely self-serve approach to team based document management engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration and development. SharePoint is a flexible environment that includes a team site collaboration template which supports IDIR and BCEID user accounts.
+Before deciding on a completely self-serve approach to team based document management, engage the IMB SharePoint consulting services team who will examine your requirements and guide site design, configuration, and development. SharePoint is a flexible environment that includes a team site collaboration template which supports IDIR and BCEID user accounts.
 -	SharePoint projects should be requested through the [IMB Project Submission form](https://citz.sp.gov.bc.ca/sites/CSD/IMB/PBS/_layouts/15/WopiFrame.aspx?sourcedoc=%7bBF193C7D-E566-494C-A3CD-0795935672CF%7d&file=Project%20submission%20form_updated2018.xlsx&action=default){:target="_blank"}
 -	Operational services are requested through [CITZ SharePoint Support](mailto:citz_sp_support@gov.bc.ca)
--	For additional information on the SharePoint service offering visit the [IMB Hub](https://intranet.gov.bc.ca/thehub/tools-and-resources/imb-service-catalogue/application-management-services/sharepoint){:target="_blank"}
+-	For additional information on the SharePoint service offering, visit the [IMB Hub](https://intranet.gov.bc.ca/thehub/tools-and-resources/imb-service-catalogue/application-management-services/sharepoint){:target="_blank"}
 
 ### Additional information:
 - [IMB Hub SharePoint resource](https://intranet.gov.bc.ca/thehub/tools-and-resources/information-security-privacy-records-management/info-records-management/sharepoint){:target="_blank"}
@@ -127,7 +127,7 @@ Successful application development teams require on-demand, consistent environme
 As a product owner, I need to be assured that my full stack development team has access to a supported platform that offers an automated code delivery environment without having to worry about the infrastructure, so that my team can sustain a high frequency of feature delivery.
 
 ### Context:
-As teams design and architect new IT based systems that deliver business value, they are looking to adopt flexible technologies without the inherent lock-in that has come with selecting platforms in the past. Application containers are lightweight, secure and scalable. Container Based Applications (CBA) are portable across a number of on-premise (OCIO-ES) and vendor clouds.
+As teams design and architect new IT-based systems that deliver business value, they are looking to adopt flexible technologies without the inherent lock-in that has come with selecting platforms in the past. Application containers are lightweight, secure, and scalable. Container Based Applications (CBA) are portable across a number of on-premise (OCIO-ES) and vendor clouds.
 
 ### Scenarios:
 -	New or existing web based solutions that can be designed or refactored to run on the OpenShift platform
@@ -149,7 +149,7 @@ As teams design and architect new IT based systems that deliver business value, 
 ## Web Application Development Pattern
 <span style="color: green">\*under development\*</span>
 
-Describes a set of steps to allow your team to start a journey when developing a progressive/ responsive web application.
+Describes a set of steps to allow your team to start a journey when developing a progressive/responsive web application.
 
 This pattern consists of:
 
