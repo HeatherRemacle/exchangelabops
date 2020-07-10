@@ -11,10 +11,10 @@ subnav:
     href: '#how-to-create-an-issue'
   - text: Guidelines for Creating Issues
     href: '#guidelines-for-creating-issues'
+  - text: Playbook Maintenance
+    href: '#playbook-maintenance'
 ---
 This site welcomes contributions by playbook readers! On this page you will find the information required to make your submission, which will be tracked and vetted by the playbook product owner who maintains the playbook content.
-
-If you are part of the playbook maintenance team, please consult the [maintenance and development guide](/CITZ-IMB-playbook/maintenanceanddevelopment).
 
 ## GitHub Issues
 The playbook uses GitHub issues to keep track of user suggestions, bugs, enhancements, and other requests.
@@ -32,6 +32,9 @@ To help our developers resolve your issue, we suggest the following:
 - If there is a typo, please include the selection of text that should be changed, along with the text to replace it.
 - If the issue is regarding some visual aspect of the site, please include a screenshot highlighting what you would like changed.
 - In general, please try to include as much information as possible.
+
+## Playbook Maintenance
+The site structure and theme are described in the [maintenance and development guide](/CITZ-IMB-playbook/maintenanceanddevelopment).
 
 <br>
 <br>

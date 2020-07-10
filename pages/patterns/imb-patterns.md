@@ -14,7 +14,7 @@ subnav:
     - text: Ministry IMB Technical Services Support Pattern
       href: '#ministry-imb-technical-services-support-pattern'
 ---
-### Ministry IMB IM/IT Strategic Planning Pattern
+## Ministry IMB IM/IT Strategic Planning Pattern
 This pattern describes how the IMB will work with your division/business unit for IM/IT initiatives and enquiries.
 
 - The IMB has dedicated Senior Business Consultants for every Division, and we want to help you through the challenges and successes in order to meet your goals/objectives
@@ -24,9 +24,10 @@ This pattern describes how the IMB will work with your division/business unit fo
 - An agreed upon response to the enquiry is reached and your Senior Business Consultant will follow up with you to guide you through the next steps of the journey
 - Our goal is to establish a clear set of objectives and actions that will determine the best outcome of the review
 
+<br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### Ministry IMB Service Desk Pattern
+## Ministry IMB Service Desk Pattern
 This pattern describes how to contact the IMB Service Desk and the areas of assistance available to the Ministry.
 
 Ministry staff and clients can contact the service desk via phone, [email](mailto:CITZIMBSD@gov.bc.ca) or the [OCIO My Service Centre](https://ociomysc.service-now.com/sp) to request a service or a product.
@@ -46,9 +47,10 @@ The Service Desk will assist clients by:
 
 The CITZ IMB Service Desk Manager can be reached by email [here](mailto:gladys.gatobu@gov.bc.ca).
 
+<br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### Ministry STRA & PIA Pattern
+## Ministry STRA & PIA Pattern
 This pattern describes a set of steps to allow your team to start your STRA and PIA journey.
 - The project team contacts the [Information Privacy and Security Team](mailto:CITZ Security and Privacy CITZ:EX %3cSecurityandPrivacy.Citz@gov.bc.ca%3e) (IPS) to seek advice and initiate the assessment process
 - The IPS collects information from the project team to provide an initial recommendation regarding assessment approach and scope
@@ -56,9 +58,10 @@ This pattern describes a set of steps to allow your team to start your STRA and 
 - The project team supports the process by providing all relevant information and documentation to IPS in order to conduct the assessment
 - The IPS liaises with core government information privacy and security branches (i.e., the Privacy, Compliance and Training Branch (PCT) and the Information Security Branch (ISB)) throughout the process, including during the assessment ‘sign-off’ phase
 
+<br>
 <hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
-### Ministry IMB Technical Services Support Pattern
+## Ministry IMB Technical Services Support Pattern
 This pattern describes a set of steps to allow your team to engage the IMB Infrastructure support team and their service offerings.
 
 IMB Technical Services works with the different business units to manage their technical infrastructure.

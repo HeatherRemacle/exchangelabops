@@ -51,6 +51,9 @@ We believe in testing early and often. We will do end-to-end testing of processe
 ### Principle 7: Proactive Approach to Security and Privacy 
 We are committed to supporting our clients to adopt a proactive approach to ensuring strong information security and privacy protection practices. By applying a privacy and security by design’ philosophy, we help our clients ensure that privacy and security measures are considered at project initiation and built in to the solution, rather than having to be retrofitted afterwards.
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ## Application Principles <span style="color:red">\*proposed\*</span>
 
 ### Principle 1: Do No Harm
@@ -79,6 +82,9 @@ Select the best environment with the right tooling. Endorse a good set of Archit
 
 ### Principle 9: Develop for Networks
 Application communication happens over the network, not in memory. It supports distributed development teams, increases application resiliency, and simplifies product deployment. 
+
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Architecture Principles <span style="color:red">\*proposed\*</span>
 
@@ -122,6 +128,9 @@ DevOps is founded on product delivery.  Agile is founded on the project's succes
 - Infrastructure as code and 
 - Iterative development approach to support successful projects.
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ## Project Governance Principles <span style="color:red">\*proposed\*</span>
 These principles apply to the **ministry governance process for the planning, intake and approval of IM/IT projects**.
 
@@ -143,6 +152,9 @@ These principles apply to the **ministry governance process for the planning, in
 
 ### Principle 7: Apply a Common Set of Selection Criteria to All Proposed IM/IT Projects
 
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+
 ## Technical Principles <span style="color:red">\*proposed\*</span>
 
 ### Principle 1: Prioritize Principles 
@@ -155,6 +167,9 @@ Any decision to ignore or reject core principles, so as to satisfy project goals
     - If a standard is seen as an impediment, then the natural pattern is to seek an exemption. Ensuring stakeholders are aware early on in the project lifecycle helps to develop adoption strategies
 - Involve the architects from start of your project
     - Architects are central to product viability discussions. Engaging them early will mitigate waste in the product development flow
+
+<br>
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
 
 ## Infrastructure Principles <span style="color:red">\*proposed\*</span>
 
