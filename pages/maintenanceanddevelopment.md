@@ -22,7 +22,7 @@ subnav:
 We developed this playbook website with the [US Web Design System](https://designsystem.digital.gov/whats-new/updates/2019/04/08/introducing-uswds-2-0/){:target="_blank"} in mind. The site is a clone of the [18F US Web Design Jekyll theme](https://github.com/18F/uswds-jekyll){:target="_blank"}  that we modified to fit BC Government branding. The content is hosted on the [bcgov](https://github.com/bcgov){:target="_blank"} collection of repositories.
 
 Some of the changes we made include:
-- Replacing all instances of ‘uswds’ to ‘bcwds’
+- Replacing all instances of "uswds" to "bcwds"
 - Inclusion of the BC Government masthead
 - Alteration of the header and footer elements
 - Application of the [BC Sans font](https://developer.gov.bc.ca/Typography){:target="_blank"}
