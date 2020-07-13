@@ -45,7 +45,7 @@ Ensure that annual funding plans are in place to account for any and all changes
 -	Seek reviews from the finance team
 
 ### Step 3: Maintain Vendor/Partner Relationships
--	Review licencing dependencies
+-	Review licensing dependencies
 -	Review support arrangements
 -	Understand possible vendor roadmap impacts
 
