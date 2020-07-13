@@ -37,7 +37,7 @@ Users can access the [IMB Hub](https://intranet.gov.bc.ca/thehub/ocio/ocio-enter
 The Service Desk will assist clients by:
 - Reviewing and authenticating requests or consulting with requesters where necessary, and entering requests into the ticketing system for tracking
 - Providing technical support for meeting rooms at 4000 Seymour, including visual and audio equipment
-- Creating and maintaining a knowledge base of IT order and problem management processes and work-arounds
+- Creating and maintaining a knowledge base of IT order and problem management processes and workarounds
 - Identifying, defining, and analysing recurring issues, potential problems, and opportunities for business or system improvements
 - Advising clients on best practices for the use of IT services and technology and ensuring that clients can utilize IT resources effectively
 - Managing the loaning of IT equipment such as laptops or projectors for use in boardrooms
