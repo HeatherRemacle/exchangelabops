@@ -4,20 +4,17 @@ CITZ-IMB Modern Application Playbook
 
 ## Introduction
 
-OCIO-ES-IMB is the Ministry of Citizen’s Services Information Management Branch.
-
-OCIO-ES-IMB is responsible for:
+OCIO-ES-IMB is the Ministry of Citizen’s Services Information Management Branch, its mandate includes:
 
 - Engaging with Ministry Business Units to support their IM/IT project initiatives
 - Providing IM/IT Application Management Services including support and operational maintenance for over 80 applications on behalf of CITZ Ministry Business Units 
 - Providing STRA and PIA services for the Ministry
-- Oversight of Ministry IM/IT Project Governance process
-- Provides Infrastructure Management Services for Ministry clients
-- Operates the IMB Support Desk
-- Reports to the Ministry CIO (MCIO)
+- Providing Infrastructure Management Services for Ministry clients 
+- Operating the IMB Support Desk
+- Reporting to the Ministry CIO (MCIO)
 
 
-To support IMBs overall strategic IM/IT initiatives a Modern Application Playbook is required that will aid in Ministry Business Units in their new application development journeys. To support the playbook a 12-Factor compliant  Capstone2020 Progressive Web Application  is being developed to demonstrate the Modern Application Playbook.
+To support IMBs overall strategic IM/IT initiatives a Modern Application Playbook is required that will aid in Ministry Business Units in their new application development journeys. To support the playbook a 12-Factor compliant Capstone2020 Progressive Web Application is being developed to demonstrate the Modern Application Playbook.
 
 ## Problem Statement
 
@@ -36,24 +33,24 @@ Objectives include:
 - Provide the reader with a collection of references to tested methodologies, tools and best practices.
 - Guide modern application development 
 - Demonstrate creation of a system that supports the BC Governments Digital Framework.
-- Provide ‘plays that describe valuable patterns that project teams should consider as part of their digital product management lifecycle.
+- Provide "plays" that describe valuable patterns that project teams should consider as part of their digital product management lifecycle.
 
 ## The Plays:
 1. Ideate solutions that meet the needs of business units
 2.	Successfully navigate the Ministry project intake process
-3.	Getting started to develop your Solution
-4.	Develop your Product
-5.	Transition to Ops
-6.	Continuous product Improvement
+3.	Building your Team
+4.	Ready, Refine, Sprint
+5.	Transition to Operations
+6.	Continuous Product Improvement
 7.	Sustainment Lifecycle
 
 ## Project Status
 
-> **IN DEVELOPMENT**
+> ALPHA
 
 ## Development
 
-   GitHub 
+   GitHub | Jekyll | Ruby
 
 > We are actively adding new features and enhancements.
 
