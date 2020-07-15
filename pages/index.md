@@ -94,7 +94,7 @@ A modern application is one that exhibits five important characteristics:
 4. It is built on a modern stack that supports the creation of an application with an HTTP interface and an API which can consume and emit JSON data
 5. It conforms to the relevant elements of a [12-factor](https://12factor.net/){:target="_blank"} application
 
-Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/CITZ-IMB-PLAYBOOK-CHECKLIST.docx){:target="_blank"}.
+Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/Modern-Application-Playbook-Checklist-BETA.docx){:target="_blank"}.
 
 <br/>
 [Back to the Top](#)
