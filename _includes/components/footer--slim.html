@@ -28,13 +28,16 @@
       <nav class="bc-footer-nav{% if footer.contact.contact_links %} bc-width-two-thirds{% endif %}">
         <ul class="bc-unstyled-list">
           {% for _link in footer_links %}
-          <li class="bc-width-one-{{ _size }} bc-footer-primary-content">
-            <a class="bc-footer-primary-link" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
-              {{ _link.text }}
-            </a>
-          </li>
+          <li style="font-size:1.5rem;" class="bc-width-one-{{ _size }} bc-footer-primary-content">
+            <a class="bc-footer-primary-link" target="{% if _link.external %}{{ '_blank' }}{% else %}{{ '_self' }}{% endif %}" href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
+              {{ _link.text }} 
+              {% if forloop.last != true %}
+              <!-- <span style="color:white;"> &nbsp;&nbsp;&nbsp; |</span> -->
+              {% endif %}
+            </a> 
+          </li> 
           {% endfor %}
-        </ul>
+        </ul> 
       </nav>
     {% if footer.contact.contact_links %}
       <address>
@@ -44,7 +47,7 @@
             <div class="bc-footer-primary-content bc-footer-contact_info">
               <p>
                 <a href="{% if _link.external == true %}{{ _link.href }}{% else %}{{ _link.href | relative_url }}{% endif %}">
-                  {{ _link.text }}
+                  {{ _link.text }} 
                 </a>
               </p>
             </div>
@@ -52,7 +55,12 @@
         </div>
       </address>
     {% endif %}
+    <!-- <span style="color:white; text-align:right;"> 
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+      Last updated on 15/07/2020
+    </span> -->
     </div>
+    
   </div>
   {% endif %}
 
@@ -83,8 +91,8 @@
       </div>
       {% endif %}
     </div>
+    
   </div>
   {% endif %}
-
 </footer>
 {% endif %}

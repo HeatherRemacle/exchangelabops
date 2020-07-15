@@ -2,7 +2,8 @@
   @include padding($site-margins null);
 
   @include media($medium-screen) {
-    @include padding(6rem null);
+    // Note: jump nav padding
+    @include padding(4rem null);
   }
 }
 

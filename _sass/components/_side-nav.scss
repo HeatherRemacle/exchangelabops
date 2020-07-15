@@ -48,13 +48,13 @@
     // Note: This fixed the jump nav under banner issue, but this breaks the footer links
     position: -webkit-relative;
     position: sticky; 
-    top: 0px;
+    top: 0rem;
     
     .sidenav {
       display: block;
       float: left;
       padding-right: 1rem;
-      // Note: for sticky side nav
+      // Note: for sticky side nav  
       position: -webkit-sticky;
       position: sticky; 
       top: 100px;

@@ -14,35 +14,6 @@
 primary:
   - text: Home
     href: /
-  - text: Playbook
-    href: /play1
-  - text: CITZ Home
-    href: https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/ministries/citizens-services
-    external: true
-  - text: IMB Hub
-    href: https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb
-    external: true
-  - text: Provide Feedback
-    href: /feedback
-
-secondary:
-  - text: GitHub Source
-    href: https://github.com/bcgov/CITZ-IMB-playbook
-    external: true
-  - text: Theme
-    href: /theme/
-
-docs:
-  - text: Modern Application Playbook
-    href: /
-  - text: Principles
-    href: /principles
-  - text: Patterns
-    href: /patterns
-  - text: Glossary
-    href: /glossary
-      
-plays:
   - text: Play 1
     href: /play1
   - text: Play 2
@@ -55,6 +26,72 @@ plays:
     href: /play5
   - text: Play 6
     href: /play6
+  - text: Play 7
+    href: /play7
+
+secondary:
+  - text: Home
+    href: /
+    external: false
+  - text: GitHub Source
+    href: https://github.com/bcgov/CITZ-IMB-playbook
+    external: true
+  - text: Provide Feedback
+    href: /feedback
+    external: false
+  - text: PDF Version
+    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
+    external: true
+
+docs:
+  - text: Modern Application Playbook
+    href: /
+  - text: Play 1
+    href: /play1
+  - text: Play 2
+    href: /play2
+  - text: Play 3
+    href: /play3
+  - text: Play 4
+    href: /play4
+  - text: Play 5
+    href: /play5
+  - text: Play 6
+    href: /play6
+  - text: Play 7
+    href: /play7
+  - text: Principles
+    href: /principles
+  - text: Patterns
+    href: /patterns
+  - text: Glossary
+    href: /glossary
+      
+play1:
+  - text: Play 1
+    href: /play1
+
+play2:
+  - text: Play 2
+    href: /play2
+
+play3:
+  - text: Play 3
+    href: /play3
+
+play4:
+  - text: Play 4
+    href: /play4
+
+play5:
+  - text: Play 5
+    href: /play5
+
+play6:
+  - text: Play 6
+    href: /play6
+
+play7:
   - text: Play 7
     href: /play7
 
@@ -78,30 +115,17 @@ footer:
     external: true
   - text: Fair Use
     href: /fairuse
+  - text: Updated 15/07/2020
+    href: https://github.com/bcgov/CITZ-IMB-Playbook
+    external: true
 
 patterns:
   - text: Patterns Home
     href: /patterns
-  - text: DexExchange Adoption
-    href: /devexchange-adoption
-  - text: Microsoft PowerBI Adoption
-    href: /microsoft-powerbi-adoption
-  - text: Microsoft Dynamics Adoption
-    href: /microsoft-dynamics-adoption
-  - text: Microsoft SharePoint Adoption
-    href: /microsoft-sharepoint-adoption
-  - text: RHEL OpenShift Adoption Pattern
-    href: /rhel-openshift-adoption
-  - text: Web Application Development Pattern
-    href: /web-application-development
-  - text: Ministry IMB Business Unit Engagement
-    href: /ministry-imb-business-unit-engagement
-  - text: Ministry IMB Service Desk
-    href: /ministry-imb-service-desk
-  - text: Ministry STRA & PIA
-    href: /ministry-stra-&-pia
-  - text: Ministry IMB Technical Services Support Pattern
-    href: /ministry-imb-technical-services-support
+  - text: Platform Adoption Patterns
+    href: /platform-adoption-patterns
+  - text: IMB Patterns
+    href: /imb-patterns
 
 maintenanceanddevelopment:
   - text: Maintenance and Development

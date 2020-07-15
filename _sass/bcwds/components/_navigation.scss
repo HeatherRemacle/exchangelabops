@@ -124,9 +124,11 @@
 // Primary navigation ------------- //
 
 .bc-nav-primary {
+
   @include bc-sidenav-list;
   margin-top: 1.5rem;
   order: 2;
+  
 
   @include media($nav-width) {
     display: inline;
@@ -343,7 +345,6 @@
       display: inline;
       padding-left: 0.5rem;
     }
-
     &:not(:last-child)::after {
       @include media($nav-width) {
         color: $color-gray-lighter;
@@ -351,6 +352,7 @@
         padding-left: 0.5rem;
       }
     }
+    
   }
 
   a,
@@ -559,3 +561,4 @@
     @include unstyled-list;
   }
 }
+
