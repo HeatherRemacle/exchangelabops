@@ -7,7 +7,7 @@ sidenav: docs
 subnav: 
   - text: Ideate Solutions That Meet the Needs of Business
     href: '#ideate-solutions-that-meet-the-needs-of-business'
-  - text: Step 1. Promote Innovation From Within
+  - text: Step 1. Promote Innovation from Within
     href: '#step-1-promote-innovation-from-within'
   - text: Step 2. Engage Your Stakeholders
     href: '#step-2-engage-your-stakeholders'
@@ -22,7 +22,7 @@ subnav:
 ## Ideate Solutions That Meet the Needs of Business
 We must begin digital projects by developing solutions for the people who will use them. Users are often, but not always, employees of the Ministry. Staff who interact with users on a regular basis are an untapped source of information. Creating an environment that promotes participation will strengthen the business unit mandate and contribute to its future success. The ideation process is less about what the product will look like, and more about who it is for, how it works, and why.
 
-### Step 1: Promote Innovation From Within
+### Step 1: Promote Innovation from Within
 - Understand Your Business Mandate
     - Focus on business challenges
     - Invite your staff to contribute ideas
@@ -42,7 +42,7 @@ We must begin digital projects by developing solutions for the people who will u
     - Time box activities. Circulate proposals. Encourage additions
     - Require a short submission that describes objectives and benefits. Estimate effort to develop and implement. Include a risk assessment
 - Visualize
-    - A diagram helps to communicate
+    - A diagram helps to communicate ideas
     - Develop from the end user’s perspective
 - The More the Better
     - Develop as many ideas as possible around a theme
@@ -54,7 +54,7 @@ We must begin digital projects by developing solutions for the people who will u
 - Develop & test prototypes
     - Describe the user’s journey and interaction with the solution
     - Develop wireframes
-    - Solicit feedback.  Document attributes (goals, needs, behaviours, preferences). 
+    - Solicit feedback.  Document attributes (goals, needs, behaviours, preferences)
 - Evolve scenarios and user stories that speak to a set of defined personas
     - Invite stakeholders to review and prioritize
     - Avoid over-solutioning how to accomplish the idea

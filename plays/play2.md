@@ -21,17 +21,17 @@ subnav:
     href: '#guidance-to-consider'
 ---              
 ## Successfully Navigate the Project Intake Process
-To improve the delivery of successful IM/IT services that meet Ministry goals and objectives, business units work with experienced senior business consultants. Following the Ministry IM/IT Governance process ensures that project proposals, which have been championed by a Ministry business unit, will obtain funding and approvals for strategically important initiatives.
+To improve the delivery of successful IM/IT products or services that meet Ministry goals and objectives, business units work with experienced senior business consultants. Following the Ministry IM/IT Governance process ensures that project proposals, which have been championed by a ministry business unit, will obtain funding and approvals for strategically important initiatives.
 
 ### Step 1: Obtain Business Unit Endorsement
 - Follow your business unit's project authorization process
     - Create a Concept Case / Business Case
     - Receive approval to proceed
     - The business unit's analyst works closely with the Project Secretariat Senior Business Consultant (SBC) and holds biweekly meetings to surface initiatives and concerns
-    - Register proposal in the Ministry project tracking system
+    - Register proposal in the ministry project tracking system
 - Develop your operating model
   - What does it mean to be "done"?
-  - Who will maintain and operate the solution?
+  - Who will maintain and operate the product?
   - What is the [sustainment lifecycle](/CITZ-IMB-playbook/play7) for the product?
 
 ### Step 2: Follow the Ministry IM/IT Project Intake Process
@@ -41,14 +41,14 @@ To improve the delivery of successful IM/IT services that meet Ministry goals an
     - Complete a client project survey in order to rank the submission
 - Provide resources to participate at the Architecture Review Board(ARB)
     - The ARB assesses the submission to determine technical fit with Government CIO / Ministry CIO direction
-    - The Project Review Board (PRAB) conducts a project review
+    - The Project Review Approval Board (PRAB) conducts a project review
         - Upon approval to proceed, a project charter will be required
         - Project submission will be made to the OCIO-Digital Investment Office and authorized by the Deputy Minister Committee
 
 ### Step 3: Determine Project Resourcing
 - For an internally managed initiative:
     - The business unit has the skillset and resources to successfully manage and deliver the project
-    - The business unit enters a procurement activity to obtain an IM/IT solution via a Request For Proposal (RFP) process.
+    - The business unit enters a procurement activity to obtain an IM/IT solution via a Request for Proposal (RFP) process
 - For a partnership agreement
     - The business unit enters into an Alliance agreement with the BCDevExchange and OCIO-Digital Products Division (DPDD) to design and develop a solution -*or*-
     - The business unit enters into a “Memorandum of Understanding” (MOU) with the IMB to co-develop and deliver an IM/IT solution

@@ -9,7 +9,7 @@ subnav:
     href: '#building-your-team'
   - text: Step 1. Go Agile; Don’t Repeat the Old Ways
     href: '#step-1-go-agile-dont-repeat-the-old-ways'
-  - text: Step 2. Augment Your Team With Experience
+  - text: Step 2. Augment Your Team with Experience
     href: '#step-2-augment-your-team-with-experience'
   - text: Step 3. Introduction to the Product Vision
     href: '#step-3-introduction-to-the-product-vision'
@@ -21,7 +21,7 @@ subnav:
     href: '#tooling-to-consider'
 ---
 ## Building Your Team
-Project success is never guaranteed. Determine your approach to product development in order to correctly fit your resource needs. Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people either using temporary assignments, contractors, or co-ops. Once you have your team come to a common understanding of the culture you wish to promote, then entrust design and development to the team which you have empowered.
+Project success is never guaranteed. Determine your approach to product development in order to correctly fit your resource needs. Develop your team’s capacity to deliver modern digital products by enhancing your existing skillset through exposure to experienced people either using temporary assignments, contractors, or co-ops. Once you have your team arrive at a common understanding of the culture you wish to promote, then entrust design and development to the team which you have empowered.
 
 Have a design system that establishes your product framework, is based on your priorities, and complies with government standards.
 
@@ -29,7 +29,7 @@ Have a design system that establishes your product framework, is based on your p
 - Select Agile when:
   - The intended solution is large
   - The solution can be a collection of many different projects
-  - Working within a Time & Materials contract
+  - Working within a time and materials contract
   - Requirements are expected to change over time
   - Product Owners are embedded in a team and prepare requirements daily
   - Projects do not have a Project Manager as all team members co-manage the project
@@ -39,7 +39,7 @@ Have a design system that establishes your product framework, is based on your p
   - Requirements are expected to change over time
   - Many Waterfall projects are abandoned and do not meet user expectations when finally completed
 
-### Step 2: Augment Your Team With Experience
+### Step 2: Augment Your Team with Experience
 - Identify the roles your project needs
   - Build up your team's capacity by bringing in resources that are seasoned professionals
   - Work with the procurement team to understand how to evaluate proposals
@@ -49,7 +49,7 @@ Have a design system that establishes your product framework, is based on your p
 - Consider the [Sprint with Us](https://digital.gov.bc.ca/marketplace/learn-more/sprint-with-us) and [Code With Us](https://engage.gov.bc.ca/data/2017/01/03/building-community-code-with-us/procurement){:target="_blank"} mechanisms that allow the Government of B.C. to procure Agile software development teams
 
 ### Step 3: Introduction to the Product Vision
-- Review the project team membership and identify responsibilities
+- Review the project team membership and identify responsibilities:
   - Product Owner, Scrum Master, Developers, Testers, and Delivery Manager
 - Specify the approval process for signing off deliverables
 - Review and understand the Product Owner's solution vision

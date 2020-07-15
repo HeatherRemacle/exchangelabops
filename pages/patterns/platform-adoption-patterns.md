@@ -20,7 +20,7 @@ subnav:
 ---
 ## BC DevExchange Adoption Pattern
 ### The Need:
-Modernization has been identified as a Ministry goal. To achieve this, business units are embarking on  difficult change initiatives that are tied to culture shifts within their organizations. It won’t happen overnight. Readiness to adopt new systems and approaches requires a plan. A key element of the plan is based on having the capabilities and capacity to deliver solutions that end-users value. The [BC DevExchange](https://bcdevexchange.org/){:target="_blank"} is an incubator for the promotion of  innovation.
+Modernization has been identified as a ministry goal. To achieve this, business units are embarking on  difficult change initiatives that are tied to culture shifts within their organizations. It won’t happen overnight. Readiness to adopt new systems and approaches requires a plan. A key element of the plan is based on having the capabilities and capacity to deliver solutions that end-users value. The [BC DevExchange](https://bcdevexchange.org/){:target="_blank"} is an incubator for the promotion of  innovation.
 
 ### User Story:
 As a member of the business unit executive, I need to have a knowledgeable team that is capable of delivering a digitally enabled product that meets the needs of our discerning users.

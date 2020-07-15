@@ -23,16 +23,16 @@ subnav:
     href: '#step-7-educate-your-business-stakeholders'
   - text: Step 8. Now Sprint...
     href: '#step-8-now-sprint'
-  - text: Step 9. Conduct Code Reviews (As Required)
+  - text: Step 9. Monitor and Measure the Development Process
+    href: '#step-9-monitor-and-measure-the-development-process'
+  - text: Step 10. Conduct Code Reviews (As Required)
     href: '#step-9-conduct-code-reviews-as-required'
-  - text: Step 10. Complete User Acceptance testing and remediate defects
-    href: '#step-10-complete-user-acceptance-testing-and-remediate-defects'
-  - text: Step 11. Deploy, Promote Through Your Environments
-    href: '#step-11-deploy-promote-through-your-environments'
-  - text: Step 12. Demonstrate Your Products Frequently, Obtain User Feedback 
-    href: '#step-12-demonstrate-your-products-frequently-obtain-user-feedback'
-  - text: Step 13. Monitor and Measure the Development Process
-    href: '#step-13-monitor-and-measure-the-development-process'
+  - text: Step 11. Complete User Acceptance testing and remediate defects
+    href: '#step-11-complete-user-acceptance-testing-and-remediate-defects'
+  - text: Step 12. Deploy and Promote Through Your Environments
+    href: '#step-12-deploy-and-promote-through-your-environments'
+  - text: Step 13. Demonstrate Your Products Frequently, Obtain User Feedback 
+    href: '#step-13-demonstrate-your-products-frequently-and-obtain-user-feedback'
   - text: Definition of an MVP
     href: '#definition-of-an-mvp'
   - text: Guidance to Consider
@@ -41,9 +41,9 @@ subnav:
 ## Ready, Refine, Sprint...
 Activities undertaken by the entire team to define a fulsome “Sprint 0”  prepare the team for product development sprints.  
 
-Adopt code frameworks and libraries that accelerate your development to create working Minimal Viable Product (MVP) solutions that adhere to security and privacy requirements.
+Adopt code frameworks and libraries that accelerate your development to create a working Minimal Viable Product (MVP) solutions that adheres to security and privacy requirements.
 
-Define your architecturally significant requirements (ASR) based on product abilities. Implement architecture as late as possible so you can pivot when required.
+Define your architecturally significant requirements (ASR) based on product abilities.
 
 ### Step 1: Develop a Release Plan 
 -	Refine the (initial) backlog
@@ -52,7 +52,7 @@ Define your architecturally significant requirements (ASR) based on product abil
 -	Identify dependencies
 
 ### Step 2: Develop Your Conceptual Architecture
-- Document the overarching view of the system and placement of technical functions (e.g. use ArchiMate to visualize relationships)
+- Document the overarching view of the system and placement of technical functions (e.g. use modeling tools to visualize relationships)
 - Whiteboard relationships between components and the data model
 
 ### Step 3: Adhere to Modern Application Principles
@@ -67,6 +67,8 @@ Define your architecturally significant requirements (ASR) based on product abil
 - Verify access
 
 ### Step 5: Identify Your Development Workflow Processes
+-	Analyze your workflow
+-	Identify key processes and break them down 
 
 ### Step 6: Set Up, Document, and Implement Your Tooling (Code Repository, Pipelines, Automation)
 Verify your  processes for successful:
@@ -78,27 +80,28 @@ Verify your  processes for successful:
 Your project has a finite set of resources and funding; defining and managing the scope is critical to your team’s success. The product owner educates both the team and the stakeholders in order to manage the team’s velocity and output.
 -	Keep an eye on the budget
 -	Ensure change management processes are being followed
--	Regularly groom the backlog(s)
+-	Regularly prune the backlog(s)
 
 ### Step 8: Now Sprint...
 - Following a successful “Sprint 0” phase, your team is prepared to start coding, testing, and committing features into the source code management system
 
-### Step 9: Conduct Code Reviews (As Required)
+### Step 9: Monitor and Measure the Development Process
+-	Is the rate (velocity) of development keeping up with expectations?
+-	[Monitor your system for reliability](https://aspetraining.com/resources/blog/system-monitoring-age-of-site-reliability-engineering){:target="_blank"}
+
+### Step 10: Conduct Code Reviews (As Required)
 -	Automate where possible
 
-### Step 10: Complete User Acceptance Testing and Remediate Defects
-- Dealing with this in advance will save effort and time in the future
+### Step 11: Complete User Acceptance Testing and Remediate Defects
+- Being agile means user acceptance testing is happening all the time
+- Dealing with this often will save effort and time in the future
 
-### Step 11: Deploy and Promote Through Your Environments
+### Step 12: Deploy and Promote Through Your Environments
 - The Product Owner (PO) confirms the [Definition of Done](https://www.scrum.org/forum/scrum-forum/5438/product-owner-and-definition-done){:target="_blank"} (DoD) prior to deployment
 
-### Step 12: Demonstrate Your Products Frequently and Obtain User Feedback  
+### Step 13: Demonstrate Your Products Frequently and Obtain User Feedback  
 - Sprint demo (feature delivery)
 - Stakeholder demo (batch delivery)
-
-### Step 13: Monitor and Measure the Development Process
-- This supports the Product Owner and the Team; it also shields members from scope/feature creep
-- [Monitor your system for reliability](https://aspetraining.com/resources/blog/system-monitoring-age-of-site-reliability-engineering){:target="_blank"}
 
 ### Definition of an MVP
 A Minimal Viable Product (MVP) is one that delivers core functionality as expected by a business unit's target audience. The core functionality is a set of features that is delivered at the initial product  launch. Once launched, the product follows a documented lifecycle for user feedback and product support.

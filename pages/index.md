@@ -30,7 +30,7 @@ subnav:
     href: '#definition-of-a-modern-application'
 
 ---
-This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within the Agile framework. It provides you with a collection of references, tools, and best practices. 
+This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within an Agile framework. It provides you with a collection of references, tools, and best practices. 
 
 ## What Does It Do?
 It contributes to a shared understanding of the solution ecosystem, from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
@@ -56,12 +56,12 @@ Having a clear understanding of the IM/IT project governance process will ensure
 <!-- <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt=""> -->
 
 ### 3: Building Your Team
-Develop your team’s capacity to deliver modern digital solutions by enhancing your existing skillset through exposure to experienced people. 	
+Develop your team’s capacity to deliver modern digital products by enhancing your existing skillset through exposure to experienced people. 	
 <br/>
 [Play 3](/CITZ-IMB-playbook/play3)
 
 ### 4: Ready, Refine, Sprint
-This play contains methodologies and frameworks that you can follow to develop working Minimum Viable Product (MVP) solutions.
+This play contains methodologies and frameworks that you can follow to develop a working Minimum Viable Product (MVP).
 <br>
 [Play 4](/CITZ-IMB-playbook/play4)
 
@@ -87,12 +87,12 @@ Review annual funding plans to account for any and all changes, including produc
 
 ## Definition of a Modern Application
 A modern application is one that exhibits five important characteristics:
-1. It supports multiple users through the interface of their choice
+- It supports multiple users through the interface of their choice
   - Web, Mobile, API (application programming interface)
-2. It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS){:target="_blank"} for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI)
-3. Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON){:target="_blank"} or XML)
-4. It is built on a modern stack that supports the creation of an application with an HTTP interface and an API which can consume and emit JSON data
-5. It conforms to the relevant elements of a [12-factor](https://12factor.net/){:target="_blank"} application
+- It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS){:target="_blank"} for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI)
+- Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON){:target="_blank"} or XML)
+- It is built on a modern stack that supports the creation of an application with an HTTP interface and an API which can consume and emit JSON data
+- It conforms to the relevant elements of a [12-factor](https://12factor.net/){:target="_blank"} application
 
 Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/Modern-Application-Playbook-Checklist-BETA.docx){:target="_blank"}.
 

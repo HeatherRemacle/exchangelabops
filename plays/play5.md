@@ -17,22 +17,22 @@ subnav:
     href: '#guidance-to-consider'
 ---
 ## Transition to Operations
-Following successful initial product development and deployment, a new modern application (digital product) is launched. At this stage a decision is made concerning the products lifecycle. Ensure that the Operations team has been involved in the previous plays on a regular basis from team formation to product delivery so that they are aware of, and have been able to provide input into, your delivery pipeline processes. Following formal knowledge transfer from the development team, the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) requires enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in [Play 6](/CITZ-IMB-playbook/play6). If, however, the product meets the business needs, it will proceed through an operations cycle consisting of product governance and change management.
+Following successful initial product development and deployment, a new modern application (digital product) is launched. At this stage a decision is made concerning the products lifecycle. Ensure that the Operations team has been involved in the previous plays on a regular basis from team formation to product delivery so that they are aware of, and have been able to provide input into, your delivery pipeline processes. Following formal knowledge transfer from the development team, the product can be transitioned to the operations team. If the initial product (often called a Minimal Viable Product or MVP) requires enhancements, then it typically enters the **Continuous Product Improvement** cycle as described in [Play 6](/CITZ-IMB-playbook/play6). If, however, the product meets the needs of the business, it will proceed through an operations cycle consisting of product governance and change management.
 
 ### Step 1: Review Your Memorandum of Understanding (See [Play 2](/CITZ-IMB-playbook/play2))
 - It takes time to resource additional skills (often as long as 6 months), so your transition plan should reflect this
 
 ### Step 2: Complete Knowledge Transfer
-- Adopt the "Site Reliability Engineer" support model pioneered by Google
+- Adopt the "Site Reliability Engineer" support model pioneered by [Google](https://en.wikipedia.org/wiki/Site_Reliability_Engineering){:target="_blank"}
 - Throughout the development cycle, the product team member who represents the Ministry Operations team should regularly participate in development team meetings and should be cross-functionally trained to understand how product features have been developed, tested, and pushed through the deployment pipeline
 
 ### Step 3: Validate Operations Processes Including:
 - Change Management procedures
-- Monitoring & Logging
+- Monitoring & Logging:
   - Application Performance Monitoring ([APM](https://www.ea.oit.va.gov/EAOIT/docs/Oct_2016_Release_Docs/APM-2-2.pdf){:target="_blank"}) metrics have been defined
   - Application logs are generated and maintained in accordance with policy
 - Tooling Updates
-- Product Triage
+- Product Triage:
   - Define your product triage procedures
 - Escalation procedures
 

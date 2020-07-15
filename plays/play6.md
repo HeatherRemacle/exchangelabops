@@ -27,7 +27,7 @@ subnav:
 ## Continuous Product Improvement
 In this play, a team is responsible for the continuous cycle of product enhancement and ongoing support, based on incorporating user feedback and operational metrics provided by monitoring. Continuous product improvement is a critical aspect of product management; it is aimed at improving work practices that focus on customer value adding tasks and minimizing non-value (defect remediation, partially done work, unnecessary features) activities.  
 
-The work that took you to this play offers insights and metrics that should be reviewed and actioned as part of the overall improvement and change management processes. 
+The work undertaken to this point offers insights and metrics that should be reviewed and actioned as part of the overall improvement and change management processes. 
 
 Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/play2)) has been reviewed and reaffirmed. 
 -	Is it within the product business unit?
@@ -37,7 +37,7 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 -	Who is providing the Business Analyst (BA) services? Are the IMB BA’s involved?
 
 ### Step 1: Incorporate Feedback
--	Conduct a product reusability analysis at least twice a year
+-	Conduct a product usability analysis at least twice a year:
     -	Defer to a product usability expert to run workshops
     -	Aim for incremental deliverables; identify the features users want (unnecessary features result in partially done work)
     -	Review and obtain metrics that can provide product adoption and usage insights 
@@ -61,8 +61,8 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 
 ### Step 4: Prioritize Bugs and New Feature Requests
 -	Defects lead to customer dissatisfaction and reduce team efficiency
-    -	Aim for a zero defect policy
-    -	Bugs have higher priority over new feature development
+    -	Aim for a zero-defect policy
+    -	Critical bugs have higher priority over new feature development
 -	Maintain a "root cause registry" of logged defects/bugs
     -	Maintain a defect backlog
 
@@ -92,9 +92,10 @@ Ensure that team ownership (originally defined in [Play 2](/CITZ-IMB-playbook/pl
 ### Guidance to Consider
 -	Does your team composition (IS21, IS24, IS27s) still reflect the product's needs?
 -	Does your team have access to Service Design and User Experience (UX) skills as needed?
--	Kanban board guides activities
+-	The Kanban board guides activities
 -	Incident/Bug Tickets can be assigned
 -	Regularly review your task assignment system (Jira)
+- [https://www.hotjar.com/usability-testing/](https://www.hotjar.com/usability-testing/){:target="_blank"}
 
 <br/>
 [Back to the Top](#)
