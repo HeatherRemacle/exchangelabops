@@ -46,7 +46,7 @@ Objectives include:
 
 ## Project Status
 
-> ALPHA
+> BETA
 
 ## Development
 
