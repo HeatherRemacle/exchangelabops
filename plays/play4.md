@@ -69,6 +69,7 @@ Define your architecturally significant requirements (ASR) based on product abil
 ### Step 5: Identify Your Development Workflow Processes
 -	Analyze your workflow
 -	Identify key processes and break them down 
+- Look for opportunities to Automate
 
 ### Step 6: Set Up, Document, and Implement Your Tooling (Code Repository, Pipelines, Automation)
 Verify your  processes for successful:
