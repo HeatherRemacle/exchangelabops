@@ -49,7 +49,7 @@ To improve the delivery of successful IM/IT products or services that meet Minis
 - For an internally managed initiative:
     - The business unit has the skillset and resources to successfully manage and deliver the project
     - The business unit enters a procurement activity to obtain an IM/IT solution via a Request for Proposal (RFP) process
-- For a partnership agreement
+- For a partnership agreement:
     - The business unit enters into an Alliance agreement with the BCDevExchange and OCIO-Digital Products Division (DPDD) to design and develop a solution -*or*-
     - The business unit enters into a “Memorandum of Understanding” (MOU) with the IMB to co-develop and deliver an IM/IT solution
       - Incorporate a transition plan section into your MOU
