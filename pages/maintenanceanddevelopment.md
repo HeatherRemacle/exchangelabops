@@ -43,22 +43,22 @@ When you submit a contribution for adding, changing, or removing content you wil
 If you are making big structural or visual changes to the playbook, we suggest that you get set up for local development on your computer. This increases efficiency by allowing you to preview the changes you are making in real time, and it reduces the risk of pushing errors to production.
 
 Follow these steps when making big changes:
-- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}.
-- Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site){:target="_blank"} on the forked repo.
-- [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository){:target="_blank"} the fork to your local machine.
+- Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}
+- Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site){:target="_blank"} on the forked repo
+- [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository){:target="_blank"} the fork to your local machine
 - If you want to preview your changes locally:
-    - Set up your workstation for [Jekyll development](#developing-with-jekyll){:target="_blank"}.
-    - Familiarize yourself with the [structure of the playbook](#playbook-structure){:target="_blank"}.
-    - Preview your changes with a local server.
+    - Set up your workstation for [Jekyll development](#developing-with-jekyll)
+    - Familiarize yourself with the [structure of the playbook](#playbook-structure)
+    - Preview your changes with a local server
 - Issue the following commands to push the changes to your forked repo:
 ~~~~ 
 git add . 
 git commit -m “Meaningful message about your changes”
 git push origin master
 ~~~~
-- Ensure everything looks good on your forked GitHub Pages site.
+- Ensure everything looks good on your forked GitHub Pages site
     - *Note: the way GitHub Pages compiles your website may differ than what you see during local development.*
-- Make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests){:target="_blank"}.
+- Make a [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/about-pull-requests){:target="_blank"}
 
 ### A Note on Versioning
 If the changes you are making to the site are quite large, consider creating a new version release. Please consult these resources before creating a new version:
