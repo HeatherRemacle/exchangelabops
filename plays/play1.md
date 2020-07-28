@@ -78,7 +78,7 @@ The Canadian and US federal governments detail a series of digital plays in thei
 ### Guidance to Consider
 - Research
     - Develop a fulsome understanding of the problem and the intended audience. Understand the solution context and dependencies
-    - Follow the [BC User Research Guide](https://bcgov.github.io/user-research-guide/){:target="_blank"}
+    - Follow the [BC Design Research Guide](https://bcgov.github.io/design-research-guide/){:target="_blank"}
 - Engagement
     - Solicit responses via surveys and workshops in order to provide data to guide the ideation process
 
