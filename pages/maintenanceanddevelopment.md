@@ -30,10 +30,10 @@ Some of the changes we made include:
 ## Resolving and Actioning Issues
 When actioning an issue, consider [linking your pull request](https://help.github.com/en/github/managing-your-work-on-github/linking-a-pull-request-to-an-issue){:target="_blank"}. This not only allows for collaborators to see who is working on what issues, but it also makes it so that the issue is automatically closed when the pull request is merged.
 
-Furthermore, take some time to consider what kind of change you are making. Is it a [small change](#small-changes){:target="_blank"}, or a [big change](#big-changes){:target="_blank"}? This may determine how you resolve the issue.
+Furthermore, take some time to consider what kind of change you are making. Is it a [small change](#small-changes), or a [big change](#big-changes)? This may determine how you resolve the issue.
 
 ## Small Changes
-If you are just making small changes to a few words in one file, then it would be acceptable and easy to use the [GitHub file editor](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository){:target="_blank"} on the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}. This is not advisable for larger changes, or if you plan on making changes to multiple pages.
+If you are just making small changes to a few words in one file (likely a [Markdown](#a-note-on-markdown) file), then it would be acceptable and easy to use the [GitHub file editor](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-your-repository){:target="_blank"} on the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}. This is not advisable for larger changes, or if you plan on making changes to multiple pages.
 
 ## Big Changes
 You will need a foundational understanding of Git and GitHub concepts, such as repos, commits, and pull requests, for submitting larger contributions.
@@ -84,6 +84,7 @@ The playbook follows the general structure of a Jekyll site. If you wish to make
 - [Variables](https://jekyllrb.com/docs/variables/){:target="_blank"}
 - [Includes](https://jekyllrb.com/docs/includes/){:target="_blank"}
 - [Layouts](https://jekyllrb.com/docs/layouts/){:target="_blank"}
+- [18F Template README](https://github.com/18F/uswds-jekyll/blob/master/README.md){:target="_blank"}
 
 <br>
 <br>
