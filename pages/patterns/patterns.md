@@ -25,7 +25,7 @@ IMB Patterns we will evolve will include...
 - [Microsoft Dynamics Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#microsoft-dynamics-adoption-pattern)
 - [Microsoft SharePoint Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#microsoft-sharepoint-adoption-pattern)
 - [BC Dev Exchange DevOps Container Platform (OpenShift) Adoption Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#bc-dev-exchange-devops-container-platform-openshift-adoption-pattern)
-- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#progressive-web-application-capstone-pattern) <span style="color: green">\*currently in development\*</span>
+- [Progressive Web Application Capstone Pattern](/CITZ-IMB-playbook/platform-adoption-patterns#progressive-web-application-capstone-pattern)
 
 ### IMB Patterns
 - [Ministry IMB IM/IT Strategic Planning Pattern](/CITZ-IMB-playbook/imb-patterns#ministry-imb-imit-strategic-planning-pattern)
