@@ -42,6 +42,8 @@ When you submit a contribution for adding, changing, or removing content you wil
 
 If you are making big structural or visual changes to the playbook, we suggest that you get set up for local development on your computer. This increases efficiency by allowing you to preview the changes you are making in real time, and it reduces the risk of pushing errors to production.
 
+Before proceeding read [this page](https://github.com/18F/uswds-jekyll/blob/master/README.md){:target="_blank"}.
+
 Follow these steps when making big changes:
 - Make a [fork](https://help.github.com/en/enterprise/2.13/user/articles/fork-a-repo#:~:text=A%20fork%20is%20a%20copy,point%20for%20your%20own%20idea.) of the [bcgov repo](https://github.com/bcgov/CITZ-IMB-playbook){:target="_blank"}
 - Enable [GitHub Pages](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site){:target="_blank"} on the forked repo
