@@ -14,8 +14,6 @@ subnav:
     href: '#design-and-delivery-standard'
   - text: Delivery Community
     href: '#delivery-community'
-  - text: Annual Report
-    href: '#annual-report'
   - text: About Us
     href: '#about-us'
 ---
@@ -23,16 +21,14 @@ Welcome to the Exhchange. We're known as a lab and a community of people who are
 
 ## Mission
 
-Government can respond to change quickly and meet people's expectations for excellent service delivery. 
+Government can respond to change quickly and meet peoples' expectations for excellent service delivery. 
 
 The Exchange partners with public service programs to deliver high quality, modern services by supporting people to learn and apply design and delivery methods, tools, and technology.
-
-Excellent end-to-end services are enabled by partners in the Digital Delivery Network, including [experts in service improvement methods](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798) and a community of experienced "GovTech" innovators.
 
 The results we seek center around:
 - Creating high performing, cross functional teams.
 - Delivering high value public impact through excellent digital products and services.
-- Maximizing the return on public funding to modernize the public service through technology investment, policy improvement, and organizational development.
+- Maximizing the return on public funding to modernize the public service through technology investment, policy improvement, community building and organizational development.
 - Connecting an ecosystem of public service oriented people and agencies - inside the BC Government and beyond.
 
 ## Delivery Model
@@ -43,55 +39,50 @@ Lab Operations are continously refined and adapted to the specific context of pr
 - research, 
 - empathy, 
 - deep engagement, and
-- emergent best practices, including a Design and Delivery Standard.
-
-We also center around a set of [Digital Principles.](https://digital.gov.bc.ca/digital-principles/) 
+- emergent best practices and standards.
 
 This diagram illustrates the general approach of our delivery model. 
  
 <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt="">
 <!-- <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt=""> -->
 
-## Design and Delivery Standard
+### We also center around a set of [Digital Principles.](https://digital.gov.bc.ca/digital-principles/) 
 
-### 1: Ideate Solutions That Meet the Needs of Business
-The business knows its users; it owns the problem space. Apply design thinking to new product development to create high value solutions that users want to adopt.   
-[Play 1](/CITZ-IMB-playbook/play1)
+## Service Design and Delivery Standard
 
-### 2: Successfully Navigate the Project Intake Process
-Having a clear understanding of the IM/IT project governance process will ensure that your proposal obtains the necessary approvals in order to proceed.
-<br/>
-[Play 2](/CITZ-IMB-playbook/play2)
+The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies. These standards are intended to guide service delivery teams to create and run great public services. This likely includes digital channels, but ultimately  should be inclusive and accessible, requiring multi-channel delivery.
 
-<img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt="">
-<!-- <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt=""> -->
+As an early adopter of other service standards, we've gratefully borrowed content from the UK Service Standard and the Ontario Digital Service Standard. At this time, the Service Design and Delivery Standard we present here is intended only as a practical guide. We do envision that it will be improved and adopted for broader use, with input from those who apply it.
 
+### 1: Understand users and their needs
+### 2. Establish the right team
+### 3. Be consistent
+### 4. Design the service from start to finish
+### 5. Ensure users succeed the first time
+### 6. Test the end-to-end service
+### 7. Make it accessible
+### 8. Be agile and user-centred
+### 9. Use open standards and common platforms
+### 10. Embed privacy and security by design
 
-<img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/support-icon.png" alt="">
-<!-- <img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/support-icon.png" alt=""> -->
+[View the Service Design and Delivery Standard](/ExchangeLabOps/ServiceStandard) which describes:
+- Why each standard matters
+- How to meet the standard
+- Related laws and rules to follow
 
-### 6: Continuous Product Improvement
-In this play, a team is responsible for a continuous cycle of product enhancement and ongoing support, based on incorporating user feedback and operational metrics provided by monitoring.
-<br/>
-[Play 6](/CITZ-IMB-playbook/play6)
+## Delivery Community
 
-### 7: Sustainment Lifecycle
-Your product has been delivered with a roadmap that guides its lifecycle.
+**A community of people who are committed to sharing learning and building and leveraging value together is essential to our mission.** While guidance and playbooks can support some amount of way finding, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The ever-evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
 
-Review annual funding plans to account for any and all changes, including product retirement and product replacement.
-<br/>
-[Play 7](/CITZ-IMB-playbook/play7)
+ - [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
 
-## Definition of a Modern Application
-A modern application is one that exhibits five important characteristics:
-- It supports multiple users through the interface of their choice
-  - Web, Mobile, API (application programming interface)
-- It provides an API for accessing data over [HTTP(S)](https://en.wikipedia.org/wiki/HTTPS){:target="_blank"} for all features that would normally be available over a graphical user interface (GUI) or the command line interface (CLI)
-- Its data is available via generic formats (such as [JSON](https://en.wikipedia.org/wiki/JSON){:target="_blank"} or XML)
-- It is built on a modern stack that supports the creation of an application with an HTTP interface and an API which can consume and emit JSON data
-- It conforms to the relevant elements of a [12-factor](https://12factor.net/){:target="_blank"} application
+The Exchange Lab is an achor in a broader "Digital Delivery Network," which includes [experts in service improvement methods](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798) and a community of experienced "GovTech" innovators. The Team that runs the Lab supports the exchange of ideas, experience, and encouragement in this growing community through:
+- online and in-person events,
+- storytelling,
+- learning programs, and
+- online engagement platforms.
 
-Download the [CITZ Modern Application Checklist](/CITZ-IMB-playbook/docs/Modern-Application-Playbook-Checklist-BETA.docx){:target="_blank"}.
+### [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
 
 <br/>
 [Back to the Top](#)
