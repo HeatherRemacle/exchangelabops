@@ -17,13 +17,17 @@ subnav:
   - text: About Us
     href: '#about-us'
 ---
-Welcome to the Exhchange. We're known as a lab and a community of people who are learning how to improve service delivery from the BC Public Service together, through experimentation and collaboration. We offer services specifically designed to accellerate learning new ways of working through practice and delivery. We're contributing to the the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
+Welcome to the Exchange. We're known as a lab and a community of people who are learning how to improve service delivery from the BC Public Service together, through experimentation and collaboration. We offer services specifically designed to accellerate learning new ways of working through practice and delivery. We're contributing to the the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
+
+Public servants come to us to learn and practice Agile and service delivery innovation mindset and methods.
+
+We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and a thriving community of GovTech developers in the BC Public Service.
 
 ## Mission
 
-Government can respond to change quickly and meet peoples' expectations for excellent service delivery. 
+Government, through the BC Public Service, can be trusted to respond to change quickly and meet peoples' expectations for excellent service delivery. 
 
-The Exchange partners with public service programs to deliver high quality, modern services by supporting people to learn and apply design and delivery methods, tools, and technology.
+The Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply design and delivery methods, tools, and technology.
 
 The results we seek center around:
 - Creating high performing, cross functional teams.
@@ -33,18 +37,25 @@ The results we seek center around:
 
 ## Delivery Model
 
-The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Teams, as a product of this model, offer value that includes the service products they produce, as well as learning and broader organizational development.
+The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams** through a period of residency. Explore the phases of Exchange Lab residency and the variety of resources we've produced to support teams in each phase:
+- [Diagnose a challenge](/ExchangeLabOps/diagnose-a-challenge )
+- [Align your organization](/ExchangeLabOps/align-your-org)
+- [Resource a team](/ExchangeLabOps/resource-a-team)
+- [Onboard and develop](/ExchangeLabOps/onboard-and-develop)
+- [Deliver product](/ExchangeLabOps/delivery-a-product)
+- [Sustain and improve](/ExchangeLabOps/sustain-and-improve)
 
-Lab Operations are continously refined and adapted to the specific context of program areas we partner with to build teams. There is no single, consistent path, as we operate in high degrees of complexity. We create the conditions for a positive, productive trajectory through the application of: 
-- research, 
+We continously refine and adapte Lab Operations to the specific context of program areas we partner with. There is no single, consistent path. We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of: 
+- active research, 
 - empathy, 
 - deep engagement, and
 - emergent best practices and standards.
 
-This diagram illustrates the general approach of our delivery model. 
+This diagram illustrates broader connections to our delivery model.
  
 <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt="">
 <!-- <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt=""> -->
+
 
 ### We also center around a set of [Digital Principles.](https://digital.gov.bc.ca/digital-principles/) 
 
@@ -65,7 +76,7 @@ As an early adopter of other service standards, we've gratefully borrowed conten
 ### 9. Use open standards and common platforms
 ### 10. Embed privacy and security by design
 
-[View the Service Design and Delivery Standard](/ExchangeLabOps/ServiceStandard) which describes:
+[View the full Service Design and Delivery Standard](/ExchangeLabOps/ServiceStandard) which describes:
 - Why each standard matters
 - How to meet the standard
 - Related laws and rules to follow
