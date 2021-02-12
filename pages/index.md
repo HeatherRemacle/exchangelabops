@@ -1,47 +1,58 @@
 ---
-title: Modern Application Playbook (BETA)
+title: Exchange Lab Operations (Alpha)
 description: This is a main page.
 permalink: /
 
 layout: post
 sidenav: docs
 subnav:
-  - text: What Does It Do?
-    href: '#what-does-it-do'
-  - text: What Are the Benefits?
-    href: '#what-are-the-benefits'
-  - text: The Plays...
-    href: '#the-plays'
-  - text: 1. Ideate Solutions That Meet the Needs of Business
-    href: '#1-ideate-solutions-that-meet-the-needs-of-business'
-  - text: 2. Successfully Navigate the Project Intake Process
-    href: '#2-successfully-navigate-the-project-intake-process'
-  - text: 3. Building Your Team
-    href: '#3-building-your-team'
-  - text: 4. Ready, Refine, Sprint
-    href: '#4-ready-refine-sprint'
-  - text: 5. Transition to Operations
-    href: '#5-transition-to-operations'
-  - text: 6. Continuous Product Improvement
-    href: '#6-continuous-product-improvement'
-  - text: 7. Sustainment Lifecycle
-    href: '#7-sustainment-lifecycle'
-  - text: Definition of a Modern Application
-    href: '#definition-of-a-modern-application'
-
+  - text: Mission
+    href: '#mission'
+  - text: Delivery Model
+    href: '#delivery-model'
+  - text: Design and Delivery Standard
+    href: '#design-and-delivery-standard'
+  - text: Delivery Community
+    href: '#delivery-community'
+  - text: Annual Report
+    href: '#annual-report'
+  - text: About Us
+    href: '#about-us'
 ---
-This playbook is designed to help you on your IT project journey, and to navigate the development and support of government applications within an Agile framework. It provides you with a collection of references, tools, and best practices. 
+Welcome to the Exhchange. We're known as a lab and a community of people who are learning how to improve service delivery from the BC Public Service together, through experimentation and collaboration. We offer services specifically designed to accellerate learning new ways of working through practice and delivery. We're contributing to the the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
 
-## What Does It Do?
-It contributes to a shared understanding of the solution ecosystem, from ideation to operation and maintenance. “Plays” describe valuable patterns that project teams should consider as part of their modern digital product management lifecycle. 
+## Mission
 
-## What Are the Benefits?
-This playbook provides the IMB and our partners, vendors, and clients with key resources that will help them identify, use, and leverage trustworthy sources of knowledge that are regularly improved with the aim of enhancing and simplifying the IT solution delivery experience.
+Government can respond to change quickly and meet people's expectations for excellent service delivery. 
 
+The Exchange partners with public service programs to deliver high quality, modern services by supporting people to learn and apply design and delivery methods, tools, and technology.
+
+Excellent end-to-end services are enabled by partners in the Digital Delivery Network, including [experts in service improvement methods](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798) and a community of experienced "GovTech" innovators.
+
+The results we seek center around:
+- Creating high performing, cross functional teams.
+- Delivering high value public impact through excellent digital products and services.
+- Maximizing the return on public funding to modernize the public service through technology investment, policy improvement, and organizational development.
+- Connecting an ecosystem of public service oriented people and agencies - inside the BC Government and beyond.
+
+## Delivery Model
+
+The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Teams, as a product of this model, offer value that includes the service products they produce, as well as learning and broader organizational development.
+
+Lab Operations are continously refined and adapted to the specific context of program areas we partner with to build teams. There is no single, consistent path, as we operate in high degrees of complexity. We create the conditions for a positive, productive trajectory through the application of: 
+- research, 
+- empathy, 
+- deep engagement, and
+- emergent best practices, including a Design and Delivery Standard.
+
+We also center around a set of [Digital Principles.](https://digital.gov.bc.ca/digital-principles/) 
+
+This diagram illustrates the general approach of our delivery model. 
+ 
 <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt="">
 <!-- <img height="140" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt=""> -->
 
-## The Plays...
+## Design and Delivery Standard
 
 ### 1: Ideate Solutions That Meet the Needs of Business
 The business knows its users; it owns the problem space. Apply design thinking to new product development to create high value solutions that users want to adopt.   
@@ -55,20 +66,6 @@ Having a clear understanding of the IM/IT project governance process will ensure
 <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/checklist-icon.png" alt="">
 <!-- <img height="140" width="148" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/checklist-icon.png" alt=""> -->
 
-### 3: Building Your Team
-Develop your team’s capacity to deliver modern digital products by enhancing your existing skillset through exposure to experienced people. 	
-<br/>
-[Play 3](/CITZ-IMB-playbook/play3)
-
-### 4: Ready, Refine, Sprint
-This play contains methodologies and frameworks that you can follow to develop a working Minimum Viable Product (MVP).
-<br>
-[Play 4](/CITZ-IMB-playbook/play4)
-
-### 5: Transition to Operations
-Following product development and deployment, a decision is made concerning the product's lifecycle. A knowledge transfer from the development team to the operations team is realized.
-<br/>
-[Play 5](/CITZ-IMB-playbook/play5)
 
 <img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/support-icon.png" alt="">
 <!-- <img height="140" width="158" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/support-icon.png" alt=""> -->
