@@ -1,52 +1,28 @@
-# CITZ-IMB-Playbook
+# Exchange Lab Operations
 
-CITZ-IMB Modern Application Playbook
+This repository is for the Github.io site that will document guidance for Exchange Lab Operations.
 
-## Introduction
+The primary audience for this website is a BC Public Servant that is seeking support with developing digital capabilities - talent, methods and tools - to improve the way they delivery services.
 
-OCIO-ES-IMB is the Ministry of Citizen’s Services Information Management Branch, its mandate includes:
+A secondary audience is our broader ecosystem of partners, including:
+- other public sector agencies within and beyond the Exchange Lab, who are seeking to deliver similar services; and
+- private and non-profit sector partners, seeking to work with BC Public Service teams in the Lab.
 
-- Engaging with Ministry Business Units to support their IM/IT project initiatives
-- Providing IM/IT Application Management Services including support and operational maintenance for over 80 applications on behalf of CITZ Ministry Business Units 
-- Providing STRA and PIA services for the Ministry
-- Providing Infrastructure Management Services for Ministry clients 
-- Operating the IMB Support Desk
-- Reporting to the Ministry CIO (MCIO)
+This site also serves to support  reliable service by the Exchange Lab Team, who will continuously improve operations.
 
+## 
 
-To support IMBs overall strategic IM/IT initiatives a Modern Application Playbook is required that will aid in Ministry Business Units in their new application development journeys. To support the playbook a 12-Factor compliant Capstone2020 Progressive Web Application is being developed to demonstrate the Modern Application Playbook.
+This operations guide is maintained by the [Exchange Lab team](https://dir.gov.bc.ca/gtds.cgi?show=Branch&organizationCode=CITZ&organizationalUnitCode=DPD%2dLab), a key node in the BC Developers's Exchange network.
 
-## Problem Statement
-
-The OCIO-ES-IMB does not have a consistent playbook to aid in the development of Modern Applications by Ministry business units.
-
-## Hypothesis
-
-If we have a modern application playbook our stakeholders, partners and vendors will have a set of tested, repeatable patterns that will guide their journeys in the development of modern applications from product ideation through to the sustainment lifecycle to aid in consistent and efficient use of limited resourcses that make use of current best practices.
-
-## Goal
-
-The goal of the Capstone2020 project team is to create actionable guidance for Ministry Business Units developing Modern Applications.
-
-Objectives include:
-
-- Provide the reader with a collection of references to tested methodologies, tools and best practices.
-- Guide modern application development 
-- Demonstrate creation of a system that supports the BC Governments Digital Framework.
-- Provide "plays" that describe valuable patterns that project teams should consider as part of their digital product management lifecycle.
-
-## The Plays:
-1. Ideate solutions that meet the needs of business units
-2.	Successfully navigate the Ministry project intake process
-3.	Building your Team
-4.	Ready, Refine, Sprint
-5.	Transition to Operations
-6.	Continuous Product Improvement
-7.	Sustainment Lifecycle
+The organizational structure the Exchange Lab Team is part of in the Province of B.C. is
+- The Design and Delivery Branch, in
+- The Digital Platforms and Data Division, in
+- The Office of the Chief Information Officer, in 
+- the Ministry of Citizens' Services.
 
 ## Project Status
 
-> BETA
+> ALPHA
 
 ## Development
 
@@ -54,9 +30,9 @@ Objectives include:
 
 > We are actively adding new features and enhancements.
 
-Read about our design theme [here](https://bcgov.github.io/CITZ-IMB-playbook/theme/).
+Read about our design theme [here](https://bcgov.github.io/exchangelabopsk/theme/).
 
-Read our development guide [here](https://bcgov.github.io/CITZ-IMB-playbook/maintenanceanddevelopment).
+Read our development guide [here](https://bcgov.github.io/exchangelabops/maintenanceanddevelopment).
 
 ## Contributing Guideline:
 Contributions are welcome, but please review this document before making any change
