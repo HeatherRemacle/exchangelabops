@@ -14,86 +14,114 @@
 primary:
   - text: Home
     href: /
-  - text: Play 1
-    href: /play1
-  - text: Play 2
-    href: /play2
-  - text: Play 3
-    href: /play3
-  - text: Play 4
-    href: /play4
-  - text: Play 5
-    href: /play5
-  - text: Play 6
-    href: /play6
-  - text: Play 7
-    href: /play7
+  - text: Apply to the Lab
+    href: /apply
+  - text: Align Your Org
+    href: /align
+  - text: Resource a Team
+    href: /resource
+  - text: Deliver a Product
+    href: /deliver
+  - text: Sutain Practices
+    href: /sustain
+  - text: Design & Delivery Standard
+    href: /standard
 
 secondary:
   - text: Home
     href: /
     external: false
   - text: GitHub Source
-    href: https://github.com/bcgov/CITZ-IMB-playbook
+    href: https://github.com/bcgov/exchangelabops
     external: true
   - text: Provide Feedback
     href: /feedback
     external: false
   - text: PDF Version
-    href: https://bcgov.github.io/CITZ-IMB-playbook/docs/Modern-Application-Playbook-BETA.pdf
+    href: https://github.com/bcgov/exchangelabops/404
     external: true
 
 docs:
-  - text: Modern Application Playbook
+  - text: Exchange Lab Overview
     href: /
-  - text: Play 1
-    href: /play1
-  - text: Play 2
-    href: /play2
-  - text: Play 3
-    href: /play3
-  - text: Play 4
-    href: /play4
-  - text: Play 5
-    href: /play5
-  - text: Play 6
-    href: /play6
-  - text: Play 7
-    href: /play7
-  - text: Principles
-    href: /principles
-  - text: Patterns
-    href: /patterns
+  - text: Design & Delivery Standard
+    href: /standard
+  - text: Apply to the Lab
+    href: /apply
+  - text: Align Your Org
+    href: /align
+  - text: Resource a Team
+    href: /resource
+  - text: Delivery a Product
+    href: /deliver
+  - text: Sutain Practices
+    href: /sustain
+  - text: Lab Bragsheet
+    href: /bragsheet
   - text: Glossary
     href: /glossary
-      
-play1:
-  - text: Play 1
-    href: /play1
 
-play2:
-  - text: Play 2
-    href: /play2
+standard:
+  - text: Design & Delivery Standard
+    href: /standard
+  - text: Understand users and their needs
+    href: /user-needs
+  - text: Establish the right team
+    href: /team
+  - text: Be consistent
+    href: /consistent
+  - text: Design the service from start to finish
+    href: /star-to-finish
+  - text: Ensure users succeed the first time
+    href: /first-time
+  - text: Test the end-to-end service
+    href: /test
+  - text: 7. Make it accessible
+    href: /accessible
+  - text: 8. Be agile and user-centred
+    href: /agile
+  - text: 9. Use open standards and common platforms
+    href: /open
+  - text: 10. Embed privacy and security by design
+    href: /security-privacy
+  - text: 11. Encourage people to use digital services
+    href: /encourage-digital
 
-play3:
-  - text: Play 3
-    href: /play3
+apply:
+  - text: Define a Problem
+    href: /define
+  - text: Confirm Priority
+    href: /Priority
+  - text: Identify Capacity
+    href: /capacity
 
-play4:
-  - text: Play 4
-    href: /play4
+align:
+  - text: Get Training
+    href: /training
+  - text: Bring Everyone Together
+    href: /together
+  - text: Define Governance
+    href: /governance
 
-play5:
-  - text: Play 5
-    href: /play5
+resource:
+  - text: Align Your Org
+    href: /align
 
-play6:
-  - text: Play 6
-    href: /play6
+deliver:
+  - text: Discover Where to Start
+    href: /discover
 
-play7:
-  - text: Play 7
-    href: /play7
+sustain:
+  - text: Org Design
+    href: /org-design
+
+bragsheet:
+  - text: Lab Bragsheet
+    href: /bragsheet
+
+glossary:
+  - text: Glossary
+    href: /glossary
 
 footer:
   - text: Home
@@ -111,25 +139,13 @@ footer:
     href: https://www2.gov.bc.ca/gov/content/home/copyright
     external: true
   - text: Contact Us
-    href: https://github.com/bcgov/CITZ-IMB-Playbook/issues
+    href: https://github.com/bcgov/exchangelabops/issues
     external: true
   - text: Fair Use
     href: /fairuse
-  - text: Updated 15/07/2020
-    href: https://github.com/bcgov/CITZ-IMB-Playbook
+  - text: Updated 15/02/2021
+    href: https://github.com/bcgov/exchangelabops
     external: true
-
-patterns:
-  - text: Patterns Home
-    href: /patterns
-  - text: Platform Adoption Patterns
-    href: /platform-adoption-patterns
-  - text: IMB Patterns
-    href: /imb-patterns
-
-maintenanceanddevelopment:
-  - text: Maintenance and Development
-    href: /maintenanceanddevelopment
 
 feedback:
   - text: Provide Feedback
