@@ -4,7 +4,7 @@ permalink: /glossary
 
 layout: post
 sidenav: docs
-subnav: 
+subnav:
   - text: A-F
     href: '#a'
   - text: G-M
@@ -14,15 +14,13 @@ subnav:
   - text: T-Z
     href: '#t'
 ---
-Government technology is in the process of a significant shift from the solutions of the 1980’s, which were based on traditional, on-premise hosted platforms, and proprietary vendor licensed software, towards a cloud-based, open-source model.
-
-As your project and digital products advance on this journey, you will encounter a new vocabulary of terms, acronyms and definitions. While we have included a list of links to many of these terms, we can not guarantee that all these links will be available. We recommend the <a target="_blank" href="https://tech.gsa.gov/guides/glossary/">glossary</a> posted at the United States Federal Government Services Agency (GSA) technical guides web site.
+Government technology is in the process of a significant modernization. This glossary includes many relevant terms that may be new to the public service. We also recommend the <a target="_blank" href="https://tech.gsa.gov/guides/glossary/">glossary</a> posted at the United States Federal Government Services Agency (GSA) technical guides web site.
 
 ### \#
 
 [12 factor](https://12factor.net/){:target="_blank"}
 
-### A	
+### A
 
 [Acceptance Criteria](https://tinyurl.com/yb3p88av){:target="_blank"}
 
@@ -36,7 +34,7 @@ Application Manager
 
 [Architecture significant requirements (ASR)](https://en.wikipedia.org/wiki/Architecturally_significant_requirements){:target="_blank"}
 
-### B	
+### B
 
 [Backlog](https://www.scrum.org/resources/what-is-a-product-backlog){:target="_blank"}
 
@@ -48,7 +46,7 @@ Application Manager
 
 [Business Analyst](https://en.wikipedia.org/wiki/Business_analyst){:target="_blank"}
 
-### C	
+### C
 
 [Change Management](https://www.prosci.com/resources/articles/what-is-change-management){:target="_blank"}
 
@@ -64,7 +62,7 @@ Application Manager
 
 [Concept Case](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/im-it-capital-investment/templates){:target="_blank"}
 
-	
+
 ### D
 
 [Definition of Done (DoD)](https://www.Agilealliance.org/glossary/definition-of-done/){:target="_blank"}
@@ -86,7 +84,7 @@ Application Manager
 [Digital Playbook (Canada)](https://canada-ca.github.io/digital-playbook-guide-numerique/en/overview.html){:target="_blank"}
 
 [Digital Playbook (USA)](https://playbook.cio.gov/){:target="_blank"}
-	
+
 ### E
 
 [ELK stack](https://www.elastic.co/elastic-stack?){:target="_blank"}
@@ -94,7 +92,7 @@ Application Manager
 [EPICS](https://www.atlassian.com/Agile/project-management/epics){:target="_blank"}
 
 [Escalation](https://wiki.en.it-processmaps.com/index.php/Checklist_Incident_Escalation){:target="_blank"}
-	
+
 ### F
 
 [Feedback](https://uxdesign.cc/the-importance-of-user-feedback-20a773908325){:target="_blank"}
@@ -105,29 +103,29 @@ Application Manager
 
 [GitHub](https://github.com/){:target="_blank"}
 
-### H	
-	
+### H
+
 ### I
 
 [Information Management Branch (IMB)](https://intranet.gov.bc.ca/thehub/ocio/ocio-enterprise-services/imb){:target="_blank"}
-	
+
 ### J
 
 [Jenkins](https://www.jenkins.io/){:target="_blank"}
-	
+
 ### K
 
 [Kanban](https://en.wikipedia.org/wiki/Kanban_(development)){:target="_blank"}
 
 [Knowledge Transfer](https://stevetrautman.com/learn/knowledge-transfer-plan/){:target="_blank"}
 
-### L	
+### L
 [Lifecycle](https://www2.deloitte.com/us/en/pages/operations/solutions/digital-product-lifecycle-management-solution.html){:target="_blank"}
 
 [Logging](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns){:target="_blank"}
 
 [Low Fidelity prototype](https://theblog.adobe.com/prototyping-difference-low-fidelity-high-fidelity-prototypes-use/){:target="_blank"}
-	
+
 ### M
 
 [Methodologies (Agile)](https://resources.collab.net/Agile-101/Agile-methodologies){:target="_blank"}
@@ -147,10 +145,10 @@ Ministry Information Security Officer (MISO)
 [Monitoring](https://cloud.google.com/solutions/hybrid-and-multi-cloud-monitoring-and-logging-patterns){:target="_blank"}
 
 Memorandum of Understanding (MOU)
-	
+
 ### N		
-	
-### O	
+
+### O
 
 [Office of the Chief Information officer (OCIO)](https://www2.gov.bc.ca/gov/content/governments/organizational-structure/ministries-organizations/central-government-agencies/office-of-the-chief-information-officer){:target="_blank"}
 
@@ -162,8 +160,8 @@ Digital Investment office of the BC OCIO
 
 [Operating Expense (OpEx)](https://www.investopedia.com/terms/o/operating_expense.asp){:target="_blank"}
 
-	
-### P	
+
+### P
 
 [Persona](https://www.romanpichler.com/blog/10-tips-Agile-personas/){:target="_blank"}
 
@@ -183,10 +181,10 @@ Digital Investment office of the BC OCIO
 
 [Project Governance](https://www.pmi.org/learning/library/project-governance-critical-success-9945){:target="_blank"}
 
-Project Review Board	
-	
-### Q	
-	
+Project Review Board
+
+### Q
+
 ### R
 
 [Release Management](https://www.panaya.com/blog/modern-alm/release-management-process){:target="_blank"}
@@ -197,7 +195,7 @@ Project Review Board
 
 [Runbook](https://www.transposit.com/blog/2019.11.14-what-makes-a-good-runbook){:target="_blank"}
 
-	
+
 ### S
 
 [Scenarios](https://www.romanpichler.com/blog/Agile-scenarios-and-storyboards/){:target="_blank"}
@@ -206,7 +204,7 @@ Project Review Board
 
 [Security](https://www2.gov.bc.ca/assets/gov/british-columbians-our-governments/services-policies-for-government/information-management-technology/information-security/security101_guidebook_feb2018.pdf){:target="_blank"}
 
-Senior Business Consultant	
+Senior Business Consultant
 
 [Single Page Application (SPA)](https://en.wikipedia.org/wiki/Single-page_application){:target="_blank"}
 
@@ -225,14 +223,14 @@ Senior Business Consultant
 [Steering Committee](https://www.henricodolfing.com/2018/07/effective-steering-committees.html){:target="_blank"}
 
 [Story Owner](https://www.mountaingoatsoftware.com/Agile/user-stories){:target="_blank"}
-	
+
 ### T
 
 [Test Driven Development (TDD)](https://backend.turing.io/module1/lessons/test_driven_development?){:target="_blank"}
 
 [Triage](https://dzone.com/articles/agility-meets-process-how-to-triage-requests-to-ef){:target="_blank"}
-	
-### U	
+
+### U
 
 [User Experience (UX)](https://www.interaction-design.org/literature/topics/ux-design){:target="_blank"}
 
@@ -242,11 +240,11 @@ Senior Business Consultant
 
 [User Story](https://blog.easyAgile.com/how-to-write-good-user-stories-in-Agile-software-development-d4b25356b604){:target="_blank"}
 
-### V	
+### V
 
 [Value proposition](https://www.digital.govt.nz/blog/gov-as-a-platform-a-value-proposition-discussion-paper?rf=1){:target="_blank"}
-	
-### W	
+
+### W
 
 [Way of working (WOW)](https://www.101ways.com/2019/04/03/how-to-develop-a-teams-ways-of-working/){:target="_blank"}
 
@@ -254,9 +252,8 @@ Senior Business Consultant
 
 [Wireframes](https://theblog.adobe.com/everything-you-need-to-know-about-wireframes-and-prototypes/){:target="_blank"}
 
-### X	
-	
-### Y	
-	
-### Z	
-	
+### X
+
+### Y
+
+### Z
