@@ -24,6 +24,9 @@ subnav:
 - Your program area and service delivery challenge sufficiently meets the readiness criteria set by the lab.
 - Your leadership has engaged with the leadership team at the Exchange Lab to confirm the program and product is likely a good candidate for receiving support from the Exchange Lab.
 
+#### Applicable Standards:
+- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
+
 ## Define a Problem
 
 ## Confirm Priority

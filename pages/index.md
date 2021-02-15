@@ -25,6 +25,8 @@ Public servants come to us to *learn and practice* Agile and service delivery in
 
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and a thriving community of GovTech designers and developers.
 
+**This website is intended to guide some expectations for how The Exchange Lab operates. It will be updated as new operations practices approach some level of standardization, or are improved.**
+
 ## Our Mission
 Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery.
 
