@@ -6,14 +6,12 @@ layout: post
 sidenav: docs
 subnav:
 - text: Define a Problem
-  href: '#define'
+  href: '#define-a-problem'
 - text: Confirm Priority
-  href: '#priority'
+  href: '#confirm-priority'
 - text: Identify Capacity
-  href: '#capacity'
+  href: '#identify-capacity'
 ---
-# Apply to the lab
-
 #### Pre-conditions
 - You've spent some time getting familiar with the Service Design and Delivery standard, and service innovation methods, including Agile Delivery.
 - Your organization has not already developed a digital service that uses modern, digital delivery methods and has capacity to support your program.

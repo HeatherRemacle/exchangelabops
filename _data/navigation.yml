@@ -44,8 +44,6 @@ secondary:
 docs:
   - text: Exchange Lab Overview
     href: /
-  - text: Design & Delivery Standard
-    href: /standard
   - text: Apply to the Lab
     href: /apply
   - text: Align Your Org
@@ -60,31 +58,33 @@ docs:
     href: /bragsheet
   - text: Glossary
     href: /glossary
-
-standard:
   - text: Design & Delivery Standard
     href: /standard
-  - text: Understand users and their needs
+
+standard:
+  - text: 1. Design & Delivery Standard
+    href: /standard
+  - text: 2. Understand users and their needs
     href: /user-needs
-  - text: Establish the right team
+  - text: 3. Establish the right team
     href: /team
-  - text: Be consistent
+  - text: 4. Be consistent
     href: /consistent
-  - text: Design the service from start to finish
+  - text: 5. Design the service from start to finish
     href: /star-to-finish
-  - text: Ensure users succeed the first time
+  - text: 6. Ensure users succeed the first time
     href: /first-time
-  - text: Test the end-to-end service
+  - text: 7. Test the end-to-end service
     href: /test
-  - text: 7. Make it accessible
+  - text: 8. Make it accessible
     href: /accessible
-  - text: 8. Be agile and user-centred
+  - text: 9. Be agile and user-centred
     href: /agile
-  - text: 9. Use open standards and common platforms
+  - text: 10. Use open standards and common platforms
     href: /open
-  - text: 10. Embed privacy and security by design
+  - text: 11. Embed privacy and security by design
     href: /security-privacy
-  - text: 11. Encourage people to use digital services
+  - text: 12. Encourage people to use digital services
     href: /encourage-digital
 
 apply:
