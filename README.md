@@ -1,6 +1,6 @@
 # Exchange Lab Operations
 
-This repository is for the Github.io site that will document guidance for Exchange Lab Operations.
+This repository is for the Github.io site that will document guidance for Exchange Lab Operations. Visit the site here: [https://heatherremacle.github.io/exchangelabops/](https://heatherremacle.github.io/exchangelabops/)
 
 The primary audience for this website is a BC Public Servant that is seeking support with developing digital capabilities - talent, methods and tools - to improve the way they delivery services.
 
@@ -10,14 +10,14 @@ A secondary audience is our broader ecosystem of partners, including:
 
 This site also serves to support  reliable service by the Exchange Lab Team, who will continuously improve operations.
 
-## 
+##
 
 This operations guide is maintained by the [Exchange Lab team](https://dir.gov.bc.ca/gtds.cgi?show=Branch&organizationCode=CITZ&organizationalUnitCode=DPD%2dLab), a key node in the BC Developers's Exchange network.
 
 The organizational structure the Exchange Lab Team is part of in the Province of B.C. is
 - The Design and Delivery Branch, in
 - The Digital Platforms and Data Division, in
-- The Office of the Chief Information Officer, in 
+- The Office of the Chief Information Officer, in
 - the Ministry of Citizens' Services.
 
 ## Project Status
