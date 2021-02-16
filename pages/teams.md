@@ -1,7 +1,7 @@
 ---
 title: Exchange Lab Teams
 description: A list and description of the teams partnered with the Exchange Lab.
-permalink: /
+permalink: /teams
 
 layout: post
 sidenav: docs

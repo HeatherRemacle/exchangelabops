@@ -5,9 +5,14 @@ permalink: /deliver
 layout: post
 sidenav: docs
 subnav:
-  - text: Transition to Operations
-    href: '#transition-to-operations'
-
+  - text: Deliver Working Software
+    href: '#deliver-working-software'
+  - text: Test with Real Users
+    href: '#test-with-real-users'
+  - text: Refine Team Process
+    href: '#refine-team-process'
+  - text: LabOps Resources
+    href: '#labops-resources'
 ---
 During this phase, the team applies Agile methods and mindset to continuously improve their process and product during time-boxed sprints.
 
@@ -24,8 +29,6 @@ During this phase, the team applies Agile methods and mindset to continuously im
 #### Applicable Standards:
 - [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
 
-<hr>
-
 ## Deliver Working software
 Within a few months of sprinting, a team will have delivered open source code that results in working software that becomes increasingly feature rich. Teams are supported to apply Agile Scrum methods, with sprints occurring between 1-4 weeks.
 
@@ -33,16 +36,12 @@ Within a few months of sprinting, a team will have delivered open source code th
 - Troubleshooting challenges or barriers, including organizational development when frictions with Agile methods arise.
 - Promotion of stories about milestones and open demos to build interest in the team and awareness of the product.
 
-<hr>
-
 ## Test with Real users
 A Beta product is released in imperfect condition, but with enough features to test with users to be able to get applicable feedback.
 
 #### The Exchange Lab Offers:
 - Connection to experts who can support user research methods and practices.
 - Outreach to the network that can source users to engage.
-
-<hr>
 
 ## Refine Team Process
 
@@ -55,7 +54,7 @@ Agile practices include retrospectives so that a team can learn from each other 
 - Re-alignment sessions with the Alliance team and others in the home organization to support reflection on learning, and discover new needs as the team transitions towards sustainment.
 - Broader network insights related to trends in digital service delivery.
 
-## Exchange Lab Operations Methods and Tools Used during this Phase:
+## Exchange Lab Operations Resources:
 - Lunch-n-Lab (AKA Quarantine & Quaffee): hour long event for active teams and community mentors to share learning.
   - Facilitators Agenda
 - Re-alignment Session: 1-2 hours of facilitated reflection and sharing to discover how to optimize in the home stretch.

@@ -5,7 +5,7 @@ permalink: /sustain
 layout: post
 sidenav: docs
 subnav:
-  - text: Continuous Product Improvement
+  - text: Adopt Continuous Product Improvement
     href: '#continuous-product-improvement'
 
 ---
@@ -20,10 +20,14 @@ During this phase, the team and product are healthy enough that the focused atte
 - The product is meeting user and stakeholder expectations and can be brought to the Minister's awareness.
 - The Executive Sponsors and Alliance team and governance
 
-## Continuous Product Improvement
-In this play, a team is responsible for the continuous cycle of product enhancement and ongoing support, based on incorporating user feedback and operational metrics provided by monitoring. Continuous product improvement is a critical aspect of product management; it is aimed at improving work practices that focus on customer value adding tasks and minimizing non-value (defect remediation, partially done work, unnecessary features) activities.  
+## Adopt Continuous Product Improvement
+Continuous product improvement is a critical aspect of product management. We are shifting away from approaches where service products are built and procured as though they are final (i.e. a project with a fixed scope), or do not need to adapt to evolving user needs. The BC Public Service is improving policies and processes related to funding and organization design to support the adoption of continuous improvement for products.
 
-The work undertaken to this point offers insights and metrics that should be reviewed and actioned as part of the overall improvement and change management processes.
+More to come...
+
+
+
+
 
 
 

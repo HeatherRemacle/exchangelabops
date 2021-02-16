@@ -1,5 +1,5 @@
 ---
-title: Onboard & Discovery
+title: Onboard & Discover
 permalink: /discover
 
 layout: post
@@ -143,7 +143,7 @@ This could be anything. Often teams start with a basic front end that can surfac
 - Connections to corporate services and agencies that might support removing blockers the team has discovered.
 
 ## Applicable Standards in this Phase
-- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
+- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/standard.md#agile)
 
 <br/>
 [Back to the Top](#)
