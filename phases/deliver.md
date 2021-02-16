@@ -1,6 +1,6 @@
 ---
-title: Deliver
-permalink: /Deliver a Product
+title: Deliver a Product
+permalink: /deliver
 
 layout: post
 sidenav: docs

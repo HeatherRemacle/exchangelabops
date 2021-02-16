@@ -18,11 +18,13 @@ primary:
     href: /apply
   - text: 2. Align Your Org
     href: /align
-  - text: 3. Resource a Team
+  - text: 3. Onboard & Discover
+    href: /discover
+  - text: 4. Resource a Team
     href: /resource
-  - text: 4. Deliver a Product
+  - text: 5. Deliver a Product
     href: /deliver
-  - text: 5. Sutain Practices
+  - text: 6. Sutain Practices
     href: /sustain
   - text: Design & Delivery Standard
     href: /standard
@@ -51,11 +53,13 @@ docs:
     href: /apply
   - text: 2. Align Your Org
     href: /align
-  - text: 3. Resource a Team
+  - text: 3. Onboard & Discover
+    href: /discover
+  - text: 4. Resource a Team
     href: /resource
-  - text: 4. Deliver a Product
+  - text: 5. Deliver a Product
     href: /deliver
-  - text: 5. Sutain Practices
+  - text: 6. Sutain Practices
     href: /sustain
   - text: Governance
     href: /governance

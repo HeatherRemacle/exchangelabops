@@ -1,6 +1,6 @@
 ---
 title: Resource a Team
-permalink: /Resource
+permalink: /resource
 
 layout: post
 sidenav: docs

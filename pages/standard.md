@@ -1,5 +1,5 @@
 ---
-title: Service Design & Delivery Standard
+title: Design & Delivery Standard
 permalink: /standard
 
 layout: post
