@@ -67,15 +67,13 @@ docs:
     href: /governance
 
 standard:
-  - text: Home
-    href: /
-  - text: 1. Understand users and their needs
+  - text: 1. Understand users & their needs
     href: /user-needs
   - text: 2. Establish the right team
     href: /team
   - text: 3. Be consistent
     href: /consistent
-  - text: 4. Design the service from start to finish
+  - text: 4. Design from start to finish
     href: /start-to-finish
   - text: 5. Ensure users succeed the first time
     href: /first-time
@@ -83,11 +81,11 @@ standard:
     href: /test
   - text: 7. Make it accessible
     href: /accessible
-  - text: 8. Be agile and user-centred
+  - text: 8. Be agile & user-centred
     href: /agile
-  - text: 9. Use open standards and common platforms
+  - text: 9. Use open standards & common platforms
     href: /open
-  - text: 10. Embed privacy and security by design
+  - text: 10. Embed privacy & security by design
     href: /security-privacy
   - text: 11. Encourage people to use digital services
     href: /encourage-digital
