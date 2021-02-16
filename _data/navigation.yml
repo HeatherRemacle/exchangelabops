@@ -61,10 +61,10 @@ docs:
     href: /deliver
   - text: 6. Sutain Practices
     href: /sustain
+  - text: Design & Delivery Standard
+    href: /standard
   - text: Governance
     href: /governance
-  - text: Glossary
-    href: /glossary
 
 standard:
   - text: Home
@@ -115,14 +115,6 @@ resource:
 deliver:
   - text: Discover Where to Start
     href: /discover
-
-sustain:
-  - text: Org Design
-    href: /org-design
-
-bragsheet:
-  - text: Lab Bragsheet
-    href: /bragsheet
 
 glossary:
   - text: Glossary
