@@ -6,9 +6,9 @@ layout: post
 sidenav: standard
 subnav:
 - text: 1. Understand users & their needs
-  href: '/#user-needs'
+  href: '#user-needs'
 - text: 2. Establish the right team
-  href: '/#team'
+  href: '#team'
 - text: 3. Be consistent
   href: '#consistent'
 - text: 4. Design from start to finish
@@ -27,6 +27,12 @@ subnav:
   href: '#security-privacy'
 - text: 11. Encourage people to use digital services
   href: '#encourage-digital'
+- text: 12. Support those who need it
+  href: '#support'
+- text: 13. Measure performance
+  href: '#measure-performance'
+- text: 14. Test with the minister
+  href: '#test-with-the-minister'
 ---
 The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
 
@@ -367,7 +373,7 @@ At a minimum:
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
 
-## 8. Be agile and user-centred
+## 8. Be agile & user-centred
 
 Design and build the service using an agile and user-centred approach.
 Agile is an approach to building services that breaks the work into
@@ -416,7 +422,7 @@ At a minimum:
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
-## 9. Use open standards and common platforms
+## 9. Use open standards & common platforms
 
 Use open standards, open source software and common government platforms where available.
 
@@ -463,7 +469,7 @@ At a minimum:
   * Open data -
     [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
-## 10. Embed privacy and security by design
+## 10. Embed privacy & security by design
 
 Identify the data the service will use, store or create. Put appropriate
 legal, privacy and security measures in place so that users feel
