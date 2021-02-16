@@ -14,22 +14,23 @@
 primary:
   - text: Home
     href: /
-  - text: Apply to the Lab
+  - text: 1. Apply to the Lab
     href: /apply
-  - text: Align Your Org
+  - text: 2. Align Your Org
     href: /align
-  - text: Resource a Team
+  - text: 3. Resource a Team
     href: /resource
-  - text: Deliver a Product
+  - text: 4. Deliver a Product
     href: /deliver
-  - text: Sutain Practices
+  - text: 5. Sutain Practices
     href: /sustain
-  - text: Design & Delivery Standard
-    href: /standard
 
 secondary:
   - text: Home
     href: /
+    external: false
+  - text: Delivery Standard
+    href: https://github.com/bcgov/exchangelabops/standard
     external: false
   - text: GitHub Source
     href: https://github.com/bcgov/exchangelabops
@@ -37,29 +38,6 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: PDF Version
-    href: https://github.com/bcgov/exchangelabops/404
-    external: true
-
-docs:
-  - text: Exchange Lab Overview
-    href: /
-  - text: Apply to the Lab
-    href: /apply
-  - text: Align Your Org
-    href: /align
-  - text: Resource a Team
-    href: /resource
-  - text: Deliver a Product
-    href: /deliver
-  - text: Sutain Practices
-    href: /sustain
-  - text: Governance
-    href: /governance
-  - text: Glossary
-    href: /glossary
-  - text: Design & Delivery Standard
-    href: /standard
 
 standard:
   - text: 1. Design & Delivery Standard
@@ -86,42 +64,6 @@ standard:
     href: /security-privacy
   - text: 12. Encourage people to use digital services
     href: /encourage-digital
-
-apply:
-  - text: Define a Problem
-    href: /define
-  - text: Confirm Priority
-    href: /Priority
-  - text: Identify Capacity
-    href: /capacity
-
-align:
-  - text: Get Training
-    href: /training
-  - text: Bring Everyone Together
-    href: /together
-  - text: Define Governance
-    href: /governance
-
-resource:
-  - text: Align Your Org
-    href: /align
-
-deliver:
-  - text: Discover Where to Start
-    href: /discover
-
-sustain:
-  - text: Org Design
-    href: /org-design
-
-bragsheet:
-  - text: Lab Bragsheet
-    href: /bragsheet
-
-glossary:
-  - text: Glossary
-    href: /glossary
 
 footer:
   - text: Home
@@ -150,3 +92,7 @@ footer:
 feedback:
   - text: Provide Feedback
     href: /feedback
+
+Standard:
+      - text: Design & Delivery Standard
+        href: /standard
