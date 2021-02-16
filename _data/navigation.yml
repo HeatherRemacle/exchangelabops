@@ -24,10 +24,11 @@ primary:
     href: /deliver
   - text: 5. Sutain Practices
     href: /sustain
+  - text: Design & Delivery Standard
+    href: /standard
   - text: Governance
     href: /governance
-  - text: Glossary
-    href: /glossary
+
 
 secondary:
   - text: Home
@@ -39,8 +40,8 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: Design & Delivery Standard
-    href: /standard
+  - text: Glossary
+    href: /glossary
     external: false
 
 docs:
@@ -65,27 +66,27 @@ standard:
   - text: Home
     href: /
   - text: 1. Understand users and their needs
-    href: /'#user-needs'
+    href: /user-needs
   - text: 2. Establish the right team
-    href: /'#team'
+    href: /team
   - text: 3. Be consistent
-    href: /'#consistent'
+    href: /consistent
   - text: 4. Design the service from start to finish
-    href: /'#start-to-finish'
+    href: /start-to-finish
   - text: 5. Ensure users succeed the first time
-    href: /'#first-time'
+    href: /first-time
   - text: 6. Test the end-to-end service
-    href: /'#test'
+    href: /test
   - text: 7. Make it accessible
-    href: /'#accessible'
+    href: /accessible
   - text: 8. Be agile and user-centred
-    href: /'#agile'
+    href: /agile
   - text: 9. Use open standards and common platforms
-    href: /'#open'
+    href: /open
   - text: 10. Embed privacy and security by design
-    href: /'#security-privacy'
+    href: /security-privacy
   - text: 11. Encourage people to use digital services
-    href: /'#encourage-digital'
+    href: /encourage-digital
 
 apply:
   - text: Define a Problem

@@ -12,19 +12,20 @@ subnav:
     href: '#delivery-model'
   - text: Delivery Community
     href: '#delivery-community'
-  - text: Design and Delivery Standard
-    href: '#design-and-delivery-standard'
+
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
-We contribute to the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
-We apply generally accepted modern [standards for service design and delivery](/standard) pioneered, practiced, proven and continuously improving through the efforts of other government digital service agencies.
-We accelerate learning new ways of working through practice and delivery.
-We embrace experimentation and collaboration in the open.
 
+We contribute to the **[goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).**
 
-Public servants come to us to *learn and practice* Agile and service delivery innovation mindset and methods.
+We apply generally accepted modern **[standards for service design and delivery](/standard)** pioneered, practiced, proven and continuously improving through the efforts of other government digital service agencies.
 
-We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and a thriving community of GovTech designers and developers.
+We accelerate **learning new ways of working** through practice and delivery.
+
+We embrace **experimentation and collaboration in the open.**
+
+We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
+
 
 **This website is intended to guide some expectations for how The Exchange Lab operates. It will be updated as new operations practices approach some level of standardization, or are improved.**
 
@@ -79,26 +80,6 @@ The Exchange Lab is an anchor in a broader "Digital Delivery Network," which inc
 - online engagement platforms.
 
 #### [--> Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
-<hr>
-
-## Service Design and Delivery Standard
-
-The Exchange community adopts
-
-These standards are intended to guide service delivery teams to create and run great public services. This likely includes digital channels, but ultimately  should be inclusive and accessible multi-channel delivery.
-
-As an early adopter of other service standards, we've gratefully borrowed content from the UK Service Standard and the Ontario Digital Service Standard. At this time, the Service Design and Delivery Standard we present here is intended only as a practical guide. We do envision that it will be improved and adopted for broader use, with input from those who apply it.
-
-#### 1: Understand users and their needs
-#### 2. Establish the right team
-#### 3. Be consistent
-#### 4. Design the service from start to finish
-#### 5. Ensure users succeed the first time
-#### 6. Test the end-to-end service
-#### 7. Make it accessible
-#### 8. Be agile and user-centred
-#### 9. Use open standards and common platforms
-#### 10. Embed privacy and security by design
 
 <br/>
 [Back to the Top](#)
