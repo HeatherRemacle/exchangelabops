@@ -68,9 +68,9 @@ docs:
 
 standard:
   - text: 1. Understand users & their needs
-    href: '#user-needs'
+    href: '/standard.md#user-needs'
   - text: 2. Establish the right team
-    href: '#team'
+    href: '/standard.md#team'
   - text: 3. Be consistent
     href: '#consistent'
   - text: 4. Design from start to finish
