@@ -9,7 +9,6 @@ subnav:
     href: '#transition-to-operations'
 
 ---
-# Deliver a Product
 During this phase, the team applies Agile methods and mindset to continuously improve their process and product during time-boxed sprints.
 
 #### Pre-conditions

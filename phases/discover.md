@@ -1,5 +1,5 @@
 ---
-title: Onboarding and Discovery
+title: Onboarding & Discovery
 permalink: /Onboarding-and-discovery
 
 layout: post
@@ -12,7 +12,6 @@ subnav:
   - text: Develop an Alpha Product
     href: '#develop-alpha'
 ---
-# Onboarding and Discovery
 During this phase, the new team is introduced the Exchange Lab community and broader Digital Delivery Network. They are supported to find their way and get help from the community as questions arise. An initial roadmap and Alpha product signal early findings and intentions and the team is supported to receive feedback from peers and their executive.
 
 #### Pre-conditions

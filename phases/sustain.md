@@ -1,5 +1,5 @@
 ---
-title: Sustain the Team and Product
+title: Sustain the Team & Product
 permalink: /sustain
 
 layout: post
@@ -9,8 +9,6 @@ subnav:
     href: '#continuous-product-improvement'
 
 ---
-#Sustain the Team and Product
-
 During this phase, the team and product are healthy enough that the focused attention of the Lab Operations team is directed to the broader organization to support sustainment.
 
 #### Pre-conditions

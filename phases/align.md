@@ -12,8 +12,6 @@ subnav:
   - text: Define Governance
     href: '#governance'
 ---
-# Align Your Organization
-
 During this phase, people connected to a Lab partner team are brought together to align to the problem and the approach to solving it.
 
 The Exchange Lab has experience assessing the context within an organization that might enable or disable success of developing new ways of working. It is critical that frictions within an organization related to the program are surfaced before a team is formed. People within the organization should be empowered to resolve these frictions, with coaching and leadership from the Lab.
@@ -32,7 +30,7 @@ The Exchange Lab has experience assessing the context within an organization tha
 - [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
 
 ## Define Governance
-Governance looks different than 
+Governance looks different than
 
 ## Get Training
 
