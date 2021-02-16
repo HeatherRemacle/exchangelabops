@@ -5,7 +5,7 @@ permalink: /standard
 layout: post
 sidenav: standard
 subnav:
-- text: 1. Understand users & their needs
+- text: 1. Understand users
   href: '#user-needs'
 - text: 2. Establish the right team
   href: '#team'

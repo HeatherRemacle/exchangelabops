@@ -16,9 +16,9 @@ subnav:
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
-We contribute to the **[goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).**
+We contribute to the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
 
-We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern **[standards for service design and delivery](/standard)** pioneered and practiced by other government digital service agencies. :raised_hands:
+We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard) pioneered and practiced by other government digital service agencies.
 
 We partner with government programs to accelerate **learning new ways of working** through practice and delivery.
 
@@ -26,7 +26,7 @@ We embrace **experimentation and collaboration in the open.**
 
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
 
->This website is intended to guide expectations for how The Exchange Lab operates. It will be updated as we improve operations practices.
+> This website is intended to guide expectations for how The Exchange Lab operates. It will be updated as we improve operations practices.
 
 ## Our Mission
 Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery.
