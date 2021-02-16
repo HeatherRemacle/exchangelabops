@@ -24,6 +24,10 @@ primary:
     href: /deliver
   - text: 5. Sutain Practices
     href: /sustain
+  - text: Governance
+    href: /governance
+  - text: Glossary
+    href: /glossary
 
 secondary:
   - text: Home
@@ -35,7 +39,7 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: 1. Design & Delivery Standard
+  - text: Design & Delivery Standard
     href: /standard
     external: false
 
