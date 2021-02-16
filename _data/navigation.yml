@@ -36,15 +36,15 @@ secondary:
   - text: Home
     href: /
     external: false
-  - text: GitHub Source
-    href: https://github.com/bcgov/exchangelabops
-    external: true
-  - text: Provide Feedback
-    href: /feedback
-    external: false
   - text: Glossary
     href: /glossary
     external: false
+  - text: Provide Feedback
+    href: /feedback
+    external: false
+  - text: GitHub Source
+    href: https://github.com/bcgov/exchangelabops
+    external: true
 
 docs:
   - text: Exchange Lab Overview
