@@ -3,7 +3,7 @@ title: Glossary of Useful Links
 permalink: /glossary
 
 layout: post
-sidenav: docs
+sidenav: glossary
 subnav:
   - text: A-F
     href: '#a'

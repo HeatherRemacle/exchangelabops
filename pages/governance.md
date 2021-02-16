@@ -1,7 +1,7 @@
 ---
 title: Exchange Lab Operations (Alpha)
 description: This is a main page.
-permalink: /
+permalink: /governance
 
 layout: post
 sidenav: docs

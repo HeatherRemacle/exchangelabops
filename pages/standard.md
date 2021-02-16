@@ -4,7 +4,29 @@ permalink: /standard
 
 layout: post
 sidenav: standard
-
+subnav:
+- text: 1. Understand users & their needs
+  href: '/#user-needs'
+- text: 2. Establish the right team
+  href: '/#team'
+- text: 3. Be consistent
+  href: '#consistent'
+- text: 4. Design from start to finish
+  href: '#start-to-finish'
+- text: 5. Ensure users succeed the first time
+  href: '#first-time'
+- text: 6. Test the end-to-end service
+  href: '#test'
+- text: 7. Make it accessible
+  href: '#accessible'
+- text: 8. Be agile & user-centred
+  href: '#agile'
+- text: 9. Use open standards & common platforms
+  href: '#open'
+- text: 10. Embed privacy & security by design
+  href: '#security-privacy'
+- text: 11. Encourage people to use digital services
+  href: '#encourage-digital'
 ---
 The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
 

@@ -67,52 +67,8 @@ docs:
     href: /governance
 
 standard:
-  - text: 1. Understand users & their needs
-    href: '/standard.md#user-needs'
-  - text: 2. Establish the right team
-    href: '/standard.md#team'
-  - text: 3. Be consistent
-    href: '#consistent'
-  - text: 4. Design from start to finish
-    href: '#start-to-finish'
-  - text: 5. Ensure users succeed the first time
-    href: '#first-time'
-  - text: 6. Test the end-to-end service
-    href: '#test'
-  - text: 7. Make it accessible
-    href: '#accessible'
-  - text: 8. Be agile & user-centred
-    href: '#agile'
-  - text: 9. Use open standards & common platforms
-    href: '#open'
-  - text: 10. Embed privacy & security by design
-    href: '#security-privacy'
-  - text: 11. Encourage people to use digital services
-    href: '#encourage-digital'
-
-apply:
-  - text: Define a Problem
-    href: /define
-  - text: Confirm Priority
-    href: /Priority
-  - text: Identify Capacity
-    href: /capacity
-
-align:
-  - text: Get Training
-    href: /training
-  - text: Bring Everyone Together
-    href: /together
-  - text: Define Governance
-    href: /governance
-
-resource:
-  - text: Align Your Org
-    href: /align
-
-deliver:
-  - text: Discover Where to Start
-    href: /discover
+    - text: Design & Delivery Standard
+      href: /standard
 
 glossary:
   - text: Glossary
@@ -143,7 +99,5 @@ footer:
     external: true
 
 feedback:
-  - text: Home
-    href: /home
   - text: Provide Feedback
     href: /feedback
