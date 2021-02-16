@@ -14,8 +14,6 @@ subnav:
     href: '#design-and-delivery-standard'
   - text: Delivery Community
     href: '#delivery-community'
-  - text: Service Design and Delivery Standard
-    href: '#Service-design-and-delivery-standard'
 ---
 We're known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service. We embrace experimentation and collaboration. We offer services specifically designed to accelerate learning new ways of working through practice and delivery. We're contributing to the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
 

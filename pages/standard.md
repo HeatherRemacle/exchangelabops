@@ -1,34 +1,19 @@
 ---
-title: Design & Delivery Standard
+title: Service Design & Delivery Standard
 permalink: /standard
 
 layout: post
-sidenav: docs
-subnav:
-  - text: 1. Understand users and their needs
-    href: /'#user-needs'
-  - text: 2. Establish the right team
-    href: /'#team'
-  - text: 3. Be consistent
-    href: /'#consistent'
-  - text: 4. Design the service from start to finish
-    href: /'#start-to-finish'
-  - text: 5. Ensure users succeed the first time
-    href: /'#first-time'
-  - text: 6. Test the end-to-end service
-    href: /'#test'
-  - text: 7. Make it accessible
-    href: /'#accessible'
-  - text: 8. Be agile and user-centred
-    href: /'#agile'
-  - text: 9. Use open standards and common platforms
-    href: /'#open'
-  - text: 10. Embed privacy and security by design
-    href: /'#security-privacy'
-  - text: 11. Encourage people to use digital services
-    href: /'#encourage-digital'
+sidenav: standard
 
 ---
+The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
+
+These standards are intended to guide service delivery teams to create and run great public services that optimize digital channels. Excellent services are inclusive and may likely include integrated, multi-channel delivery.
+
+As an early adopter of other service standards, we've gratefully borrowed content from the UK Service Standard and the Ontario Digital Service Standard. At this time, the Service Design and Delivery Standard we present here is intended only as a practical guide. We do envision that it will be improved and adopted for broader use, with input from those who apply it.
+
+<hr>
+
 ## 1. Understand users and their needs
 
 Start with users to define the problem. Do research to develop a deep understanding of who the users are, how they behave and what that means for the design of the service.

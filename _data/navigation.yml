@@ -29,41 +29,95 @@ secondary:
   - text: Home
     href: /
     external: false
-  - text: Delivery Standard
-    href: https://github.com/bcgov/exchangelabops/standard
-    external: false
   - text: GitHub Source
     href: https://github.com/bcgov/exchangelabops
     external: true
   - text: Provide Feedback
     href: /feedback
     external: false
-
-standard:
   - text: 1. Design & Delivery Standard
     href: /standard
-  - text: 2. Understand users and their needs
-    href: /user-needs
-  - text: 3. Establish the right team
-    href: /team
-  - text: 4. Be consistent
-    href: /consistent
-  - text: 5. Design the service from start to finish
-    href: /star-to-finish
-  - text: 6. Ensure users succeed the first time
-    href: /first-time
-  - text: 7. Test the end-to-end service
-    href: /test
-  - text: 8. Make it accessible
-    href: /accessible
-  - text: 9. Be agile and user-centred
-    href: /agile
-  - text: 10. Use open standards and common platforms
-    href: /open
-  - text: 11. Embed privacy and security by design
-    href: /security-privacy
-  - text: 12. Encourage people to use digital services
-    href: /encourage-digital
+    external: false
+
+docs:
+  - text: Exchange Lab Overview
+    href: /
+  - text: 1. Apply to the Lab
+    href: /apply
+  - text: 2. Align Your Org
+    href: /align
+  - text: 3. Resource a Team
+    href: /resource
+  - text: 4. Deliver a Product
+    href: /deliver
+  - text: 5. Sutain Practices
+    href: /sustain
+  - text: Governance
+    href: /governance
+  - text: Glossary
+    href: /glossary
+
+standard:
+  - text: Home
+    href: /
+  - text: 1. Understand users and their needs
+    href: /'#user-needs'
+  - text: 2. Establish the right team
+    href: /'#team'
+  - text: 3. Be consistent
+    href: /'#consistent'
+  - text: 4. Design the service from start to finish
+    href: /'#start-to-finish'
+  - text: 5. Ensure users succeed the first time
+    href: /'#first-time'
+  - text: 6. Test the end-to-end service
+    href: /'#test'
+  - text: 7. Make it accessible
+    href: /'#accessible'
+  - text: 8. Be agile and user-centred
+    href: /'#agile'
+  - text: 9. Use open standards and common platforms
+    href: /'#open'
+  - text: 10. Embed privacy and security by design
+    href: /'#security-privacy'
+  - text: 11. Encourage people to use digital services
+    href: /'#encourage-digital'
+
+apply:
+  - text: Define a Problem
+    href: /define
+  - text: Confirm Priority
+    href: /Priority
+  - text: Identify Capacity
+    href: /capacity
+
+align:
+  - text: Get Training
+    href: /training
+  - text: Bring Everyone Together
+    href: /together
+  - text: Define Governance
+    href: /governance
+
+resource:
+  - text: Align Your Org
+    href: /align
+
+deliver:
+  - text: Discover Where to Start
+    href: /discover
+
+sustain:
+  - text: Org Design
+    href: /org-design
+
+bragsheet:
+  - text: Lab Bragsheet
+    href: /bragsheet
+
+glossary:
+  - text: Glossary
+    href: /glossary
 
 footer:
   - text: Home
@@ -92,7 +146,3 @@ footer:
 feedback:
   - text: Provide Feedback
     href: /feedback
-
-Standard:
-      - text: Design & Delivery Standard
-        href: /standard
