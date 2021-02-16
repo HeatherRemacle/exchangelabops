@@ -5,12 +5,12 @@ permalink: /align
 layout: post
 sidenav: docs
 subnav:
+  - text: Define Governance
+    href: '#governance'
   - text: Get Training
     href: '#training'
   - text: Bring Everyone Together
     href: '#together'
-  - text: Define Governance
-    href: '#governance'
 ---
 During this phase, people connected to a Lab partner team are brought together to align to the problem and the approach to solving it.
 
@@ -30,7 +30,9 @@ The Exchange Lab has experience assessing the context within an organization tha
 - [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
 
 ## Define Governance
-Governance looks different than
+Governance is different for Agile delivery products that continuously improve than we typically create for projects that have an end date with a fixed scope. The Lab will work with the program area to understand the current expectations related to governance and how we can work to adjust expectations and structures to be aligned to Agile methods.
+
+See the [Governance section](https://heatherremacle.github.io/exchangelabops/governance) for more details on what we have learned works to date.
 
 ## Get Training
 
@@ -63,10 +65,6 @@ Sessions should include everyone that will be interfacing with the PO on a regul
 - Alignment session design and facilitation
 - A Partnership Agreement template
 - Guidance for ongoing alignment activities
-
-
-
-
 
 <br/>
 [Back to the Top](#)
