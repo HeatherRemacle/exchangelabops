@@ -14,6 +14,15 @@
 primary:
   - text: Home
     href: /
+  - text: Partner with the Lab
+    href: /partner
+  - text: Design & Delivery Standard
+    href: /standard
+  - text: Governance
+    href: /governance
+
+
+partner:
   - text: 1. Apply to the Lab
     href: /apply
   - text: 2. Align Your Org
@@ -25,12 +34,6 @@ primary:
   - text: 5. Deliver a Product
     href: /deliver
   - text: 6. Sutain Practices
-    href: /sustain
-  - text: Design & Delivery Standard
-    href: /standard
-  - text: Governance
-    href: /governance
-
 
 secondary:
   - text: Home
@@ -49,18 +52,8 @@ secondary:
 docs:
   - text: Exchange Lab Overview
     href: /
-  - text: 1. Apply to the Lab
-    href: /apply
-  - text: 2. Align Your Org
-    href: /align
-  - text: 3. Onboard & Discover
-    href: /discover
-  - text: 4. Resource a Team
-    href: /resource
-  - text: 5. Deliver a Product
-    href: /deliver
-  - text: 6. Sutain Practices
-    href: /sustain
+  - text: Partner with the Exchange
+    href: /partner
   - text: Design & Delivery Standard
     href: /standard
   - text: Governance

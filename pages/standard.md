@@ -12,15 +12,15 @@ subnav:
 - text: 3. Be consistent
   href: '#consistent'
 - text: 4. Design from start to finish
-  href: '#start-to-finish'
+  href: '#design-from-start-to-finish'
 - text: 5. Ensure users succeed the first time
-  href: '#first-time'
+  href: '#ensure-users-succeed-the-first-time'
 - text: 6. Test the end-to-end service
-  href: '#test'
+  href: '#test-the-end-to-end-service'
 - text: 7. Make it accessible
-  href: '#accessible'
-- text: 8. Be agile & user-centred
-  href: '#agile'
+  href: '#make-it-accessible'
+- text: 8. Be agile and user-centred
+  href: '#be-agile-and-user-centred'
 - text: 9. Use open standards & common platforms
   href: '#open'
 - text: 10. Embed privacy & security by design

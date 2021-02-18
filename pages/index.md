@@ -12,6 +12,8 @@ subnav:
     href: '#delivery-model'
   - text: Delivery Community
     href: '#delivery-community'
+  - text: About Us
+    href: '#about-us'
 
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
@@ -75,6 +77,10 @@ The Exchange Lab is an anchor in a broader "Digital Delivery Network," which inc
 - online engagement platforms.
 
 [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
+
+## About Us
+
+History of the Lab and our current team roster to come...
 
 <br/>
 [Back to the Top](#)

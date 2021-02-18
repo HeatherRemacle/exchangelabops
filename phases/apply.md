@@ -12,7 +12,7 @@ subnav:
 - text: Identify Capacity
   href: '#identify-capacity'
 ---
-There is increasing demand in the BC Public Service to adopt Digital Principles for service delivery. The incredible results achieved by teams supported by the Exchange Lab 
+During this phase, a program area becomes more clear on what they need to solve for and how they will shift their approach in partnering with the Exchange.
 
 #### Pre-conditions
 - You've spent some time getting familiar with the Service Design and Delivery standard, and service innovation methods, including Agile Delivery.
