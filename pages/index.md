@@ -14,6 +14,8 @@ subnav:
     href: '#delivery-community'
   - text: About Us
     href: '#about-us'
+  - text: Lab Operations resources
+    href: /resources/
 
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.

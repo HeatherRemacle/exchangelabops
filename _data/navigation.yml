@@ -62,10 +62,14 @@ docs:
     href: /governance
 
 standard:
+    - text: Exchange Lab Overview
+      href: /
     - text: Design & Delivery Standard
       href: /standard
 
 glossary:
+  - text: Exchange Lab Overview
+    href: /
   - text: Glossary
     href: /glossary
 
@@ -94,5 +98,7 @@ footer:
     external: true
 
 feedback:
+  - text: Exchange Lab Overview
+    href: /
   - text: Provide Feedback
     href: /feedback

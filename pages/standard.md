@@ -14,7 +14,7 @@ subnav:
 - text: 4. Design from start to finish
   href: '#design-from-start-to-finish'
 - text: 5. Ensure users succeed the first time
-  href: '#ensure-users-succeed-the-first-time'
+  href: '#5.-ensure-users-succeed-the-first-time'
 - text: 6. Test the end-to-end service
   href: '#test-the-end-to-end-service'
 - text: 7. Make it accessible
