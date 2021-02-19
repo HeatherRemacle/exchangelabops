@@ -14,25 +14,25 @@ subnav:
   - text: Design from start to finish
     href: '#4-design-from-start-to-finish'
   - text: Users succeed the first time
-    href: '#users-succeed-the-first-time'
-  - text: Test the end-to-end service
-    href: '#test-the-end-to-end-service'
+    href: '#5-users-succeed-the-first-time'
+  - text: Test end-to-end
+    href: '#6-test-end-to-end'
   - text: 7. Make it accessible
-    href: '#make-it-accessible'
+    href: '#7-make-it-accessible'
   - text: 8. Be agile and user-centred
-    href: '#be-agile-and-user-centred'
+    href: '#8-be-agile-and-user-centred'
   - text: 9. Use open standards & common platforms
-    href: '#open'
-  - text: 10. Embed privacy & security by design
-    href: '#security-privacy'
+    href: '#9-use-open-standards-&-common-platforms'
+  - text: 10. Embed privacy & security
+    href: '#10-embed-privacy-and-security'
   - text: 11. Encourage people to use digital services
-    href: '#encourage-digital'
+    href: '#11-encourage-people-to-use-digital-services'
   - text: 12. Support those who need it
-    href: '#support'
+    href: '#12-support-those-who-need-it'
   - text: 13. Measure performance
-    href: '#measure-performance'
+    href: '#13-measure-performance'
   - text: 14. Test with the minister
-    href: '#test-with-the-minister'
+    href: '#14-test-with-the-minister'
 ---
 The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
 
@@ -42,7 +42,7 @@ As an early adopter of other service standards, we've gratefully borrowed conten
 
 <hr>
 
-## 1: Understand users and their needs
+## 1. Understand users
 
 Start with users to define the problem. Do research to develop a deep understanding of who the users are, how they behave and what that means for the design of the service.
 
@@ -107,7 +107,7 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
 
-## 2: Establish the right team
+## 2. Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
 and continuously improve the digital service, led by a skilled product
@@ -202,7 +202,7 @@ gov.bc.ca is the government's flagship website. At a minimum:
   [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
 * Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
 
-## 4. Design the service from start to finish
+## 4. Design from start to finish
 
 Understand what users are trying to achieve and the steps required to
 complete that task. Every encounter should move the user closer towards
@@ -248,7 +248,7 @@ At a minimum:
 * use analytics data in the user research plan
 * show any problems found through testing and proposed solutions
 
-## 5. Ensure users succeed the first time
+## 5. Users succeed the first time
 
 Using a government service should be an intuitive and stress-free
 experience. Good service should be so simple that users can succeed on
@@ -292,7 +292,7 @@ At a minimum:
   didn’t complete the task they set out to do online (e.g. renew a
   driver’s licence)
 
-## 6. Test the end-to-end service
+## 6. Test end-to-end
 
 Continuously test the end-to-end service to ensure that it remains
 available to users and free of errors.
