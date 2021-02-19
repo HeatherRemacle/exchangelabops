@@ -3,7 +3,7 @@ title: Sustain the Team & Product
 permalink: /sustain
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: Adopt Continuous Product Improvement
     href: '#continuous-product-improvement'

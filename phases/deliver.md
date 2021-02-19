@@ -3,7 +3,7 @@ title: Deliver a Product
 permalink: /deliver
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: Deliver Working Software
     href: '#deliver-working-software'

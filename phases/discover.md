@@ -3,7 +3,7 @@ title: Onboard & Discover
 permalink: /discover
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: Orient the Team
     href: '#orient-the-team'

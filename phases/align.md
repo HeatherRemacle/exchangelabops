@@ -3,7 +3,7 @@ title: Align Your Org
 permalink: /align
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: Define Governance
     href: '#governance'

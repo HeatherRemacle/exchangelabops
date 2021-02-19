@@ -3,7 +3,7 @@ title: Resource a Team
 permalink: /resource
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: To come
     href: '#to-come'

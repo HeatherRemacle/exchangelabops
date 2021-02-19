@@ -3,7 +3,7 @@ title: Apply to the Lab
 permalink: /apply
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
 - text: Define a Problem
   href: '#define-a-problem'
