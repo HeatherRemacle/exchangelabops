@@ -4,6 +4,8 @@ permalink: /partner
 
 layout: post
 sidenav: partner
+subnav:
+  - text: Key Resources
 ---
 Is your service delivery program ready to apply the Digital Principles and mindset and methods of Agile product development?
 
@@ -25,11 +27,29 @@ Learn more about what happens in each of the phases a program goes through durin
 3. [Onboard & Discover](/discover)
 4. [Resource a Team](/resource)
 5. [Deliver a Product](/deliver)
-6. [Sutain Practices](/sustain)
+6. [Sustain Practices](/sustain)
 
 ## Key resources
-- Partnership Agreement Template (.docx)
+
+#### Before you call us: Challenge Brief Template
+When potential partners call for help, we always ask:
+> "What do you think the problem is you need to solve?"
+
+> "Who are you solving the problem(s) for?"
+
+> "What have you done to inspect the nature of the problem(s)?"
+
+> "What permission and capacity do you have to address the problem with so far?"
+
+We don't want your business requirements document (unless we are having a bon fire.) Bring us the most succinct explanation of why this complex problem is important and why you are stuck and need help. Ideally, complete a "Challenge brief" so that we can circulate this insight to our Digital Delivery Network partners.
 - Challenge Brief template (.docx)
+
+#### Partnership Agreement Template
+This agreement is dated by the Lab and the program area during the [onboarding phase](/discover). It is useful to read if you are considering partnership with the Lab, and may be modified to suit unique considerations for each partnership.
+- Partnership Agreement Template (.docx)
+
+
+
 
 <br/>
 [Back to the Top](#)
