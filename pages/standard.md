@@ -5,17 +5,17 @@ permalink: /standard
 layout: post
 sidenav: standard
 subnav:
-  - text: 1. Understand users
-    href: '#understand-users'
-  - text: 2. Establish the right team
-    href: '#establish-the-right-team'
-  - text: 3. Be consistent
-    href: '#be-consistent'
-  - text: 4. Design from start to finish
-    href: '#design-from-start-to-finish'
-  - text: 5. Ensure users succeed the first time
-    href: '#ensure-users-succeed-the-first-time'
-  - text: 6. Test the end-to-end service
+  - text: Understand users
+    href: '#1-understand-users'
+  - text: Establish the right team
+    href: '#2-establish-the-right-team'
+  - text: Be consistent
+    href: '#3-be-consistent'
+  - text: Design from start to finish
+    href: '#4-design-from-start-to-finish'
+  - text: Users succeed the first time
+    href: '#users-succeed-the-first-time'
+  - text: Test the end-to-end service
     href: '#test-the-end-to-end-service'
   - text: 7. Make it accessible
     href: '#make-it-accessible'
@@ -42,7 +42,7 @@ As an early adopter of other service standards, we've gratefully borrowed conten
 
 <hr>
 
-## 1. Understand users and their needs
+## 1: Understand users and their needs
 
 Start with users to define the problem. Do research to develop a deep understanding of who the users are, how they behave and what that means for the design of the service.
 
@@ -107,7 +107,7 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
 
-## 2. Establish the right team
+## 2: Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
 and continuously improve the digital service, led by a skilled product
