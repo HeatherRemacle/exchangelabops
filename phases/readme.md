@@ -4,19 +4,6 @@ permalink: /partner
 
 layout: post
 sidenav: partner
-
-  subnav:
-  - text: 1. Apply to the Lab
-    href: /apply
-  - text: 2. Align Your Org
-    href: /align
-  - text: 3. Onboard & Discover
-    href: /discover
-  - text: 4. Resource a Team
-    href: /resource
-  - text: 5. Deliver a Product
-    href: /deliver
-  - text: 6. Sutain Practices
 ---
 Is your service delivery program ready to apply the Digital Principles and mindset and methods of Agile product development?
 

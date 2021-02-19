@@ -5,34 +5,34 @@ permalink: /standard
 layout: post
 sidenav: standard
 subnav:
-- text: 1. Understand users
-  href: '#user-needs'
-- text: 2. Establish the right team
-  href: '#team'
-- text: 3. Be consistent
-  href: '#consistent'
-- text: 4. Design from start to finish
-  href: '#design-from-start-to-finish'
-- text: 5. Ensure users succeed the first time
-  href: '#ensure-users-succeed-the-first-time'
-- text: 6. Test the end-to-end service
-  href: '#test-the-end-to-end-service'
-- text: 7. Make it accessible
-  href: '#make-it-accessible'
-- text: 8. Be agile and user-centred
-  href: '#be-agile-and-user-centred'
-- text: 9. Use open standards & common platforms
-  href: '#open'
-- text: 10. Embed privacy & security by design
-  href: '#security-privacy'
-- text: 11. Encourage people to use digital services
-  href: '#encourage-digital'
-- text: 12. Support those who need it
-  href: '#support'
-- text: 13. Measure performance
-  href: '#measure-performance'
-- text: 14. Test with the minister
-  href: '#test-with-the-minister'
+  - text: 1. Understand users
+    href: '#understand-users'
+  - text: 2. Establish the right team
+    href: '#establish-the-right-team'
+  - text: 3. Be consistent
+    href: '#be-consistent'
+  - text: 4. Design from start to finish
+    href: '#design-from-start-to-finish'
+  - text: 5. Ensure users succeed the first time
+    href: '#ensure-users-succeed-the-first-time'
+  - text: 6. Test the end-to-end service
+    href: '#test-the-end-to-end-service'
+  - text: 7. Make it accessible
+    href: '#make-it-accessible'
+  - text: 8. Be agile and user-centred
+    href: '#be-agile-and-user-centred'
+  - text: 9. Use open standards & common platforms
+    href: '#open'
+  - text: 10. Embed privacy & security by design
+    href: '#security-privacy'
+  - text: 11. Encourage people to use digital services
+    href: '#encourage-digital'
+  - text: 12. Support those who need it
+    href: '#support'
+  - text: 13. Measure performance
+    href: '#measure-performance'
+  - text: 14. Test with the minister
+    href: '#test-with-the-minister'
 ---
 The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
 
