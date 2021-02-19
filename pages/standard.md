@@ -17,21 +17,21 @@ subnav:
     href: '#5-users-succeed-the-first-time'
   - text: Test end-to-end
     href: '#6-test-end-to-end'
-  - text: 7. Make it accessible
+  - text: Make it accessible
     href: '#7-make-it-accessible'
-  - text: 8. Be agile and user-centred
+  - text: Be agile and user-centred
     href: '#8-be-agile-and-user-centred'
-  - text: 9. Use open standards & common platforms
-    href: '#9-use-open-standards-&-common-platforms'
-  - text: 10. Embed privacy & security
+  - text: Use open standards and common platforms
+    href: '#9-use-open-standards-and-common-platforms'
+  - text: Embed privacy and security
     href: '#10-embed-privacy-and-security'
-  - text: 11. Encourage people to use digital services
+  - text: Encourage people to use digital services
     href: '#11-encourage-people-to-use-digital-services'
-  - text: 12. Support those who need it
+  - text: Support those who need it
     href: '#12-support-those-who-need-it'
-  - text: 13. Measure performance
+  - text: Measure performance
     href: '#13-measure-performance'
-  - text: 14. Test with the minister
+  - text: Test with the minister
     href: '#14-test-with-the-minister'
 ---
 The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
@@ -373,7 +373,7 @@ At a minimum:
 * [*Ontario Human Rights Code*](https://www.ontario.ca/laws/statute/90h19)
 * [*Ontarians with Disabilities Act*](https://www.ontario.ca/laws/statute/01o32)
 
-## 8. Be agile & user-centred
+## 8. Be agile and user-centred
 
 Design and build the service using an agile and user-centred approach.
 Agile is an approach to building services that breaks the work into
@@ -422,9 +422,9 @@ At a minimum:
 * have a quality assurance testing and rollback plan that supports frequent iterations to the service
 * use a phased approach to test changes to part of service, when feature-based changes are not feasible
 
-## 9. Use open standards & common platforms
+## 9. Use open standards and common platforms
 
-Use open standards, open source software and common government platforms where available.
+Use open [standards](/standard), open source software and common government platforms where available.
 
 Open standards are created through collaboration and consensus by an active community of experts, including many large technology companies. They aim for data operability between various products and services, as well as security and reliability.
 
@@ -469,7 +469,7 @@ At a minimum:
   * Open data -
     [Data catalogue](https://www.ontario.ca/search/data-catalogue)
 
-## 10. Embed privacy & security by design
+## 10. Embed privacy and security
 
 Identify the data the service will use, store or create. Put appropriate
 legal, privacy and security measures in place so that users feel
