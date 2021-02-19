@@ -20,22 +20,14 @@ subnav:
 ---
 We are known as a **lab** and a **community** of people who are learning how to improve service delivery in the BC Public Service.
 
-We contribute to the [goal of creating a modern public service](http://whereideaswork.gov.bc.ca/modern/).
-
-We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard) pioneered and practiced by other government digital service agencies.
-
-We partner with government programs to accelerate **learning new ways of working** through practice and delivery.
-
-We embrace **experimentation and collaboration in the open.**
-
 We are also the home of the [BC Developers' Exchange](https://bcdevexchange.org/), known for producing innovative procurement tools ([Code with Us and Sprint with Us](https://digital.gov.bc.ca/marketplace)) and **a thriving community of GovTech designers and developers.**
 
-> This website is intended to guide expectations for how The Exchange Lab operates. It will be updated as we improve operations practices.
+This website is intended to guide expectations for how The Exchange Lab operates. It will be updated as we improve operations practices.
 
 ## Our Mission
-Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery.
+Government, through the BC Public Service, can be trusted to respond to change and meet peoples' expectations for excellent service delivery. A [modern public service](http://whereideaswork.gov.bc.ca/modern/) that embraces digital mindset and practices is one way to achieve this mission.
 
-The Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply design and delivery methods, tools, and technology.
+To  Exchange Lab partners with government programs to deliver high quality, modern services by supporting people to learn and apply the best available design and delivery methods, tools, and technology.
 
 **The results we seek center around:**
 - Creating high performing, cross functional teams.
@@ -44,6 +36,8 @@ The Exchange Lab partners with government programs to deliver high quality, mode
 - Connecting an ecosystem of public service oriented people and agencies - inside the BC Government and beyond.
 
 ## Delivery Model
+
+We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard), pioneered and practiced by other government digital service agencies around the world.
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams in each phase:
 1. [Apply to the Lab](/apply)
@@ -54,9 +48,8 @@ The Exchange Lab operates within a model of continuous improvement, centered aro
 5. [Sustain Practices](/sustain)
 
 We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
-- active research,
-- empathy,
-- deep engagement, and
+- experimentation;
+- collaboration; and
 - emergent best practices and standards.
 
 This diagram illustrates broader connections to our delivery model.
@@ -83,6 +76,14 @@ The Exchange Lab is an anchor in a broader "Digital Delivery Network," which inc
 ## About Us
 
 History of the Lab and our current team roster to come...
+
+### How we started
+
+### What has sustained us
+
+### Who we are today
+
+### What others say about us
 
 <br/>
 [Back to the Top](#)
