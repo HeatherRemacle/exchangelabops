@@ -21,8 +21,19 @@ primary:
   - text: Governance
     href: /governance
 
+docs:
+  - text: Exchange Lab Overview
+    href: /
+  - text: Partner with the Exchange
+    href: /partner
+  - text: Design & Delivery Standard
+    href: /standard
+  - text: Governance
+    href: /governance
 
 partner:
+  - text: Exchange Lab Overview
+    href: /
   - text: Partner with the Exchange
     href: /partner
   - text: 1. Apply to the Lab
@@ -50,16 +61,6 @@ secondary:
   - text: GitHub Source
     href: https://github.com/bcgov/exchangelabops
     external: true
-
-docs:
-  - text: Exchange Lab Overview
-    href: /
-  - text: Partner with the Exchange
-    href: /partner
-  - text: Design & Delivery Standard
-    href: /standard
-  - text: Governance
-    href: /governance
 
 standard:
     - text: Exchange Lab Overview
