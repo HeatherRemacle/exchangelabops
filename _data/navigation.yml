@@ -28,8 +28,11 @@ docs:
     href: /partner
   - text: Design & Delivery Standard
     href: /standard
-  - text: Governance
+  - text: Agile Governance
     href: /governance
+  - text: Tools we Use
+  - href: /tools
+
 
 partner:
   - text: Exchange Lab Overview
