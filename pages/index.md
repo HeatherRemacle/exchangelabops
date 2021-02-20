@@ -38,12 +38,12 @@ To  Exchange Lab partners with government programs to deliver high quality, mode
 We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/) and generally accepted modern [standards for service design and delivery](/standard), pioneered and practiced by other government digital service agencies around the world.
 
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams in each phase:
-1. [Apply to the Lab](https://heatherremacle.github.io/exchangelabops/apply)
-2. [Align Your Org](https://heatherremacle.github.io/exchangelabops/align)
-3. [Onboard & Discover](https://heatherremacle.github.io/exchangelabops/discover)
-3. [Resource a Team](https://heatherremacle.github.io/exchangelabops/resource)
-4. [Deliver a Product](https://heatherremacle.github.io/exchangelabops/deliver)
-5. [Sustain Practices](https://heatherremacle.github.io/exchangelabops/sustain)
+1. [Apply to the Lab](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/apply.md)
+2. [Align Your Org](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md)
+3. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
+3. [Resource a Team](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/resource.md)
+4. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
+5. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
 
 We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;

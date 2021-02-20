@@ -6,6 +6,7 @@ layout: post
 sidenav: partner
 subnav:
   - text: Key Resources
+  - href: '#key-resources'
 ---
 Is your service delivery program ready to apply the Digital Principles and mindset and methods of Agile product development?
 
@@ -22,14 +23,14 @@ Prior to partnering with the Exchange, a program area must demonstrate they are:
 
 Learn more about what happens in each of the phases a program goes through during partnership with the Exchange:
 
-1. [Apply to the Lab](/apply)
-2. [Align Your Org](/align)
-3. [Onboard & Discover](/discover)
-4. [Resource a Team](/resource)
-5. [Deliver a Product](/deliver)
-6. [Sustain Practices](/sustain)
+1. [Apply to the Lab](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/apply.md)
+2. [Align Your Org](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md)
+3. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
+3. [Resource a Team](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/resource.md)
+4. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
+5. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
 
-## Key resources
+## Key Resources
 
 #### Before you call us: Challenge Brief Template
 When potential partners call for help, we always ask:
@@ -47,9 +48,6 @@ We don't want your business requirements document (unless we are having a bon fi
 #### Partnership Agreement Template
 This agreement is dated by the Lab and the program area during the [onboarding phase](/discover). It is useful to read if you are considering partnership with the Lab, and may be modified to suit unique considerations for each partnership.
 - Partnership Agreement Template (.docx)
-
-
-
 
 <br/>
 [Back to the Top](#)
