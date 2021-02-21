@@ -6,7 +6,7 @@ layout: post
 sidenav: partner
 subnav:
   - text: Key Resources
-  - href: '#key-resources'
+    href: '#key-resources'
 ---
 Is your service delivery program ready to apply the Digital Principles and mindset and methods of Agile product development?
 
@@ -21,7 +21,7 @@ Prior to partnering with the Exchange, a program area must demonstrate they are:
 - **Broadly valued:** includes at least one business capability that serves the needs of other program areas, such that the product built can be leveraged by others.
 - **Continuous:** will deliver value into the foreseeable future, such that a program will dedicate a team to continuously improve the product after it leaves the Lab.
 
-Explore what happens in each of the phases a program goes through during partnership with the Exchange. 
+Explore what happens in each of the phases a program goes through during partnership with the Exchange.
 
 ## Key Resources
 
