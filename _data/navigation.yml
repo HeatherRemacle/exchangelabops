@@ -26,6 +26,8 @@ docs:
     href: /
   - text: Partner with the Exchange
     href: /partner
+  - text: Teams
+    href: /teams 
   - text: Design & Delivery Standard
     href: /standard
   - text: Agile Governance
@@ -71,7 +73,6 @@ standard:
       href: /
     - text: Design & Delivery Standard
       href: /standard
-
 
 Teams:
     - text: Exchange Lab Overview
