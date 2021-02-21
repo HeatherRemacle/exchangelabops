@@ -9,9 +9,9 @@ subnav:
   - text: Definition
     href: '#definition'
   - text: Alliance Team
-    href: '#alliance'
-  - text: Executive Sponsors
-    href: '#executive-sponsors'
+    href: '#alliance-team'
+  - text: Executive Sponsor Roles
+    href: '#executive-sponsor-roles'
 ---
 As teams come to the lab, we are commonly asked: how do we set up governance for this thing?
 
