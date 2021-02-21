@@ -6,6 +6,8 @@ permalink: /tools
 layout: post
 sidenav: docs
 subnav:
+    - text: How to get permission to use a new tool
+      href: '#how-to-get-permission-to-use-a-new-tool'
     - text: Collaboration
       href: '#collaboration'
     - text: Engagement
@@ -14,8 +16,6 @@ subnav:
       href: '#communications'
     - text: Workflow
       href: '#workflow'
-    - text: How to get permission to use a new tool
-      href: '#how-to-get-permission-to-use-a-new-tool'
 
 ---
 
@@ -49,4 +49,4 @@ TBC - Here is a where you can find your Ministry Privacy Officer.
 
 ## Communications
 
-## workflow
+## Workflow
