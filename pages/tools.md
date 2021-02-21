@@ -1,5 +1,6 @@
 ---
 title: Tools We Use
+description: Insight into modern tools used by the Exchange Lab
 permalink: /tools
 
 layout: post
