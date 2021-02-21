@@ -11,6 +11,8 @@ subnav:
   href: '#confirm-priority'
 - text: Identify Capacity
   href: '#identify-capacity'
+- text: LabOps Resources
+  href: '#labops-resources'
 ---
 During this phase, a program area becomes more clear on what they need to solve for and how they will shift their approach in partnering with the Exchange.
 
@@ -32,6 +34,13 @@ During this phase, a program area becomes more clear on what they need to solve 
 ## Confirm Priority
 
 ## Identify Capacity
+
+## LabOps Resources
+
+- Challenge Brief Template
+- Exchange Lab Service Blueprint
+- Partnership Agreement template
+
 
 <br/>
 [Back to the Top](#)

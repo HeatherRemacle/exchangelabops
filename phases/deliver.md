@@ -54,13 +54,16 @@ Agile practices include retrospectives so that a team can learn from each other 
 - Re-alignment sessions with the Alliance team and others in the home organization to support reflection on learning, and discover new needs as the team transitions towards sustainment.
 - Broader network insights related to trends in digital service delivery.
 
-## Exchange Lab Operations Resources:
+## LabOps Resources:
+
 - Lunch-n-Lab (AKA Quarantine & Quaffee): hour long event for active teams and community mentors to share learning.
   - Facilitators Agenda
 - Re-alignment Session: 1-2 hours of facilitated reflection and sharing to discover how to optimize in the home stretch.
   - Facilitator's Agenda
   - Presentation materials
   - Pre-survey (or SenseMaker) questions
+
+Key Resources offered by our partners can be found on Digital.gov.bc.ca, such as:
 - [Design Research Guide](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/user-research){: .bc-external_link}.
 
 

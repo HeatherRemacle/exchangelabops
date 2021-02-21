@@ -11,6 +11,8 @@ subnav:
     href: '#training'
   - text: Bring Everyone Together
     href: '#together'
+  - text: LabOps Resources
+    href: '#labops-resources'
 ---
 During this phase, people connected to a Lab partner team are brought together to align to the problem and the approach to solving it.
 
@@ -44,15 +46,9 @@ The Lab has developed several courses since 2016, delivered by individuals who h
 
 In every case, training should be grounded by BC public servants with experience participating in or supporting a *productive* Agile team. They can provide deeper orientation on how to apply the learning within the government context.
 
-#### The Exchange Lab Offers:
-A few courses available to teams that partner with the Lab:
-- Agile fundamentals (Digital Delivery 101, 201)
-- Digital leadership
-- DevOps for Non-Devs
-- Openshift 101, 201
-
 **Can anyone get this training?**
 Given limited resources, training seats organized by the Lab are allocated to people who are on or supporting Agile teams partnered with the Lab. Other training opportunities may be organized by anyone through engaging the cohort of experienced trainers to see about availability.
+
 - Contact the ExchangeLab@gov.bc.ca to get connected.
 
 ## Bring Everyone Together
@@ -61,10 +57,17 @@ The Lab Team co-designs an alignment session with the Product Owner and key Alli
 
 Sessions should include everyone that will be interfacing with the PO on a regular basis. This ensures there is a consistent set of expectations related to how a PO leads the team and engages stakeholders, which is different from traditional project management.
 
-#### The Exchange Lab Offers:
+## LaOps Resources
+
 - Alignment session design and facilitation
 - A Partnership Agreement template
 - Guidance for ongoing alignment activities
+
+A few courses available to teams that partner with the Lab:
+- Agile fundamentals (Digital Delivery 101, 201)
+- Digital leadership
+- DevOps for Non-Devs
+- Openshift 101, 201
 
 <br/>
 [Back to the Top](#)

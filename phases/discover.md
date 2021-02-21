@@ -1,5 +1,6 @@
 ---
 title: Onboard & Discover
+description: During this phase, the Exchange Lab helps the new team to get oriented to the problem they are solving and the community.
 permalink: /discover
 
 layout: post
@@ -11,8 +12,8 @@ subnav:
     href: '#discover-where-to-start'
   - text: Develop an Alpha Product
     href: '#develop-alpha'
-  - text: Applicable Standards in this Phase
-    href: '#standards'
+  - text: LabOps Resources
+    href: '#labops-resources'
 ---
 During this phase, the Exchange Lab helps the new team to get oriented to the problem they are solving and resources offered by the Delivery Network.
 
@@ -27,6 +28,9 @@ During this phase, the Exchange Lab helps the new team to get oriented to the pr
 - The team produces an initial roadmap based on feedback on an Alpha product.
 - Executive and Alliance team members support are engaged in the team's progress, and can support the direction of the product roadmap.
 
+#### Applicable Standards in this Phase
+- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/standard.md#agile)
+
 ## Orient the Team
 
 Often referred to as "Sprint Zero," the first couple weeks of a team onboarding to the Exchange Lab is about orientation to the business context, the specific problem, technology stack options, and the Digital Delivery Network (community) connected to the Lab.
@@ -35,7 +39,7 @@ Often referred to as "Sprint Zero," the first couple weeks of a team onboarding 
 - First week schedule template
 - BC Gov Digital Delivery Communities (Digital.govb.bc.ca)
 
->Note that some private sector teams have worked in the lab and with the digital delivery network before. These teams, or teams with an experienced member, will need less time to get oriented.
+> Note that some private sector teams have worked in the lab and with the digital delivery network before. These teams, or teams with an experienced member, will need less time to get oriented.
 
 #### Business Context
 
@@ -48,32 +52,17 @@ The Product Owner introduces the team to the government program area responsible
 
 Share the problem statement that resulted from the Alignment session, and any service design or user research that has been done to date.
 
->The Exchange Lab Offers:
-- Coaching and facilitation on how to focus on a problem, and identify a place to start (i.e. don't solve for everything at once!)
-
 #### Data and Technology
 
 Almost every service delivery product uses or collects data. It is likely the program area has improvements to make in this regard.
 
 There may also be multiple existing systems that connect to the product the team is building. Work with government systems and data architects to share diagrams and other relevant documentation that illustrate those systems. Highlight what is known to not work, or where challenges might occur.
 
->The Exchange Lab Offers:
-- Connection to experts in application hosting options, data science (including analytics, GBA+), privacy, and security.
-
 #### Community Connections
 
 The Exchange Lab team's primary value is knowing where to look for help. There is a growing community - known also as a Digital Delivery Network - that contains the experience, expertise and encouragement that can help a team succeed. This community is supported to convene and share knowledge by the Exchange Lab through a variety of channels and engagement events.
 
 Exchange Lab teams connect and contribute learning within the Rocket.Chat community channels. This is also where teams can get support from Lab Operations and Platform Services as they troubleshoot specific team productivity and product development needs. Teams are expected to ask the community for help here, before seeking an SOS from the Exchange Lab team.
-
-<div class="bc-background-dark" markdown="1">
-
->The Exchange Lab Offers:
-- Orientation to experts on matters relevant to a team.
-- Events and engagements.
-- Support navigating and engaging with online community channels including Rocket.Chat and MS Teams.
-
-</div>
 
 ## Discover where to Start
 
@@ -101,17 +90,9 @@ Support the team to build illustrative prototypes to communicate and get feedbac
 
 The Exchange Lab and Digital Delivery Network have several years of experience building modern software. There are dozens of products with functional code or that are approved for licensing that may address the capabilities of the product the team imagines.
 
->The Exchange Lab Offers:
-- Featured Common components in a library on Digital.gov.bc.ca.
-- Storytelling and case studies to showcase teams' contributions of reusable components.
-
 #### Build a roadmap
 
 With just enough discovery and creativity from the team, the Product Owner can start to develop a roadmap to share with the organization. A Roadmap is an evolving plan, that changes as the team continues to build and iterate based on feedback. It typically becomes more firm and detailed as the team wades through the complexity of user needs, policy, and technology.
-
->The Exchange Lab Offers:
-- Access to experienced Product Owners who can share insights on what works for them.
-- Executive engagement to manage expectations related to planning and risk management, which are different for Agile teams than many are used to.
 
 ## Develop an Alpha Product
 
@@ -138,12 +119,19 @@ This could be anything. Often teams start with a basic front end that can surfac
 - Remove any blockers the team discovered in this phase.
 - Plan the future sustainability and continuous improvement of the product.
 
->The Exchange Lab Offers:
+## LabOps Resources
+
 - Context and coaching for Executive to understand what "good" looks like at this stage (as it is often new for them.)
 - Connections to corporate services and agencies that might support removing blockers the team has discovered.
-
-## Applicable Standards in this Phase
-- [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/standard.md#agile)
+- Connection to experts in application hosting options, data science (including analytics, GBA+), privacy, and security.
+- Coaching and facilitation on how to focus on a problem, and identify a place to start (i.e. don't solve for everything at once!)
+- Orientation to experts on matters relevant to a team.
+- Events and engagements.
+- Support navigating and engaging with online community channels including Rocket.Chat and MS Teams.
+- Featured Common components in a library on Digital.gov.bc.ca.
+- Storytelling and case studies to showcase teams' contributions of reusable components.
+- Access to experienced Product Owners who can share insights on what works for them.
+- Executive engagement to manage expectations related to planning and risk management, which are different for Agile teams than many are used to.
 
 <br/>
 [Back to the Top](#)
