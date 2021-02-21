@@ -45,16 +45,7 @@ able to file reports securely online: a faster, simpler way than the previous pa
 The new application will leverage the BC Services Card and PayBC for credit card payments.
 * [View the app](https://www.bcregistry.ca/cooperatives)
 * [Entity Repos on GitHub](https://github.com/bcgov/entity)
-* [Entity Repos on GitHub](https://github.com/bcgov/lear)
-* [Entity Repos on GitHub](https://github.com/bcgov/business-filings-ui)
-* [Entity Repos on GitHub](https://github.com/bcgov/bcrs-business-create-ui)
-* [Entity Repos on GitHub](https://github.com/bcgov/business-schemas)
-* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-common-components)
-* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-auth)
-* [Relationships Repos on GitHub](https://github.com/bcgov/sbc-pay)
 * [Name Request Repos on GitHub](https://github.com/bcgov/namerequest)
-* [NameX Repos on GitHub](https://github.com/bcgov/namex)
-* [NameX Repos on GitHub](https://github.com/bcgov/name-examination)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
