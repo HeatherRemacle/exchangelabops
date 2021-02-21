@@ -43,10 +43,10 @@ partner:
     href: /apply
   - text: 2. Align Your Org
     href: /align
-  - text: 3. Onboard & Discover
-    href: /discover
-  - text: 4. Resource a Team
+  - text: 3. Resource a Team
     href: /resource
+  - text: 4. Onboard & Discover
+    href: /discover
   - text: 5. Deliver a Product
     href: /deliver
   - text: 6. Sustain Practices
@@ -71,6 +71,17 @@ standard:
       href: /
     - text: Design & Delivery Standard
       href: /standard
+
+
+Teams:
+    - text: Exchange Lab Overview
+      href: /
+    - text: Teams in the Lab
+      href: /teams
+    - text: Alumni Teams
+      href: /alumni-teams
+    - text: Other Teams we cheer on
+      href: /other-teams
 
 glossary:
   - text: Exchange Lab Overview

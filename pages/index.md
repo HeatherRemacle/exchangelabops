@@ -40,10 +40,10 @@ We apply BC's [Digital Principles](https://digital.gov.bc.ca/digital-principles/
 The Exchange Lab operates within a model of continuous improvement, centered around a value chain that delivers **teams**. Explore the phases of Exchange Lab residency and the variety of resources we produce to support teams in each phase:
 1. [Apply to the Lab](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/apply.md)
 2. [Align Your Org](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md)
-3. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
 3. [Resource a Team](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/resource.md)
-4. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
-5. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
+4. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
+5. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
+6. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
 
 We continuously refine and adapt lab operations to the specific context of program areas we partner with. **There is no single, consistent path.** We operate in high degrees of complexity and create the conditions for a positive, productive trajectory through the application of:
 - experimentation;
@@ -59,17 +59,43 @@ This diagram illustrates broader connections to our delivery model.
 
 **A community of people committed to learning and building public impact value together is essential to our mission.**
 
-Guidance and playbooks can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The ever-evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
+The Exchange Lab is an anchor in a broader **"Digital Delivery Network"** that we refer to as a community. It also includes a variety of specific communities that may be sharing practices, mentorship, or specific supports related to digital tools, such as the DevOps platform.
 
- - [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
+### Delivery Teams
 
-The Exchange Lab is an anchor in a broader "Digital Delivery Network," which includes [experts in service improvement methods](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798) and a community of experienced "GovTech" innovators. The Team that runs the Lab supports the exchange of ideas, experience, and encouragement in this growing community through:
-- online and in-person events,
-- storytelling,
-- learning programs, and
-- online engagement platforms.
+Agile product delivery teams are most successful when they plug into the Digital Delivery Network and communities that are relevant to their practices. The Exchange Lab team actively connects these teams to eachother as well, so they can share learning and solve common problems together.
 
-[Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
+* See the [teams connected to this digital delivery network](/teams)
+
+### Delivery Partners (corporate services and products)
+
+Underlying the success of these teams are a variety of centralized services, common components, or platforms for building excellent services. The Exchange Lab supports connection to these agencies, which include:
+
+- [Accessibility](https://gww.gov.bc.ca/groups/accessibility-bc-public-service) – working to make accessibility part of the DNA of the public – both in the digital and physical environments.
+- [BC Behavioural Insights Group](https://gww.gov.bc.ca/groups/bc-behavioural-insights-group-big) – applying behavioural science to behaviour-based policy problems by making small tweaks or “nudges” to a program or service.
+- [ Corporate Privacy](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) – supporting employees in balancing their need to collect and share personal information while meeting their privacy obligations.
+- [Data](https://gww.gov.bc.ca/groups/data-science-community-practice) – supporting employees to develop their ability to collect, manage, share, analyse, interpret and present data.
+- [DevOps](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/BC-Government-OpenShift-Container-Platform-Service-Definition) – enabling BC Public Service digital delivery teams to fully control the deployment of their applications.
+- [Innovation Hub](https://gww.gov.bc.ca/groups/innovation-hub) – supporting a more innovative workplace culture by inspiring and empowering employees to reimagine their work now and into the future.
+- [LeanBC](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/lean-bc) – improving business processes, from the simple to the complex, and reducing red tape for citizens and businesses across British Columbia.
+- [Service & Content Design ](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design#:~:text=Service%20Design%20in%20B.C.,%2C%20education%2C%20policy%20and%20finance.)– improving how citizens find, access and use government services by performing human-centred design research with citizens and stakeholders in B.C.
+- [Analytics](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides/analytics) - using digital tooling and business process to enable assessment of the success people have using services from end-to-end.
+
+#### Want to connect with these partners "in person"?
+
+<img height="226" width="815" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/link-experts-in-residence.png" alt="experts in residence">
+
+* [Sign up for Experts in Residence on Eventbrite](https://www.eventbrite.ca/e/experts-in-residence-tickets-109220948798)
+
+### Delivery Community Channels
+
+Guidance and playbooks can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
+
+The Delivery Network uses a variety of channels to connect. Most prominently:
+
+- [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
+- [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
+
 
 ## About Us
 

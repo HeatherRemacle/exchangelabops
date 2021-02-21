@@ -21,14 +21,7 @@ Prior to partnering with the Exchange, a program area must demonstrate they are:
 - **Broadly valued:** includes at least one business capability that serves the needs of other program areas, such that the product built can be leveraged by others.
 - **Continuous:** will deliver value into the foreseeable future, such that a program will dedicate a team to continuously improve the product after it leaves the Lab.
 
-Learn more about what happens in each of the phases a program goes through during partnership with the Exchange:
-
-1. [Apply to the Lab](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/apply.md)
-2. [Align Your Org](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md)
-3. [Onboard & Discover](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/discover.md)
-3. [Resource a Team](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/resource.md)
-4. [Deliver a Product](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/deliver.md)
-5. [Sustain Practices](https://github.com/HeatherRemacle/exchangelabops/blob/master/phases/align.md/sustain)
+Explore what happens in each of the phases a program goes through during partnership with the Exchange. 
 
 ## Key Resources
 
