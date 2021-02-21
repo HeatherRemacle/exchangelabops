@@ -6,13 +6,12 @@ permalink: /governance
 layout: post
 sidenav: docs
 subnav:
+  - text: Definition
+    href: '#definition'
   - text: Alliance Team
-    href: '#Alliance'
+    href: '#alliance'
   - text: Executive Sponsors
     href: '#executive-sponsors'
-  - text: Relevant ADM and Deputy Minister (DM) Boards
-    href: '#Boards'
-
 ---
 As teams come to the lab, we are commonly asked: how do we set up governance for this thing?
 
@@ -35,13 +34,13 @@ When the lab kicked off, there were no new governance structures in place or obv
 
 Over time, it has become evident that there is a need to adapt the typical governance structures connected to Agile teams in the public service.
 
-## What is wrong with typical governance?
+### What is wrong with typical governance?
 
 When people in government think of governance, they often think of decision making committees. These structures are a product of hierarchy and are designed for slow moving and predictable process. Committees tend to facilitate deliberation and decision making at a table where people have limited attention and time. Where the circumstances (rules, conditions) are clear and simple enough for the table to understand, this structure can work.
 
 A committee table is ill-equipped to make most decisions related to complex problems, which are the focus of Agile teams. They have the least information about the problem and potential solutions, and simply do not have the time or methods to properly probe, sense and respond with appropriate decisions.
 
-## What is different about Agile Governance?
+### What is different about Agile Governance?
 
 Agile organizations behave differently than traditional government structures, based on a different set of assumptions about what enables productivity, risk management, and accountability, given the context they are in.
 
@@ -67,7 +66,7 @@ alt="Product Owner in a Nutshell" width="450" height="251" border="10" align="ce
 
 While teams have a lot of autonomy to address a specific problem, they also need support for their function within the broader organization, including alignment to broader organizational goals and resourcing.
 
-## Alliance team
+## Alliance Team
 From 2018-2019, Lab Operations designed and tested a governance structure called an Alliance Team. The Health Gateway Team was the first to apply and learn from this approach, and it has since been adopted in various forms by other teams.
 
 Below is an illustration of how an Alliance team operates to enable effective governance.
