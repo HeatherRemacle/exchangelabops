@@ -8,11 +8,10 @@ sidenav: teams
 subnav:
   - text: eDivorce
     href: '#eDivorce'
-  - text: Residential Tenancy Branch
-    href: '#residential-tenancy-branch'
   - text: RoadSafteyBC
     href: '#RoadSafteyBC'
-
+  - text: Teams Coding in the Open
+    href: '#teams-coding-in-the-open'
 ---
 
 The community of Agile product development teams across the BC Public Service includes programs that have adopted digital principles and built capacity without a residency period in the lab. In some cases, the teams have built off the
@@ -30,6 +29,11 @@ eDivorce was developed by the British Columbia Ministry of Justice to help self 
 
 Information to come.
 
+## Teams Coding in the Open
+
+While the BCDevExchange supports teams to deliver product in the Lab, we also make our DevOps platform available to teams outside of the Exchange lab. There are number of teams part of the development community helping to modernize the BC Public Service, including coding in the open.
+
+* [See Developer.gov.bc.ca - the DevHub - for how they make things happen, including our design system of reusable components.](https://developer.gov.bc.ca/)
 
 <br/>
 [Back to the Top](#)

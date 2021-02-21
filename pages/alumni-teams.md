@@ -1,7 +1,7 @@
 ---
 title: Exchange Lab Alumni Teams
 description: A list and description of the teams that have partnered with and graduated from the Exchange Lab.
-permalink: /alimni-teams
+permalink: /alumni-teams
 
 layout: post
 sidenav: docs
@@ -43,7 +43,6 @@ This team is an extension/continuation of the [Invasive Species team](#invasive-
 
 * [See the BC Biodiversity Hub code on GitHub](https://github.com/bcgov/biohubbc)
 
-
 ## DataBC
 
 DataBC is a partner that supports the Digital Delivery network with data products and services. They resided in the Lab for a time to enable connection with new product teams and to transition their existing operations to adopt Agile practices, while improving their products based on what they were learning from the community,
@@ -65,6 +64,7 @@ The team behind the initial creation of the Exchange Lab (formerly CSI Lab), the
 | Angular | Express, Node.js  | Mongodb | Jenkins | | js, TypeScript |
 
 ## Environmental Assessment
+
 EPIC (EAO Project Information and Collaboration) provides citizens, Indigenous groups and
 stakeholders access to centralized information and the ability to participate in and provide
 feedback on environmental assessments. The tool also simplifies business processes for staff.
@@ -76,6 +76,7 @@ feedback on environmental assessments. The tool also simplifies business process
 | Angular | Express, Node.js  | MongoDB | Jenkins | | js |
 
 ## Invasive Species
+
 Conservation is a key outcome for this team building tools to support invasive species
 management. The open source code will be a foundation for managing other types of species
 and ecosystem data in the future.
@@ -87,6 +88,7 @@ and ecosystem data in the future.
 | Angular 2, Swift | Express, Node.js  | PostgresSQL | Jenkins | | js, Swift |
 
 ## Mines Digital Service (MDS)
+
 This dual team has built scalable, open source, data-driven systems, including a platform for
 ministry staff that is intuitive and capable of providing meaningful data. They are also building
 a public portal – Minespace – allows mines to self-report electronically.
@@ -99,6 +101,7 @@ a public portal – Minespace – allows mines to self-report electronically.
 | React Redux | Pyhton Flask | PostgreSQL | Jenkins | Groovy/GEB | js, Pyton, Groovy |
 
 ## MSP Forms
+
 One of the first products to be supported by the BCDevExchange, the MSP application was a
 simple solution to a costly problem: a 40% error rate in MSP forms. People seeking health care in
 BC experience form errors less than 2% of the time now. The open code for this product was also
@@ -111,6 +114,7 @@ reused to produce an application that enables more efficient FOI process.
 | Agular | Node.js  | | Jenkins | | js, TypeScript |
 
 ## MyRangeBC
+
 The Range program built an app with the BCDevExchange's Mobile Pathfinder that enables
 offline collection and management of data about crown lands used for livestock range. The open
 source tool supports sustainable management of herds and the wild plants they rely on.
@@ -122,6 +126,7 @@ source tool supports sustainable management of herds and the wild plants they re
 | React, Swift | Express, Node.js | PostgreSQL | Jenkins | | js, Swift |
 
 ## Public Review and Comment
+
 Public review and comment is the way the government collects public input on proposed
 activities on crown land as part of the decision-making process. The team created a service, now
 called the "Application, Comment and Reason for Decision" (ACRFD) app that improved the way
@@ -134,6 +139,7 @@ people learn about and provide comments on proposed activities.
 | Agular | Node.js  | MongoDB | Jenkins | | js, TypeScript |  
 
 ## Transportation Fuel Reporting System
+
 The Transportation Fuels Reporting System facilitates online Fuel Reporting and Low Carbon Fuel Credit Trading supporting BC’s market-based approach to avoiding lifecycle GHG emissions from transportation fuel.
 
 * [View the app](https://www2.gov.bc.ca/gov/content/industry/electricity-alternative-energy/transportation-energies/renewable-low-carbon-fuels/transportation-fuels-reporting-system)

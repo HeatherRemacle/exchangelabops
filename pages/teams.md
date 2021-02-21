@@ -29,16 +29,18 @@ subnav:
 
 
 ---
-## Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab
+**Teams from Across the BC Public Service Learn to be Digital at the Exchange Lab**
 
-The Exchange Lab hosts Agile product delivery teams that learn to be digital through experience. Teams of 5-9 people to learn how to work with DevOps methods and tools and deliver multiple iterative releases of high quality public value products within a year for lower cost than traditional methods. These high performing teams then continue to support their home organizations with digital delivery capacity and culture.
+The Exchange Lab hosts Agile product delivery teams that learn to be digital through experience. Teams of 5-9 people to learn how to work with DevOps methods and tools and deliver multiple iterative releases of high quality public value products within a year for, typically, lower cost than traditional methods. These high performing teams then continue to support their home organizations with digital delivery capacity and culture.
 
-We also code in the open. See our GitHub Repos.
+Ideally, they go on to address other program needs with new products, or they hive off other teams to increase capacity and grow a portfolio of excellent service delivery products.
 
 This is a brief overview of the teams that are currently in the lab or in the process of onboarding. You can also learn about:
 - [Alumni Teams](/alumni-teams)
 - [Teams outside the lab we cheer on](/other-teams)
-### BC Registries
+
+## BC Registries
+
 The ServiceBC team is developing a number of Registry products. The Names Examination
 application verifies if a company name is available for use in BC. Cooperatives in B.C. will soon be
 able to file reports securely online: a faster, simpler way than the previous paper mail-in process.
@@ -67,6 +69,7 @@ This team is part of the BCDevExchange and is working with the Platform Services
 * [See the Cloud Pathfinder code on Github](https://github.com/bcgov/cloud-pathfinder)
 
 ## Common Components
+
 The Common Components team is working on ways to reduce the time and cost of delivering digital products and services. The user-focused team plans to achieve this by making it easy to find, onboard to and use components like code and microservices that solve common problems. Several teams across the BC Public Service are creating reusable digital building blocks that can be used across government and the Common Components team is working to amplify these teams’ important work. Where gaps and unmet needs are found, the team will fill them, seeking wherever possible to reuse components from other jurisdictions or the open source community.
 
 * [See the code on GitHub (wiki)](https://github.com/bcgov/common-components-wiki)
@@ -76,12 +79,8 @@ The Common Components team is working on ways to reduce the time and cost of del
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | React | Flask  | PostgresSQL | OpenShift command line | | Python, js |
 
-
-
-
-
-
 ## Wildfire
+
 Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
 * [See the code on GitHub](https://github.com/bcgov/wps)
 * [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
@@ -91,7 +90,8 @@ Wildfire Predictive Services to support decision making in prevention, preparedn
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
 
-### Property Inventory Management System (PIMS)
+## Property Inventory Management System (PIMS)
+
 The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
 * [See the code on GitHub](https://github.com/bcgov/pims)
 
@@ -113,14 +113,14 @@ technology and collaborating with global experts to create this new capability.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
-### BCDevExchange (Website)
+## BCDevExchange (Website)
+
 The team behind the static website of the Exchange Lab (formerly CSI Lab).
 * [See the code on GitHub](https://github.com/bcgov/bcdevexchange)
 
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Razor ASP.NET | N/A  | N/A | Jenkins | N/A | C#, HTML |
-
 
 ## Greenhouse Gas Industrial Reporting & Control
 
@@ -141,14 +141,6 @@ connect it safely and security with third-party health care applications.
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Vue  | .NETCore  | PostgresSQL | Azure Agent | Selenium | js, c# |
-
-
-
-
-
-### 100+ Apps Using DevOps and Coding in the Open
-While the BCDevExchange supports teams to deliver product in the Lab, we also make our DevOps platform available to teams outside of the Exchange lab. These teams are part of the development community helping to modernize the BC Public Service, including coding in the open.
-* [See Developer.gov.bc.ca - the DevHub - for how they make things happen, including our design system of reusable components.](https://developer.gov.bc.ca/)
 
 <br/>
 [Back to the Top](#)
