@@ -31,7 +31,7 @@ docs:
   - text: Agile Governance
     href: /governance
   - text: Tools we Use
-  - href: /tools
+    href: /tools
   - text: Design & Delivery Standard
     href: /standard
 
