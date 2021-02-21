@@ -26,9 +26,9 @@ This page walks you through the basics of how we've come to our practices of ada
 
 ## Definition
 
-In generic terms, Governance should be designed to enable the positive conditions you are aiming to achieve with a group of people that is appropriate for the context they are in.
+In generic terms, Governance should enable the positive conditions you are aiming to achieve with a group of people that is appropriate for the context they are in.
 
-Governance  represents the norms, values and rules of the game through which interactions and decision making are managed. It may be subtle and not be easily observable.
+Governance  represents the norms, values and rules of the game through which interactions and decision making are managed. It may be subtle and not easily observable.
 
 When the lab kicked off, there were no new governance structures in place or obvious ways to restructure existing governance. Everyone was learning how to "make Agile work." Or, they attempted to apply existing governance structures, with ill-effect.
 
@@ -75,18 +75,18 @@ Below is an illustration of how an Alliance team operates to enable effective go
 
 During the alignment phase for Lab partnership, we include all the people that believe they should be "on the team" because they offer some critical function (e.g. aligning to standards or architecture, privacy, security, project reporting, etc.). **We make it clear that they are not on the delivery team**, but are connected through the Product Owner in this Alliance Team structure.
 
-Often, there is an "Alliance Lead" who works alongside the PO to engage the Alliance team, given the typical challenges of translation between Agile and Traditional methods, and effort it takes to engage multiple agencies.
+Often, there is an "Alliance Lead" who works alongside the PO to engage the Alliance team. They help with translation between Agile and traditional methods and work to engage multiple agencies.
 
-Additionally, the Lab Operations team will work directly with the Alliance Lead to determine supports for the broader organization in accepting, supporting or adopting Agile practices. This enables those outside the team, who have the benefit of rapid learning and coaching in the Lab, to gain digital competencies over time as well (ideally by the time the team is ready to graduate.)
+Alliance Leads are expected and supported to apply change management practices. The Lab Operations team will work directly with the Alliance Lead to determine supports for the broader organization in accepting, supporting or adopting Agile practices. The goals is to have those outside the team, who have the benefit of rapid learning and coaching in the Lab, to gain digital competencies over time as well (ideally by the time the team is ready to graduate.) Ideally, the organization has human-centered talent that can work with the Lab to do this work.
 
 ## Executive Sponsor Roles
 Members of Executive Leadership are responsible for allocating resources to teams, making strategic decisions to address Service Plan and Government Mandate commitments, and for organizational development.
 
 These sponsors are engaged directly by the Product Owner and by the Alliance team lead.
 
-- **Executive Director (ED):** Often coaches the PO to address to Ministry Division priorities and supports the PO to engage other Executive in the organization. Should also work to market the work of the team within and beyond the program division, and to direct staff to engage positively with the team.
-- **Assistant Deputy Ministry (Program area):** Is accountable for the outcomes of the program the service product supports and for organization health. The ADM needs to champion the change a new Agile team is implementing, including to other executive in the Ministry.
--**Chief Financial Officer:** Should understand what the Agile team is aiming to achieve, and how risk and money is managed differently with an Agile approach, so they can support funding healthy teams that are meeting users' needs.
+- **Assistant Deputy Ministry (Program area):** Is accountable for the outcomes of the program and for organization health. They should understand the importance of new functions, such as user research, so they can support healthy teams that are meeting users' needs. The ADM needs to champion the change a new Agile team is implementing, including to other executive in the Ministry. The ADM should also be supported to understand new approaches to risk management and finance Agile teams require.
+- **Executive Director (ED):** Coaches the PO to address to Ministry Division priorities and sets expectations for the metrics the team should produce connected to program outcomes. The ED may support the PO to engage other Executive in the organization to address inter-program concerns. The ED should also work to market the work of the team within and beyond the program division, and to direct all staff to engage positively with the team.
+- **Chief Financial Officer:** Should understand how risk and money is managed differently with an Agile approach. They should be made aware of the total cost of ownership and future financial projections for the program to support this team.
 -**Chief Information Officer:** Partners with the program area ED and ADM to align or allocate IM/IT resources that may be needed to support product delivery and sustainment.
 
 <br/>
