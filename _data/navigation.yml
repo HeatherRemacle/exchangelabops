@@ -24,16 +24,16 @@ primary:
 docs:
   - text: Exchange Lab Overview
     href: /
-  - text: Partner with the Exchange
+  - text: Partner with Us
     href: /partner
   - text: Teams
     href: /teams
-  - text: Design & Delivery Standard
-    href: /standard
   - text: Agile Governance
     href: /governance
   - text: Tools we Use
   - href: /tools
+  - text: Design & Delivery Standard
+    href: /standard
 
 partner:
   - text: Exchange Lab Overview
