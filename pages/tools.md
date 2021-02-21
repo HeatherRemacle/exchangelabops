@@ -5,7 +5,6 @@ permalink: /tools
 layout: post
 sidenav: docs
 subnav:
-
     - text: Collaboration
       href: '#collaboration'
     - text: Engagement
@@ -15,7 +14,7 @@ subnav:
     - text: Workflow
       href: '#workflow'
     - text: How to get permission to use a new tool
-      href: '#How to get permission to use a new tool'
+      href: '#how-to-get-permission-to-use-a-new-tool'
 
 ---
 
