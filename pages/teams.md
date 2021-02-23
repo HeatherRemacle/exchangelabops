@@ -91,7 +91,6 @@ technology and collaborating with global experts to create this new capability.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
-
 ## Greenhouse Gas Industrial Reporting and Control
 
 This system is helping the Climate Action Secretariat to better understand the state of industrial greenhouse gas emissions in the province. Easy data visualization and analysis using open source tools will help create and support programs to track and reduce industrial emissions in BC. The team is also building a better experience for industrial reporters to send and view their data.
@@ -103,6 +102,7 @@ This system is helping the Climate Action Secretariat to better understand the s
 | React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | Typescript |
 
 ## Health Gateway
+
 The Health Gateway product will empower citizens with access and control over their health
 record. It enables a citizen to not only view and act on their health information, but also to
 connect it safely and security with third-party health care applications.
