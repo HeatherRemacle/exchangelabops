@@ -18,11 +18,11 @@ subnav:
     href: '#greenhouse-gas-industrial-reporting-and-control'
   - text: Health Gateway
     href: '#health-gateway'
-  - Text: Digital Trust
+  - text: Digital Trust
     href: '#digital-trust'
-  - Text: Property Inventory Management System
+  - text: Property Inventory Management System
     href: '#property-inventory-management-system'
-  - Text: Wildfire Predictive Services
+  - text: Wildfire Predictive Services
     href: '#wildfire-predictive-services'
 
 
