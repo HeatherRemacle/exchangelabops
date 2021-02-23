@@ -6,11 +6,11 @@ layout: post
 sidenav: partner
 subnav:
   - text: Define Governance
-    href: '#governance'
+    href: '#define-governance'
   - text: Get Training
-    href: '#training'
+    href: '#get-training'
   - text: Bring Everyone Together
-    href: '#together'
+    href: '#bring-everyone-together'
   - text: LabOps Resources
     href: '#labops-resources'
 ---
@@ -18,12 +18,12 @@ During this phase, people connected to a Lab partner team are brought together t
 
 The Exchange Lab has experience assessing the context within an organization that might enable or disable success of developing new ways of working. It is critical that frictions within an organization related to the program are surfaced before a team is formed. People within the organization should be empowered to resolve these frictions, with coaching and leadership from the Lab.
 
-#### Pre-conditions
+#### Pre-conditions:
 - Executive sponsors are committed to leading their organization to develop modern digital capabilities.
 - There is a priority service delivery challenge to address, and there is a sense of the underlying problem to solve
 - A Product Owner has been identified.
 
-#### What Success Looks Like in this phase
+#### What success looks like in this phase:
 - The people (stakeholders) inside the organization who will be responsible, accountable or implicated in the service delivery changes associated with the product are engaged.
 - There is a sense of what key stakeholders need to be able to accept and/or adopt digital approaches.
 - There is a commitment to make it work, and a plan to bring people along.
@@ -47,21 +47,22 @@ The Lab has developed several courses since 2016, delivered by individuals who h
 In every case, training should be grounded by BC public servants with experience participating in or supporting a *productive* Agile team. They can provide deeper orientation on how to apply the learning within the government context.
 
 **Can anyone get this training?**
-Given limited resources, training seats organized by the Lab are allocated to people who are on or supporting Agile teams partnered with the Lab. Other training opportunities may be organized by anyone through engaging the cohort of experienced trainers to see about availability.
+Given limited resources, training seats organized by the Lab are allocated to people who are on or supporting Agile teams seekig to partner with the Lab. Other training opportunities may be organized by anyone through engaging the cohort of experienced trainers to see about availability.
 
 - Contact the ExchangeLab@gov.bc.ca to get connected.
 
 ## Bring Everyone Together
 
-The Lab Team co-designs an alignment session with the Product Owner and key Alliance team members. The session may take between 1 and 2 days depending on the complexity within the Org and the problem to solve.
+The Lab Team co-designs an alignment session with the Product Owner (PO) and key Alliance team members. The session may take between 1 and 2 days depending on the complexity within the organization(s) and the problem to solve.
 
 Sessions should include everyone that will be interfacing with the PO on a regular basis. This ensures there is a consistent set of expectations related to how a PO leads the team and engages stakeholders, which is different from traditional project management.
 
 ## LaOps Resources
 
-- Alignment session design and facilitation
-- A Partnership Agreement template
-- Guidance for ongoing alignment activities
+- Alignment session design and facilitation templates
+- Partnership Agreement template
+- Guidance for ongoing alignment activities (TBC)
+- Guidance for Agile Governance (TBC)
 
 A few courses available to teams that partner with the Lab:
 - Agile fundamentals (Digital Delivery 101, 201)
