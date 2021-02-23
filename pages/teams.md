@@ -14,8 +14,8 @@ subnav:
     href: '#cloud-pathfinder'
   - text: Common Components
     href: '#common-components'
-  - text: Greenhouse Gas Industrial Reporting & Control
-    href: '#greenhouse-gas-industrial-reporting-control'
+  - text: Greenhouse Gas Industrial Reporting and Control
+    href: '#greenhouse-gas-industrial-reporting-and-control'
   - text: Health Gateway
     href: '#health-gateway'
   - Text: Digital Trust
@@ -24,8 +24,6 @@ subnav:
     href: '#property-inventory-management-system-pims'
   - Text: Wildfire Predictive Services
     href: '#wildfire-predictive-services'
-  - text: Health Gateway
-    href: '#health-gateway'
 
 
 ---
@@ -79,29 +77,9 @@ The Common Components team is working on ways to reduce the time and cost of del
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | React | Flask  | PostgresSQL | OpenShift command line | | Python, js |
 
-## Wildfire
-
-Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
-* [See the code on GitHub](https://github.com/bcgov/wps)
-* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
-* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
-
-| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
-|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
-
-## Property Inventory Management System (PIMS)
-
-The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
-* [See the code on GitHub](https://github.com/bcgov/pims)
-
-| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
-|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| React Node  | .NET Core 3.1  | MSSQL | Jenkins |  | js, C#, Leaflet |
-
 ## Digital Trust
 
-**Also known as Verifiable Organizations Network (VON)**
+**Also known as Verifiable Organizations Network (VON) and Orgbook**
 
 OrgBook BC is a searchable public directory of open verifiable data about organizations legally registered in BC. BC businesses are now empowered with a locally-issued trusted digital identity
 that can be used globally. The Province of BC is leveraging open source decentralized identity
@@ -113,16 +91,8 @@ technology and collaborating with global experts to create this new capability.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Angular, Vue | Django, Node.js  | PostgresSQL | Jenkins | | Python, js |
 
-## BCDevExchange (Website)
 
-The team behind the static website of the Exchange Lab (formerly CSI Lab).
-* [See the code on GitHub](https://github.com/bcgov/bcdevexchange)
-
-| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
-|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
-| Razor ASP.NET | N/A  | N/A | Jenkins | N/A | C#, HTML |
-
-## Greenhouse Gas Industrial Reporting & Control
+## Greenhouse Gas Industrial Reporting and Control
 
 This system is helping the Climate Action Secretariat to better understand the state of industrial greenhouse gas emissions in the province. Easy data visualization and analysis using open source tools will help create and support programs to track and reduce industrial emissions in BC. The team is also building a better experience for industrial reporters to send and view their data.
 
@@ -132,7 +102,7 @@ This system is helping the Climate Action Secretariat to better understand the s
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | React, Relay, Next.js  | Node.js, GraphQL  | PostgresSQL | CircleCI | | Typescript |
 
-### Health Gateway
+## Health Gateway
 The Health Gateway product will empower citizens with access and control over their health
 record. It enables a citizen to not only view and act on their health information, but also to
 connect it safely and security with third-party health care applications.
@@ -141,6 +111,26 @@ connect it safely and security with third-party health care applications.
 | Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Vue  | .NETCore  | PostgresSQL | Azure Agent | Selenium | js, c# |
+
+## Property Inventory Management System (PIMS)
+
+The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
+* [See the code on GitHub](https://github.com/bcgov/pims)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React Node  | .NET Core 3.1  | MSSQL | Jenkins |  | js, C#, Leaflet |
+
+## Wildfire
+
+Wildfire Predictive Services to support decision making in prevention, preparedness, response and recovery.
+* [See the code on GitHub](https://github.com/bcgov/wps)
+* [See the code on GitHub (Frontend)](https://github.com/bcgov/wps-web)
+* [See the code on GitHub (Backend)](https://github.com/bcgov/wps-api)
+
+| Frontend | Backend | Database  | Deployment Tool| Automation Tests | Languages|
+|:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
+| React | FastAPI  | PostgresSQL PostGIS | Jenkins | | Python 3, js |
 
 <br/>
 [Back to the Top](#)
