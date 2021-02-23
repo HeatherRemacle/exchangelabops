@@ -4,10 +4,12 @@ description: A list and description of the teams that have partnered with and gr
 permalink: /alumni-teams
 
 layout: post
-sidenav: docs
+sidenav: teams
 subnav:
   - text: BC Biodiversity Hub
     href: '#bc-biodiversity-hub'
+  - text: DataBC
+    href: '#databc'
   - text: Digital Marketplace
     href: '#digital-marketplace'
   - text: Environmental Assessment
@@ -34,12 +36,14 @@ Some of the product teams listed are evolved from teams that started in the lab 
 
 ## BC Biodiversity Hub
 
-This team is an extension/continuation of the [Invasive Species team](#invasive-species) that partnered with the lab. The objectives for the BioHubBC project are to:
+The objectives for the BioHubBC project are to:
 
 - provide a single source for aquatic and terrestrial species and habitat data.
 - reduce the barriers for collecting and sharing aquatic and terrestrial species and habitat data throughout the province of British Columbia.
 - reduce the effort involved with managing aquatic and terrestrial species and habitat data.
 - improve access for all stakeholders to the aquatic and terrestrial species and habitat data needed to make informed decisions and policies for the province.
+
+This team is an extension/continuation of the [Invasive Species team](#invasive-species) that partnered with the lab.
 
 * [See the BC Biodiversity Hub code on GitHub](https://github.com/bcgov/biohubbc)
 
