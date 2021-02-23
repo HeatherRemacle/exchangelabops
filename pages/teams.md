@@ -20,8 +20,8 @@ subnav:
     href: '#health-gateway'
   - Text: Digital Trust
     href: '#digital-trust'
-  - Text: Property Inventory Management System (PIMS)
-    href: '#property-inventory-management-system-pims'
+  - Text: Property Inventory Management System
+    href: '#property-inventory-management-system'
   - Text: Wildfire Predictive Services
     href: '#wildfire-predictive-services'
 
@@ -112,7 +112,7 @@ connect it safely and security with third-party health care applications.
 |:-----------------:|:--------------:|:-----------------:|:---------------:|:---------------:|:---------------:|
 | Vue  | .NETCore  | PostgresSQL | Azure Agent | Selenium | js, c# |
 
-## Property Inventory Management System (PIMS)
+## Property Inventory Management System
 
 The PIMS team is building a system to manage the inventory of BC Government’s titled properties. Including the ability to oversee compliance with Core Policy and Inventory Policies. The app will be based on a geo-spatial platform and will also act as an internal real estate website for re-purposing properties within the public sector.
 * [See the code on GitHub](https://github.com/bcgov/pims)
