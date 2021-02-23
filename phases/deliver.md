@@ -25,6 +25,7 @@ During this phase, the team applies Agile methods and mindset to continuously im
 - Code, documentation and Agile practices are healthy, with team velocity increasing.
 - The team is sharing their success, challenges, and reusable code contributions with the community and their home organization.
 - The product can facilitate an end-to-end service journey and can be announced broadly.
+- There is a report on the value being delivered to date (return on investment)
 
 #### Applicable Standards:
 - [Be Agile and User Centered](https://github.com/bcgov/exchangelabops/reference/standard.md#agile)
@@ -49,19 +50,24 @@ As the team learns to be more Agile and understands the nature of the complex ch
 
 Agile practices include retrospectives so that a team can learn from each other and their collective experience. There is also value in hosting a retrospective for the Alliance team and Executive Sponsors with the Product Owner and Scrum Master. This enables the broader organization to refine how it supports the team - especially if the team has shifted their practices as they learn.
 
-#### The Exchange Lab Offers:
-- Facilitated connection with other teams to enable sharing of practices.
-- Re-alignment sessions with the Alliance team and others in the home organization to support reflection on learning, and discover new needs as the team transitions towards sustainment.
-- Broader network insights related to trends in digital service delivery.
+## Measure Results
+
+Agile teams have a high burn rate to solve focused problems founded in user research and other analytics. A Product Owner should be able to identify some key success metrics according to the product vision. The team can help identify the ways this value can be measured.
+
+Each product team will find unique elements to measure. The Exchange Lab can support connection with exemplar teams who do this well, and is working to produce a framework, samples and templates that teams may adopt.
+
+Results may include:
+- improvements to the way the service is delivered (operational efficiency)
+- value of service to the user (e.g. uptake, satisfaction, time to complete)
 
 ## LabOps Resources:
 
 - Lunch-n-Lab (AKA Quarantine & Quaffee): hour long event for active teams and community mentors to share learning.
-  - Facilitators Agenda
+- Value metrics guidance and templates (TBC)
 - Re-alignment Session: 1-2 hours of facilitated reflection and sharing to discover how to optimize in the home stretch.
-  - Facilitator's Agenda
-  - Presentation materials
-  - Pre-survey (or SenseMaker) questions
+  - Facilitator's Agenda (TBC)
+  - Presentation materials (TBC)
+  - Pre-survey (or SenseMaker) questions (TBC)
 
 Key Resources offered by our partners can be found on Digital.gov.bc.ca, such as:
 - [Design Research Guide](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/service-design/methods-and-tools/user-research){: .bc-external_link}.
