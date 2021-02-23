@@ -3,7 +3,7 @@ title: Resource a Team
 permalink: /resource
 
 layout: post
-sidenav: docs
+sidenav: partner
 subnav:
   - text: Evaluate the Total Cost of Ownership
     href: '#evaluate-the-total-cost-of-ownership'
