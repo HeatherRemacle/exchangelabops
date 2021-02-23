@@ -11,7 +11,7 @@ subnav:
   - text: Discover where to Start
     href: '#discover-where-to-start'
   - text: Develop an Alpha Product
-    href: '#develop-alpha'
+    href: '#develop-an-alpha-product'
   - text: LabOps Resources
     href: '#labops-resources'
 ---
