@@ -8,7 +8,7 @@ A secondary audience is our broader ecosystem of partners, including:
 - other public sector agencies within and beyond the Exchange Lab, who are seeking to deliver similar services; and
 - private and non-profit sector partners, seeking to work with BC Public Service teams in the Lab.
 
-This site also serves to support  reliable service by the Exchange Lab Team, who will continuously improve operations.
+This site also serves to support  reliable service by the Exchange Lab Team, who will continuously improve operations. Click the projects tab above to see what we have planned. Click issues above add your own suggestions for improvement.
 
 ##
 
