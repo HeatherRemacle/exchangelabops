@@ -9,7 +9,9 @@ subnav:
     href: '#source-a-team'
   - text: Evaluate the Total Cost of Ownership
     href: '#evaluate-the-total-cost-of-ownership'
-  - text: LabOps resources
+  - text: Engage your CFO
+    href: '#engage-your-cfo'
+  - text: LabOps Resources
     href: '#labops-resources'
 
 ---
@@ -57,8 +59,19 @@ Across an organization, teams may develop specialties for addressing particular 
 
 *As teams have exited the Lab and discovered their pathway to continuous improvement, there are a variety of organization design models emerging. In 2021, we are working to research and understand what is going on to share more broadly. Stay tuned!*
 
-## LabOps resources
+## Engage Your CFO
 
+In Ministry Operations, the Chief Financial Officer supports programs to make sound financial decisions. They can facilitate re-allocation of resources and sourcing new funds.
+
+Agile delivery is challenging our traditional perspectives on the allocation of capital vs. operational funding for "technology" (which is really just embedded with operational services). This means your CFO might benefit from extra support understanding your new circumstances.
+
+The Lab team can work with you and your CFO to connect to others in the public service who have navigated managing these new investment considerations, including risks, associated with Agile product development.
+
+Policy and guidance for this is not yet formally established... but there are plenty of organizations forging a path to this next level of investing in good digital services.
+
+## LabOps Resources
+
+We're currently evaluating what resources would be helpful to place here... share your thoughts with us at exchangelab@gov.bc.ca.
 
 <br/>
 [Back to the Top](#)
