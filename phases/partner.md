@@ -5,6 +5,8 @@ permalink: /partner
 layout: post
 sidenav: partner
 subnav:
+  - text: Timeline
+    href: '#timeline'
   - text: Key Resources
     href: '#key-resources'
 ---
@@ -22,6 +24,24 @@ Prior to partnering with the Exchange, a program area must demonstrate they are:
 - **Continuous:** will deliver value into the foreseeable future, such that a program will dedicate a team to continuously improve the product after it leaves the Lab.
 
 Explore what happens in each of the phases a program goes through during partnership with the Exchange.
+
+## Timeline
+
+Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
+
+**Within a month**, program areas build a team and align their organizaton to support Agile delivery.
+
+**Within two months**, teams clarify the problem they are trying to solve.
+
+**Within three months**, teams build a prototype and engage directly with users to learn what is most important to them.
+
+**Within four months**, teams release a real digital product (considered an alpha product) to users and build trust in their organization that they are making solid progress. They can communicate their "velocity" and have high trust and productivity.
+
+**Within six months**, teams refine the product by getting feedback directly from users. They start coaching other teams and offering solutions back to the community.
+
+**Within eight months**, teams are ready to release a beta product to the public. They have solid infrastructure and technical excellence so that they can quickly respond to changing requirements or unexpected issues. Vendor team mates coach new public service talent that will remain in the team.
+
+**Within a year**, teams are ready to graduate. The product is ready for a live status and ongoing improvements in a stable production environment. The home organization is capable of supporting the ongoing productivity of the team, with new problems to solve.
 
 ## Key Resources
 
