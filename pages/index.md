@@ -52,7 +52,7 @@ We continuously refine and adapt lab operations to the specific context of progr
 
 This diagram illustrates broader connections to our delivery model.
 
-<img height="730" width="620" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
+<img height="730" width="620" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\Lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
 
 ## Delivery Community
 
@@ -143,7 +143,7 @@ Note: We are working on ways to illustrate the return on investment for Agile pr
 | Lab and Learns -  delivered by BCPS employees, vendors, or guest speakers. | 	35 sessions to date with over 1,000 attendees |
 | Webinars - delivered by BCPS employees, vendors, or guest speakers.	| 7 Sessions to date with 330 attendees 330 |
 | Tours of the Lab – Bi-weekly open door tours are a first stop for anyone interested in accessing lab programming. Attendees engage with teams active in the lab to learn about their experience.	| 50 tours with on average 9 attendees per tour. Special tours have been arranged for Deputy Ministers and the Premier’s Office staff. |
-| Partnership with Ontario Digital Services/Apolitical on How to be digital in the Canadian public service: a 10-week online boot camp.|  Just getting started!| 
+| Partnership with Ontario Digital Services/Apolitical on How to be digital in the Canadian public service: a 10-week online boot camp.|  Just getting started!|
 
 <br/>
 [Back to the Top](#)
