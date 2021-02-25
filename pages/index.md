@@ -52,8 +52,7 @@ We continuously refine and adapt lab operations to the specific context of progr
 
 This diagram illustrates broader connections to our delivery model.
 
-<img height="100" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/playbook-icon.png" alt="">
-<!-- <img height="100" width="110" style="display: block; margin-left: auto; margin-right: auto;" src="CITZ-IMB-playbook/assets/img/playbook-icon.png" alt=""> -->
+<img height="730" width="620" style="display: block; margin-left: auto; margin-right: auto;" src="assets/img/lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
 
 ## Delivery Community
 
@@ -91,7 +90,7 @@ Underlying the success of these teams are a variety of centralized services, com
 
 Guidance and playbooks can aid some of the work we do. However, conditions change so rapidly and delivery contexts are too diverse for any ordered list to remain relevant. The evolving knowledge shared by the community is how we keep pace while learning how to be successful in navigating the complexity of people and technology.
 
-The Delivery Network uses a variety of channels to connect. Most prominently:
+The Delivery Network uses a variety of channels to connect. The MS Teams channel internal to the BC Public Service is very active, as is [Rocket.Chat](https://chat.developer.gov.bc.ca/home), which is available to external partners who are authenticated as part of a team in our BCGov Github organization.
 
 - [Learn more about the Digital Delivery and Service Improvement communities you can join on DevHub](https://developer.gov.bc.ca/Community-and-Events/BC-Gov-Development-Community-Events)
 - [Check out this recorded webinar where the Exchange Lab leadership team shares insights into the role the digital delivery community played during pandemic response.](https://youtu.be/DS7jbKE2fUc)
