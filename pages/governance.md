@@ -87,7 +87,7 @@ These sponsors are engaged directly by the Product Owner and by the Alliance tea
 - **Assistant Deputy Ministry (Program area):** Is accountable for the outcomes of the program and for organization health. They should understand the importance of new functions, such as user research, so they can support healthy teams that are meeting users' needs. The ADM needs to champion the change a new Agile team is implementing, including to other executive in the Ministry. The ADM should also be supported to understand new approaches to risk management and finance Agile teams require.
 - **Executive Director (ED):** Coaches the PO to address to Ministry Division priorities and sets expectations for the metrics the team should produce connected to program outcomes. The ED may support the PO to engage other Executive in the organization to address inter-program concerns. The ED should also work to market the work of the team within and beyond the program division, and to direct all staff to engage positively with the team.
 - **Chief Financial Officer:** Should understand how risk and money is managed differently with an Agile approach. They should be made aware of the total cost of ownership and future financial projections for the program to support this team.
--**Chief Information Officer:** Partners with the program area ED and ADM to align or allocate IM/IT resources that may be needed to support product delivery and sustainment.
+- **Chief Information Officer:** Partners with the program area ED and ADM to align or allocate IM/IT resources that may be needed to support product delivery and sustainment.
 
 <br/>
 [Back to the Top](#)
