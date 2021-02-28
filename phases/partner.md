@@ -29,7 +29,7 @@ Explore what happens in each of the phases a program goes through during partner
 
 Not every journey is the same, but given what we have seen to be possible when the right conditions are in place, here is want you can expect from a digital delivery team in the lab:
 
-**Within a month**, program areas build a team and align their organizaton to support Agile delivery.
+**Within a month**, program areas build a team and align their organization to support Agile delivery.
 
 **Within two months**, teams clarify the problem they are trying to solve.
 
@@ -46,6 +46,9 @@ Not every journey is the same, but given what we have seen to be possible when t
 ## Key Resources
 
 #### Before you call us: Challenge Brief Template
+
+<a href="resources\2021-02_Challenge-Brief_Template.pdf" target="_blank"><img height="165" width="200" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_challenge-brief.png" alt="cover page illustration of the challenge brief document"></a>
+
 When potential partners call for help, we always ask:
 > "What do you think the problem is you need to solve?"
 
@@ -59,6 +62,8 @@ We don't want your business requirements document (unless we are having a bon fi
 - Challenge Brief template (.docx)
 
 #### Partnership Agreement Template
+<a href="https://github.com/HeatherRemacle/exchangelabops/blob/master/resources/2021-02-Exchange-Lab-Partnership-Agreement_Template.pdf" target="_blank"><img height="165" width="200" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\coverpage_partnership-agreement.png" alt="cover page illustration of the partnership agreement document"></a>
+
 This agreement is dated by the Lab and the program area during the [onboarding phase](/discover). It is useful to read if you are considering partnership with the Lab, and may be modified to suit unique considerations for each partnership.
 - Partnership Agreement Template (.docx)
 
