@@ -52,7 +52,7 @@ We continuously refine and adapt lab operations to the specific context of progr
 
 This diagram illustrates broader connections to our delivery model.
 
-<img height="600" width="600" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\Lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
+<img height="580" width="600" style="display: block; margin-left: auto; margin-right: auto;" src="assets\img\Lab-value-stream-delivery-model.png" alt="illustration of the lab value stream connecting to institutional enablers and foundational supports">
 
 ## Delivery Community
 
