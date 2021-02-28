@@ -120,6 +120,12 @@ In the live stage:
 * talk about how research results will be used to continuously improve
   the service (e.g. participants, frequency, location, timing)
 
+  #### Tools
+  - <a href="https://bcgov.github.io/design-research-guide/" target="_blank">Design research guide</a>
+
+  #### Supports
+  - User experience (UX) guild: Yammer group; Rocket.Chat channel.
+
 ## 2. Establish the right team
 
 Put a sustained multidisciplinary team in place that can design, build
@@ -167,6 +173,12 @@ At a minimum:
 * continue to improve the service after it’s gone live
 * involve the maintenance team for the service early on in the project
 
+#### Tools:
+-
+
+#### Supports:
+-
+
 ## 3. Be consistent
 
 When the public interacts with the BC government, their experience
@@ -184,36 +196,33 @@ consistent experience for the public. From branding to tone of voice and
 error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
 
 ### How to meet this standard
-
 gov.bc.ca is the government's flagship website. At a minimum:
 
 * add new content to gov.bc.ca, rather than create any new websites or
   mobile applications
 * use an gov.bc.ca/keyword for websites and marketing, rather than
-  register any new public-facing domain names (e.g.
-  gov.bc.ca/digitalthing instead of digitalthing.gov.bc.ca)
+  register any new public-facing domain names (e.g. gov.bc.ca/digitalthing instead of digitalthing.gov.bc.ca)
 * migrate high-demand, priority web content to gov.bc.ca
 * use gov.bc.ca as the front door for all transactional applications on
   other platforms
-* demonstrate how the service has used the BC Government design system (https://developer.gov.bc.ca/Design-System/About)
-* apply gov.bc.ca web & development guides (https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides) to maintain the tone and voice of
-  government content
+* Apply standard BC Government webiste standards and design elements.
 * show core content on gov.bc.ca that’s easy to find, understand and
   use
 * work with the Exchange Lab team
 * demonstrate that the service is responsive, with the same content and
   functionality on all devices, and works on mobile devices
 
-### Laws and rules to follow (to be updated with BC content)
+#### Tools:
 
-* Accessibility -
-  [*Accessibility for Ontarians with Disabilities Act*, Information and Communication Standard](https://www.ontario.ca/laws/regulation/r11191#BK9)
-* French language -
-  [*French Language Services Act*](https://www.ontario.ca/laws/statute/90f32),
-  [Government services in French](https://www.ontario.ca/page/government-services-french)
-* Open data -
-  [Open Data Directive](https://www.ontario.ca/page/ontarios-open-data-directive)
-* Social Media - [Ontario Public Service social media guidelines](https://www.ontario.ca/page/ontario-public-service-social-media-guidelines)
+- Policy Guidance: <a href="https://www2.gov.bc.ca/gov/content/governments/policies-for-government/core-policy/policies/communications-and-public-engagement" target="_blank">CPPM Policy Chapter 22: Communications and Public Engagement</a>
+- <a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/web-content-development-guides" target="_blank">Guides: gov.bc.ca web & development</a>
+- <a href="https://developer.gov.bc.ca/Design-System/About" target="_blank">BC Government design system</a>
+- <a href="https://www2.gov.bc.ca/gov/content/home/accessible-government/toolkit" target="blank"> Accessibility toolkit</a>
+- <a href="https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/social-media-guidelines" target="blank">Social Media Guidelines</a>
+- <a href="https://www2.gov.bc.ca/gov/content/data/open-data" target="blank"> Open Data </a>{: .bc-external_link}.
+
+#### Supports:
+- Connect with the Government Digital Experience Division to get help meeting this standard, in alignment with Core Policy Chapter 22.
 
 ## 4. Design from start to finish
 
