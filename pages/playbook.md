@@ -1,9 +1,9 @@
 ---
-title: Design & Delivery Standard
-permalink: /standard
+title: Design & Delivery Playbook
+permalink: /playbook
 
 layout: post
-sidenav: standard
+sidenav: playbook
 subnav:
   - text: Understand users
     href: '#1-understand-users'
@@ -34,11 +34,24 @@ subnav:
   - text: Test with the minister
     href: '#14-test-with-the-minister'
 ---
-The Exchange community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies.
+Our Exchange Lab community adopts generally accepted modern standards for service design and delivery that have been pioneered, practiced and proven by other government digital service agencies. Here, we present the elements of these standards we've adopted as a **"playbook" for teams seeking to shift their practices and create and run great public services that optimize digital channels.**
 
-These standards are intended to guide service delivery teams to create and run great public services that optimize digital channels. Excellent services are inclusive and may likely include integrated, multi-channel delivery.
+We've gratefully borrowed content from:
+- <a href="https://www.gov.uk/service-manual/service-standard" target="_blank">the UK Digital Service Standard</a>, and
+- <a href="https://www.ontario.ca/page/digital-service-standard" target="_blank"> the Ontario Digital Service Standard</a>.
 
-As an early adopter of other service standards, we've gratefully borrowed content from the UK Service Standard and the Ontario Digital Service Standard. At this time, the Service Design and Delivery Standard we present here is intended only as a practical guide. We do envision that it will be improved and adopted for broader use, with input from those who apply it.
+Each section of this Playbook includes a list of **tools** and **supports** that can help a team make the play. We'll also do our best to indicate where there may be a gap, or resources in progress you might be able to contribute to.
+
+#### Tools may include:
+- **Guidance**: policies, practices and capability-building resources for service design and delivery.
+- **Procurement & finance**: investment, sourcing and contracting instruments to support the acquisition or creation of good services.
+- **Design elements**: colours, layouts and typography to create a consistent experience of services.
+- **Shared platforms**: whole-of-government components, APIs, infrastructure and data.
+
+#### Supports may include:
+- **Governance**: support and strategic decision-making for a whole-of-government approach to service design and delivery.
+- **Leadership**: cross-government networks of servant leaders catalyzing, guiding and coordinating innovative approaches to services.
+- **Community**: Intentional and supported communities of creators and innovators - inside and outside government - with whom to connect, share and learn.
 
 <hr>
 
