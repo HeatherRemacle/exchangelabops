@@ -89,7 +89,7 @@ To inform service features, interview users and gather data to develop:
 * **user profiles** - show user groups based on demographics such as
   gender, age, location, income and family size
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -159,7 +159,7 @@ To be successful, build a team with:
   the service evolves
 * the resources and ability to deliver the product
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -201,7 +201,7 @@ Services delivered online, over the phone or in person should provide a
 consistent experience for the public. From branding to tone of voice and
 error handling, users should always feel confident in their ability to complete the service properly and our ability to guide them to the completion of their task.
 
-### How to meet this standard
+### How to apply this play
 gov.bc.ca is the government's flagship website. At a minimum:
 
 * add new content to gov.bc.ca, rather than create any new websites or
@@ -253,7 +253,7 @@ in person. Every encounter — whether it's online or offline — needs to
 be carefully considered and should help the user get closer to their end
 goal.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -303,7 +303,7 @@ their task. Or they may avoid using it altogether.
 Not only does this lead to higher operational costs, but it also can
 lead to user frustration and a loss of confidence in government.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -354,7 +354,7 @@ digital services to be online 24/7.
 
 This means more satisfied users that have trust in government services.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -404,7 +404,7 @@ digital tools.
 If users find it difficult to complete the task the first time, they may
 avoid using the service or contact your organization to get help.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -453,7 +453,7 @@ Agile methods build services that:
 * can keep improving based on user feedback
 * can be built quickly with a minimum set of features, and enhanced with more features after the service goes live
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -503,7 +503,7 @@ government:
   vendors
 * eliminate potentially restrictive long-term contracts
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -543,7 +543,7 @@ Users won’t use a service unless they have a guarantee:
 * they can access their information in the service when they need to
 * that their privacy is protected while they use the service, and afterwards
 
-### How to meet this standard
+### How to apply this play
 
 In the early stages of development, explain:
 
@@ -607,7 +607,7 @@ Encouraging people to use digital service will:
 * allow non-digital resources to give more attention to those who can’t use digital services on their
   own
 
-### How to meet this standard
+### How to apply this play
 
 In the early stages of development:
 
@@ -662,7 +662,7 @@ digital services. Understand how and where users require
 support, make that support available, and raise awareness of that
 support.
 
-### How to meet this standard
+### How to apply this play
 
 Do user research as early as possible to:
 
@@ -711,7 +711,7 @@ Measuring performance means continuously improving a service by:
 * learning its strengths and weaknesses
 * using data to support changes
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
@@ -751,7 +751,7 @@ Ministers are responsible for delivering on the government’s priorities
 for the people of British Columbia, so you need to show them the digital service
 before it goes live. When the ministers can understand and are experienced with a product, and feel that it is user-centric, they can trust that it will serve the public well.
 
-### How to meet this standard
+### How to apply this play
 
 At a minimum:
 
