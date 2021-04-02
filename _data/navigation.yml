@@ -63,8 +63,8 @@ secondary:
   - text: Provide Feedback
     href: /feedback
     external: false
-  - text: GitHub Source
-    href: https://github.com/bcgov/exchangelabops
+  - text: On GitHub
+    href: https://github.com/bcgov/ExchangeLabOps
     external: true
 
 playbook:
